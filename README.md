@@ -1,6 +1,5 @@
 ## Using GitFlow Workflow and SourceTree
 
-
 ###### 1. Intro
 Even though, you are not a pure developer, you may be interested in benefit from a tool like Git to manage content version like for courses, presentations or any kind of educational materials for instance...etc..
 
