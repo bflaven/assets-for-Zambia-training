@@ -4,6 +4,7 @@
 
 #1001
   Add basic writing, formatting syntax, layout #1
+  Add basic writing, formatting syntax, layout #2
 #1002
 #1003
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
