@@ -1,11 +1,6 @@
 ## Using GitFlow Workflow and SourceTree
 
-<<<<<<< HEAD
-### 1. Intro
-=======
-
 ## 1. Intro
->>>>>>> develop
 Even though, you are not a pure developer, you may be interested in benefit from a tool like Git to manage content version like for courses, presentations or any kind of educational materials for instance...etc..
 
 You can even want to push the boundaries of Git and make the most of it by activating the Gitflow workflow. I will define later what is the Gitflow workflow.
