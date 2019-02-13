@@ -1,10 +1,13 @@
+## Using GitFlow Workflow and SourceTree
 
 <!-- DEPOT
+
 #1001
 #1002
 #1003
--->
 
+-->
+###1. Intro
 Even though, you are not a pure developer, you may be interested in benefit from a tool like Git to manage content version like for courses, presentations or any kind of educational materials for instance...etc..
 
 You can even want to push the boundaries of Git and make the most of it by activating the Gitflow workflow. I will define later what is the Gitflow workflow.
@@ -21,23 +24,21 @@ A Gitflow workflow is a Git workflow pattern or design published and popularized
 
 The Gitflow workflow defines a strict branch creation model designed around the delivery of the project. This provides a solid framework for managing larger projects.
 
-<b>To summarize briefly, this Gitflow workflow is organized around 3 keywords.</b>
+**To summarize briefly, this Gitflow workflow is organized around 3 keywords.**
 
-<ol>
-<li>Feature</li>
-<li>Release</li>
-<li>Hotfix</li>
-</ol>
+1. Feature
+2. Release
+3. Hotfix
 
-<b>My user story is very simple: I want to activate the Gitflow workflow on a local repository and discover through SourceTree the main actions attached to the keywords: Feature, Release, Hotfix.</b>
+**My user story is very simple: I want to activate the Gitflow workflow on a local repository and discover through SourceTree the main actions attached to the keywords: Feature, Release, Hotfix.**
 
-<b>In a second time, my user story will integrate a remote repository. I will open a remote repository on Github and synchronize it with my local repository via a Gitflow workflow.</b>
+**In a second time, my user story will integrate a remote repository. I will open a remote repository on Github and synchronize it with my local repository via a Gitflow workflow.**
 
-<h4>How to set up the workflow Gitflow in a local repository ?</h4>
+###How to set up the workflow Gitflow in a local repository ?
 
 We will see how to setup a local repository and activate the Gitflow workflow.
 
-<h5> 1 - Initialize the repository (01_setup_the_repository)</h5>
+####1 - Initialize the repository (01_setup_the_repository)
 
 Before anything, I will create a repository locally, add only 2 files inside this repository (index.php,README.md). 
 
@@ -54,33 +55,42 @@ touch README.md
 I added some element in the files. I made the initial commit, it creates the "master". 
 
 
+<!-- 
 --- see 8_using_git_for_wp_setup_repo_step_1.png
 --- see 8_using_git_for_wp_setup_repo_step_2.png
 --- see 8_using_git_for_wp_setup_repo_step_3.png
 --- see 8_using_git_for_wp_setup_repo_step_4.png
 --- see 8_using_git_for_wp_setup_repo_step_5.png
---- see 8_using_git_for_wp_setup_repo_step_6.png
+--- see 8_using_git_for_wp_setup_repo_step_6.png 
+-->
 
 
 
 - 2 -  Initialize Gitflow for this repository (02_setup_the_gitflow_for_the_repository)
 I am ready to initialize Gitflow using the Gitflow icon. If you click on the icon, Sourcetree will offer. Keep the configuration as it. As a result, you will have a “master” and a “develop” branch. These 2 branches both share the same files.
 
+<!-- 
 --- see 8_using_git_for_wp_gitflow_repo_step_1.png
 --- see 8_using_git_for_wp_gitflow_repo_step_2.png
+-->
 
 
 
 
 Note that if you cannot find it in the Toolbar's SourceTree. By right-clicking on the Toolbar, you can add the Gitflow icon.
 
+<!-- 
 --- see 8_using_git_for_wp_missing_gitflow_icon_step_1.png
 --- see 8_using_git_for_wp_missing_gitflow_icon_step_2.png
+-->
+
 
 
 One other advice, you can activate the output of the console history, it will probably help you to understand what are the real commands executed by the GUI.
 
+<!-- 
 --- see 8_using_git_for_wp_missing_command_history.png
+ -->
 
 
 - 3 -  Create a feature branch in this repository (03_create_a_feature_branch)
