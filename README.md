@@ -3,6 +3,7 @@
 <!-- DEPOT
 
 #1001
+  Add basic writing, formatting syntax, layout #1
 #1002
 #1003
 
