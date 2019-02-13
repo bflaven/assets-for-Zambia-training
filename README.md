@@ -1,25 +1,5 @@
 ## Using GitFlow Workflow and SourceTree
 
-<<<<<<< HEAD
-<!-- DEPOT
-
-#1001
-  Add basic writing, formatting syntax, layout #1
-  Add basic writing, formatting syntax, layout #2
-  Add basic writing, formatting syntax, layout #3
-  Add basic writing, formatting syntax, layout #4
-#1002
-#1003
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
-
-# The largest heading
-## The second largest heading
-###### The smallest heading
--->
-
-=======
->>>>>>> develop
-
 ### 1. Intro
 Even though, you are not a pure developer, you may be interested in benefit from a tool like Git to manage content version like for courses, presentations or any kind of educational materials for instance...etc..
 
