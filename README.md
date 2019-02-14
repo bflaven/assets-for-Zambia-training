@@ -50,7 +50,7 @@ touch README.md
 I edited the files and add some content inside. I made the initial commit, it creates the "master". 
 
 **As I created my directory locally, I choose "Add Existing Local Repository"**
-![Initialize the repository - Step 1](01_setup_the_repository/using_gitflow_setup_repo_step_1.png)
+![Initialize the repository - Step 1](./01_setup_the_repository/using_gitflow_setup_repo_step_1.png)
 
 **I chose the directory _git-demo_**
 ![Initialize the repository - Step 2](01_setup_the_repository/using_gitflow_setup_repo_step_2.png)
