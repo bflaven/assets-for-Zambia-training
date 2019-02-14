@@ -111,13 +111,13 @@ This is example that I show below...
 Let's say I have picked a ticket on my agile board. The ticket number is #9575673. This ticket consists of changing the readme of the project. You will create a feature branch with the ticket number e.g. #9575673 so you can make comfortably the changes that you want. When you are done, you will have to finish this feature branch.
 
 **I click on Gitflow icon and choose _Start a New Feature_**
-![Create a feature branch with a ticket name - Step 1](./screens/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_1.png)
+![Create a feature branch with a ticket name - Step 1](screens/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_1.png)
 
 **I gave to the feature branch the name of the ticket _#9575673_**
-![Create a feature branch with a ticket name - Step 2](./screens/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_2.png)
+![Create a feature branch with a ticket name - Step 2](screens/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_2.png)
 
 **A new feature branch named _#9575673_ appeared**
-![Create a feature branch with a ticket name - Step 3](./screens/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_3.png)
+![Create a feature branch with a ticket name - Step 3](screens/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_3.png)
 
 *All the screen captures can be found in the directory 03_create_a_feature_branch of the Github project*
 
