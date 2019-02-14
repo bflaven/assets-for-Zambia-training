@@ -6,6 +6,7 @@ How things run under the hood...
 ### Setup your environment
 
 **Using SourceTree with Gitflow workflow**
+
 A quick introduction to cover on how using Git for WP, feature branching with ticket system.
 
 
