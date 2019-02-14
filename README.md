@@ -1,6 +1,9 @@
 ## Using GitFlow Workflow and SourceTree
+<<<<<<< HEAD
  
 **A quick presentation with screen captures of the GitFlow Workflow managed by SourceTree. A best practice whether you develop a WordPress plugin or need to version a final document.**
+=======
+>>>>>>> master
 
 ## 1. Intro
 Even though, you are not a pure developer, you may be interested in benefit from a tool like Git to manage content version like for courses, presentations or any kind of educational materials for instance...etc..
