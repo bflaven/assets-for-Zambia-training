@@ -50,22 +50,22 @@ touch README.md
 I edited the files and add some content inside. I made the initial commit, it creates the "master". 
 
 **As I created my directory locally, I choose "Add Existing Local Repository"**
-![Initialize the repository - Step 1](8_using_gitflow/01_setup_the_repository/using_gitflow_setup_repo_step_1.png)
+![Initialize the repository - Step 1](01_setup_the_repository/using_gitflow_setup_repo_step_1.png)
 
 **I chose the directory _git-demo_**
-![Initialize the repository - Step 2](8_using_gitflow/01_setup_the_repository/using_gitflow_setup_repo_step_2.png)
+![Initialize the repository - Step 2](01_setup_the_repository/using_gitflow_setup_repo_step_2.png)
 
 **I defined it the directory _git-demo_ as a git repository**
-![Initialize the repository - Step 3](8_using_gitflow/01_setup_the_repository/using_gitflow_setup_repo_step_3.png)
+![Initialize the repository - Step 3](01_setup_the_repository/using_gitflow_setup_repo_step_3.png)
 
 **A new shortcut is created _git-demo_**
-![Initialize the repository - Step 4](8_using_gitflow/01_setup_the_repository/using_gitflow_setup_repo_step_4.png)
+![Initialize the repository - Step 4](01_setup_the_repository/using_gitflow_setup_repo_step_4.png)
 
 **I made the initial commit with 2 files: index.php, README.md**
-![Initialize the repository - Step 5](8_using_gitflow/01_setup_the_repository/using_gitflow_setup_repo_step_5.png)
+![Initialize the repository - Step 5](01_setup_the_repository/using_gitflow_setup_repo_step_5.png)
 
 **For the moment, there is only 1 branch named _master_**
-![Initialize the repository - Step 6](8_using_gitflow/01_setup_the_repository/using_gitflow_setup_repo_step_6.png)
+![Initialize the repository - Step 6](01_setup_the_repository/using_gitflow_setup_repo_step_6.png)
 
 *The screen captures can be found in the directory 01_setup_the_repository of the github project*
 
@@ -73,28 +73,28 @@ I edited the files and add some content inside. I made the initial commit, it cr
 I am ready to initialize Gitflow using the Gitflow icon. If you click on the icon, Sourcetree will offer. Keep the configuration as it is. As a result, you will have a “master” and a “develop” branch. These 2 branches both share the same files.
 
 **I click on Gitflow icon and keep the configuration as it is for the repository**
-![Initialize Gitflow for the repository - Step 1](8_using_gitflow/02_setup_the_gitflow_for_the_repository/using_gitflow_setup_gitflow_repo_step_1.png)
+![Initialize Gitflow for the repository - Step 1](02_setup_the_gitflow_for_the_repository/using_gitflow_setup_gitflow_repo_step_1.png)
 
 
 **As a result of a initializing Gitflow, 2 branches _master_ and _develop_ are created**
-![Initialize Gitflow for the repository - Step 2](8_using_gitflow/02_setup_the_gitflow_for_the_repository/using_gitflow_setup_gitflow_repo_step_2.png)
+![Initialize Gitflow for the repository - Step 2](02_setup_the_gitflow_for_the_repository/using_gitflow_setup_gitflow_repo_step_2.png)
 
 
 #### Question : I Cannot find the Gitflow icon in the Toolbar's SourceTree ?
 If you cannot find it in the Toolbar's SourceTree. By right-clicking on the Toolbar, you can add the Gitflow icon.
 
 **Right-click on the toolbar and choose _Customize Toolbar..._**
-![I Cannot find the Gitflow icon in the Toolbar's SourceTree ? - Step 1](8_using_gitflow/02_setup_the_gitflow_for_the_repository/using_gitflow_missing_gitflow_icon_step_1.png)
+![I Cannot find the Gitflow icon in the Toolbar's SourceTree ? - Step 1](02_setup_the_gitflow_for_the_repository/using_gitflow_missing_gitflow_icon_step_1.png)
 
 **Drag the Gitflow icon into the toolbar**
-![I Cannot find the Gitflow icon in the Toolbar's SourceTree ? - Step 1](8_using_gitflow/02_setup_the_gitflow_for_the_repository/using_gitflow_missing_gitflow_icon_step_2.png)
+![I Cannot find the Gitflow icon in the Toolbar's SourceTree ? - Step 1](02_setup_the_gitflow_for_the_repository/using_gitflow_missing_gitflow_icon_step_2.png)
 
 
 One other advice, you can activate the output of the console history, it will probably help you to understand what are the real commands executed by the GUI.
 
 
  **Hide or Show the Command History**
-![Hide or Show the Command History - Step 1](8_using_gitflow/02_setup_the_gitflow_for_the_repository/using_gitflow_missing_command_history.png)
+![Hide or Show the Command History - Step 1](02_setup_the_gitflow_for_the_repository/using_gitflow_missing_command_history.png)
 
 *All the screen captures can be found in the directory 02_setup_the_gitflow_for_the_repository of the Github project*
 
@@ -111,13 +111,13 @@ This is example that I show below...
 Let's say I have picked a ticket on my agile board. The ticket number is #9575673. This ticket consists of changing the readme of the project. You will create a feature branch with the ticket number e.g. #9575673 so you can make comfortably the changes that you want. When you are done, you will have to finish this feature branch.
 
 **I click on Gitflow icon and choose _Start a New Feature_**
-![Create a feature branch with a ticket name - Step 1](8_using_gitflow/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_1.png)
+![Create a feature branch with a ticket name - Step 1](03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_1.png)
 
 **I gave to the feature branch the name of the ticket _#9575673_**
-![Create a feature branch with a ticket name - Step 2](8_using_gitflow/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_2.png)
+![Create a feature branch with a ticket name - Step 2](03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_2.png)
 
 **A new feature branch named _#9575673_ appeared**
-![Create a feature branch with a ticket name - Step 3](8_using_gitflow/03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_3.png)
+![Create a feature branch with a ticket name - Step 3](03_create_a_feature_branch/using_gitflow_create_a_feature_branch_ticket_step_3.png)
 
 *All the screen captures can be found in the directory 03_create_a_feature_branch of the Github project*
 
@@ -136,22 +136,22 @@ When you finished your work on this branch. It means that you want that your fea
 
 
 **I made some change in the README.md**
-![Finish a feature branch in this repository - Step 1](8_using_gitflow/04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_1.png)
+![Finish a feature branch in this repository - Step 1](04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_1.png)
 
 
 **I committed them in the feature branch named _#9575673_**
-![Finish a feature branch in this repository - Step 2](8_using_gitflow/04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_2.png)
+![Finish a feature branch in this repository - Step 2](04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_2.png)
 
 **I click on Gitflow icon, choose _Finish Current_. By default, SourceTree is handling the management of the feature branch _#9575673_**
-![Finish a feature branch in this repository - Step 4](8_using_gitflow/04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_4.png)
+![Finish a feature branch in this repository - Step 4](04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_4.png)
 
 
 **Clicking on OK will merge feature branch into the "develop" branch. It will simultaneously delete the feature branch**
-![Finish a feature branch in this repository - Step 5](8_using_gitflow/04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_5.png)
+![Finish a feature branch in this repository - Step 5](04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_5.png)
 
 
 **The feature branch _#9575673_ has disappeared**
-![Finish a feature branch in this repository - Step 6](8_using_gitflow/04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_6.png)
+![Finish a feature branch in this repository - Step 6](04_finishing_a_feature_branch/using_gitflow_finishing_a_feature_branch_ticket_nb_step_6.png)
 
 *All the screen captures can be found in the directory 04_finishing_a_feature_branch_ticket_nb of the Github project*
 
@@ -164,14 +164,14 @@ For the version, think of WordPress for instance, it is a good source of inspira
 https://wordpress.org/news/category/releases/
 
 **I click on Gitflow icon, choose _Start a New Release_**
-![Start a release branch - Step 1](8_using_gitflow/05_create_a_release_branch/05_create_a_release_branch_step_1.png)
+![Start a release branch - Step 1](05_create_a_release_branch/05_create_a_release_branch_step_1.png)
 
 **Type the version number, in our case it is _version 1.0.0_**
-![Start a release branch - Step 2](8_using_gitflow/05_create_a_release_branch/05_create_a_release_branch_step_2.png)
+![Start a release branch - Step 2](05_create_a_release_branch/05_create_a_release_branch_step_2.png)
 *SourceTree add automatically a _ instead of an empty space in the name version 1.0.0*
 
 **A new version is available under the name _version 1.0.0_**
-![Start a release branch - Step 3](8_using_gitflow/05_create_a_release_branch/05_create_a_release_branch_step_3.png)
+![Start a release branch - Step 3](05_create_a_release_branch/05_create_a_release_branch_step_3.png)
 
 *All the screen captures can be found in the directory 05_create_a_release_branch of the Github project*
 
@@ -184,11 +184,11 @@ Let's you can indicate a quick description of your commit with help of the ticke
 *As you can see in the screen captures my release branch version is 1.0.1 even though the version was 1.0.0, it is only because when I made this captures set the release branch version 1.0.0 was already merged! Apologize for that.*
 
 **I click on Gitflow icon, choose _Finish Current_. By default, SourceTree is handling the management of the release branch _version 1.0.1_**
-![Finish a release branch - Step 1](8_using_gitflow/06_finishing_a_release_branch/06_finishing_a_release_branch_step_1.png)
+![Finish a release branch - Step 1](06_finishing_a_release_branch/06_finishing_a_release_branch_step_1.png)
 
 
 **The release branch _version 1.0.1_ is merged into the _develop_ branch**
-![Finish a release branch - Step 3](8_using_gitflow/06_finishing_a_release_branch/06_finishing_a_release_branch_step_3.png)
+![Finish a release branch - Step 3](06_finishing_a_release_branch/06_finishing_a_release_branch_step_3.png)
 
 
 *The screen captures can be found in the directory 06_finish_a_release_branch of the Github project*
@@ -203,19 +203,19 @@ Tagging you release is optional but you better tag it. Remember that will be a m
 It is always good to tag your Hotfix e.g. Update readme #9575675
 
 **I click on Gitflow icon in order to select the Hotfix feature**
-![Create and Finish a Hotfix - Step 1](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_1.png)
+![Create and Finish a Hotfix - Step 1](07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_1.png)
 
 **Type the name of your Hotfix _Update readme #9575675_**
-![Create and Finish a Hotfix - Step 2](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_2.png)
+![Create and Finish a Hotfix - Step 2](07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_2.png)
 
 **On the _develop_ branch to create the Hostfix Branch**
-![Create and Finish a Hotfix - Step 3](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_3.png)
+![Create and Finish a Hotfix - Step 3](07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_3.png)
 
 **SourceTree create the Hostfix Branch _Update readme #9575675_**
-![Create and Finish a Hotfix - Step 4](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_4.png)
+![Create and Finish a Hotfix - Step 4](07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_4.png)
 
 **I click on Gitflow icon in order to finish the Hotfix feature _Update readme #9575675_**
-![Create and Finish a Hotfix - Step 5](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_5.png)
+![Create and Finish a Hotfix - Step 5](07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_5.png)
 
 *The screen captures can be found in the directory 07_create_finish_a_hotfix of the Github project*
 
