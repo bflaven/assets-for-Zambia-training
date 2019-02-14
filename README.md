@@ -220,4 +220,33 @@ It is always good to tag your Hotfix e.g. Update readme #9575675
 *The screen captures can be found in the directory 07_create_finish_a_hotfix of the Github project*
 
 ## 8 -  Conclusion
+So here is a good step by step to introduce how to activate and use the Gitflow workflow with the help is of SourceTree. Using SourceTree is much more easy and convenient than doing it via the command-line but by the time you get familiar with Gitflow, you will probably jump to the console.
+
+*Below some resources that may help you to go further.*
+
+
+## 9 -  Read more
+
+[A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
+
+
+[Continuous delivery workflows with the branch-per-issue model](https://www.atlassian.com/continuous-delivery/principles/workflows-with-feature-branching-and-gitflow)
+
+
+[Workflow for Git feature branching](https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html)
+
+[Git Flow Part 1 - What is Git Flow](https://www.youtube.com/watch?v=6LhTe8Mz6jM)
+
+[Git Flow Part 2 - Using Git Flow in Source Tree Tutorial](https://www.youtube.com/watch?v=z53JJ7P78Vc)
+
+[Getting started with Git using SourceTree - Part 1: Version control](https://www.youtube.com/watch?v=UD7PV8auGLg)
+
+
+[GitHub For Beginners: Commit, Push And Go](https://readwrite.com/2013/10/02/github-for-beginners-part-2/)
+
+[Useful git commands for everyday use!](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
+
+
+
+[Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
