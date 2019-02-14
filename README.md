@@ -224,9 +224,3 @@ It is always good to tag your Hotfix e.g. Hotfix 1 #9575675 Update: various upda
 
 ## 8 -  Conclusion
 
-
-
-
-
-
-
