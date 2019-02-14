@@ -200,24 +200,21 @@ Make sure you are on the "develop" branch then Click on the Gitflow icon and sel
 Change made in feature #9575676
 Tagging you release is optional but you better tag it. Remember that will be a milestone in your development history.
 
+It is always good to tag your Hotfix e.g. Update readme #9575675
 
-This is the version 1.0.1 for my project including tickets #9575673, #9575674 Fix: The number in the loop in index.php; Comment the first version of variable paragraph in index.php | Enhancement: The management of accents in index.php | Update: Updated the readme.txt file.
-
-It is always good to tag your Hotfix e.g. Hotfix 1 #9575675 Update: various updates in readme file
-
-**text**
+**I click on Gitflow icon in order to select the Hotfix feature**
 ![Create and Finish a Hotfix - Step 1](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_1.png)
 
-**text**
+**Type the name of your Hotfix _Update readme #9575675_**
 ![Create and Finish a Hotfix - Step 2](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_2.png)
 
-**text**
+**On the _develop_ branch to create the Hostfix Branch**
 ![Create and Finish a Hotfix - Step 3](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_3.png)
 
-**text**
+**SourceTree create the Hostfix Branch _Update readme #9575675_**
 ![Create and Finish a Hotfix - Step 4](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_4.png)
 
-**text**
+**I click on Gitflow icon in order to finish the Hotfix feature _Update readme #9575675_**
 ![Create and Finish a Hotfix - Step 5](8_using_gitflow/07_create_finish_a_hotfix/07_create_finish_a_hotfix_step_5.png)
 
 *The screen captures can be found in the directory 07_create_finish_a_hotfix of the Github project*
