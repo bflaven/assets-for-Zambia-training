@@ -2,6 +2,9 @@
 # Set up a local environment for WordPress (WP)
 An article to help you out to set a proper local environment for WordPress with a strong focus on Docker. **This a complete setup guide for WP in Docker**
 
+**All the resources used in that article are available in the directory of the Github account @ [/7_set_up_a_local_environment/00_files_for_install_wp/](/7_set_up_a_local_environment/00_files_for_install_wp/ target="_blank")**
+
+
 **<a href="#define">(A) Define your needs and make your choice for your local environment** &#8595;</a><br>
 **<a href="#using">(B) Using Docker for WordPress** &#8595;</a><br>
 **<a href="#launch">(C) Launch the install of your WordPress with Docker** &#8595;</a><br>
@@ -35,8 +38,8 @@ Anyway, I advise you to read the excellent matrix of pros and cons made by the w
 ![The chart that summarize the pros and the cons for each possible solutions](01_set_up_a_local_environment/00_codeinwp_local_wordpress_development_tools.jpg)
 *Copyright © CodeinWP*
 
-Source: [5 of the Best Local WordPress Development Tools Compared for 2019](https://www.codeinwp.com/blog/local-wordpress-development-tools/)
-
+Source: <a href="https://www.codeinwp.com/blog/local-wordpress-development-tools/" target="_blank">5 of the Best Local WordPress Development Tools Compared for 2019</a>
+- 
 
 **For my personal usage, I will go for MAMP.**
 
@@ -54,15 +57,18 @@ It's more what Docker produces than the definition that interests us!
 
 > Docker is used to run software packages called containers. Containers are isolated from each other and bundle their own application, tools, libraries and configuration files; they can communicate with each other through well-defined channels.
 
-[More informations on Docker](https://www.docker.com/)
+<a href="https://www.docker.com/" target="_blank">More informations on Docker</a>
+
 
 **Some direct links for installation**
 
 Pick-up your Docker version and just follow the install it. It is very intuitive.
 
-- A nice & short introduction to Docker: [Docker for Developers](https://www.docker.com/get-started)
-- For Windows: [Get started with Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
-- For Mac: [Install Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/install/)
+- <a href="https://www.docker.com/get-started" target="_blank">A nice & short introduction to Docker: Docker for Developers</a>
+
+- <a href="https://docs.docker.com/docker-for-windows/install/" target="_blank">For Windows: Get started with Docker for Windows</a>
+
+- <a href="https://docs.docker.com/docker-for-mac/install/" target="_blank">For Mac: Install Docker Desktop for Mac</a>
 
 <a id="using"></a>
 ## (B) Using Docker for WordPress <a href="#top">&#8593;</a>
@@ -453,62 +459,55 @@ $ docker rmi -f $(docker images -q)
 ## (F) More resources <a href="#top">&#8593;</a>
 
 
+- Setting up WordPress with Docker<br><a href="https://cntnr.io/setting-up-wordpress-with-docker-262571249d50" target="_blank">https://cntnr.io/setting-up-wordpress-with-docker-262571249d50</a>
 
-[text](https://cntnr.io/setting-up-wordpress-with-docker-262571249d50)
 
-[text](https://joshmobley.net/writing/2017/04/09/easy-wordpress-migration-with-docker.html)
+- EASY WORDPRESS MIGRATION WITH DOCKER<br><a href="https://joshmobley.net/writing/2017/04/09/easy-wordpress-migration-with-docker.html" target="_blank">https://joshmobley.net/writing/2017/04/09/easy-wordpress-migration-with-docker.html</a>
+
  
-[Running Wordpress In Docker For The First Time](https://vsupalov.com/docker-wordpress-start/)
+- Running Wordpress In Docker For The First Time<br><a href="https://vsupalov.com/docker-wordpress-start/" target="_blank">https://vsupalov.com/docker-wordpress-start/</a>
 
 
-[DOCKER + WORDPRESS SETUP](https://davidyeiser.com/tutorial/docker-wordpress-theme-setup)
- 
-
-[A Quick Guide to Local WordPress Development Using Docker](https://themeisle.com/blog/local-wordpress-development-using-docker/)
-
-
-[Setup a local WordPress development environment with Docker](https://visible.vc/engineering/docker-environment-for-wordpress/)
-
-[Dockerize Local Bedrock & Sage Development with Lando](https://roots.io/guides/dockerize-local-bedrock-and-sage-development-with-lando/)
-
-[Local WordPress Development with Docker and Docker Compose](https://urre.me/writings/docker-for-local-wordpress-development/)
-
-
-[Set up WordPress with Docker... Fast!](https://www.youtube.com/watch?v=pkp_Dr_4pOA)
-
-
-[text](https://www.youtube.com/watch?v=CtG3VGKq1ss)
-
-
-[must have](https://pantheon.io/docs/local-development/)
-
-[excellent](https://medium.com/@22acacia_cr/using-lando-docker-and-wordpress-bb5f236d98b7)
-
-
-[text](https://joshpress.net/create-a-wordpres-site-with-lando/)
-
-
-[text](https://github.com/ten7/flight-deck)
-
-
-[portainer.io](https://portainer.io)
-
-
-[Lando Dev Docksal - Battle Royale of local development](https://www.youtube.com/watch?v=SICvFbrikQE)
+- DOCKER + WORDPRESS SETUP<br><a href="https://davidyeiser.com/tutorial/docker-wordpress-theme-setup" target="_blank">https://davidyeiser.com/tutorial/docker-wordpress-theme-setup</a>
  
 
-[Using Bedrock and Sage for a better WordPress Workflow](https://www.youtube.com/watch?v=MTeRGIc8WXE)
+- A Quick Guide to Local WordPress Development Using Docker<br><a href="https://themeisle.com/blog/local-wordpress-development-using-docker/" target="_blank">https://themeisle.com/blog/local-wordpress-development-using-docker/</a>
+
+- Setup a local WordPress development environment with Docker<br><a href="https://visible.vc/engineering/docker-environment-for-wordpress/" target="_blank">https://visible.vc/engineering/docker-environment-for-wordpress/</a>
 
 
-[text](https://visible.vc/engineering/docker-environment-for-wordpress/)
+- Dockerize Local Bedrock & Sage Development with Lando<br><a href="https://roots.io/guides/dockerize-local-bedrock-and-sage-development-with-lando/" target="_blank">https://roots.io/guides/dockerize-local-bedrock-and-sage-development-with-lando/</a>
+
+- Local WordPress Development with Docker and Docker Compose<br><a href="https://urre.me/writings/docker-for-local-wordpress-development/" target="_blank">https://urre.me/writings/docker-for-local-wordpress-development/</a>
 
 
-[text](https://medium.com/@tatemz/local-wordpress-development-with-docker-3-easy-steps-a7c375366b9)
+- Set up WordPress with Docker... Fast!<br><a href="https://www.youtube.com/watch?v=pkp_Dr_4pOA" target="_blank">https://www.youtube.com/watch?v=pkp_Dr_4pOA</a>
 
 
-[text](https://docs.docker.com/compose/wordpress/)
+- pantheon.io // Local Development<br><a href="https://pantheon.io/docs/local-development/" target="_blank">https://pantheon.io/docs/local-development/</a>
 
-[text](http://blog.michaelperrin.fr/2018/10/26/automate-wordpress-part-1/)
+- Using Lando, Docker and Wordpress<br><a href="https://medium.com/@22acacia_cr/using-lando-docker-and-wordpress-bb5f236d98b7" target="_blank">https://medium.com/@22acacia_cr/using-lando-docker-and-wordpress-bb5f236d98b7</a>
+
+- Create A WordPress Site With Lando<br><a href="https://joshpress.net/create-a-wordpres-site-with-lando/" target="_blank">https://joshpress.net/create-a-wordpres-site-with-lando/</a>
+
+
+- A set of Docker containers for local Drupal development<br><a href="https://github.com/ten7/flight-deck" target="_blank">https://github.com/ten7/flight-deck</a>
+
+
+- portainer.io // MAKING DOCKER MANAGEMENT EASY<br><a href="https://portainer.io" target="_blank">https://portainer.io</a>
+
+
+- Lando Dev Docksal - Battle Royale of local development<br><a href="https://www.youtube.com/watch?v=SICvFbrikQE" target="_blank">https://www.youtube.com/watch?v=SICvFbrikQE</a>
+ 
+
+- Using Bedrock and Sage for a better WordPress Workflow<br><a href="https://www.youtube.com/watch?v=MTeRGIc8WXE" target="_blank">https://www.youtube.com/watch?v=MTeRGIc8WXE</a>
+
+
+- Local WordPress Development with Docker: 3 Easy Steps<br><a href="https://medium.com/@tatemz/local-wordpress-development-with-docker-3-easy-steps-a7c375366b9" target="_blank">https://medium.com/@tatemz/local-wordpress-development-with-docker-3-easy-steps-a7c375366b9</a>
+
+- docs.docker.com // Quickstart: Compose and WordPress<br><a href="https://docs.docker.com/compose/wordpress/" target="_blank">https://docs.docker.com/compose/wordpress/</a>
+
+- Wordpress the right way (part 1): setup<br><a href="http://blog.michaelperrin.fr/2018/10/26/automate-wordpress-part-1/" target="_blank">http://blog.michaelperrin.fr/2018/10/26/automate-wordpress-part-1/</a>
 
 
 
