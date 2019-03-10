@@ -1,3 +1,4 @@
+<a id="top"></a>
 # assets-for-Zambia-training
 How things run under the hood...
 
@@ -5,10 +6,11 @@ How things run under the hood...
 
 ### Setup your environment
 
-**Using SourceTree with Gitflow workflow**
-
+- <a href="/8_using_gitflow/">**Using SourceTree with Gitflow workflow** &#8594;</a>
 A quick introduction to cover on how using Git for WP, feature branching with ticket system.
 
+- <a href="/7_set_up_a_local_environment/">**Set up a local environment for WordPress (WP)** &#8594;</a>
+An article to help you out to set a proper local environment for WordPress with a strong focus on Docker.
 
 
  
