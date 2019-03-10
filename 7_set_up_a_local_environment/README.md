@@ -38,8 +38,7 @@ Anyway, I advise you to read the excellent matrix of pros and cons made by the w
 ![The chart that summarize the pros and the cons for each possible solutions](01_set_up_a_local_environment/00_codeinwp_local_wordpress_development_tools.jpg)
 *Copyright © CodeinWP*
 
-Source: <a href="https://www.codeinwp.com/blog/local-wordpress-development-tools/" target="_blank">5 of the Best Local WordPress Development Tools Compared for 2019</a>
-- 
+Source: <a href="https://www.codeinwp.com/blog/local-wordpress-development-tools/" target="_blank">5 of the Best Local WordPress Development Tools Compared for 2019</a> 
 
 **For my personal usage, I will go for MAMP.**
 
