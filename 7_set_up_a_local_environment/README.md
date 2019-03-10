@@ -22,8 +22,8 @@ That way, you can tinker with your content, plugins, themes, and sites all you w
 There are only 2 questions remaining:
 
 
-- **Which local WordPress development tools are the best fit for your needs?**
-- **How can you eventually share this environment with people you are working with?**
+1. **Which local WordPress development tools are the best fit for your needs?**
+2. **How can you eventually share this environment with people you are working with?**
 
 I add this second question because it will sustains a much more #DevOps orientation in your company. #DevOps that can be define by a better collaboration and tighter integration.
 
