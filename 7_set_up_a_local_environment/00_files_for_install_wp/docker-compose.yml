@@ -1,0 +1,57 @@
+version: '3.1'
+
+services:
+ 
+ #DATABASE
+ #Description: Do not change db top anything if you want to easily connect with phpmyadmin
+ db:
+   image: mysql:5.7
+   restart: always
+   environment:
+    MYSQL_ROOT_PASSWORD: zambia_root_password
+    MYSQL_DATABASE: zambia_wordpress
+    MYSQL_USER: zambia_wordpress
+    MYSQL_PASSWORD: zambia_wordpress_password
+   #Description: Feel free to uncommant the lines below to keep your database data on your computer.
+   #volumes: 
+   #  - ./db:/var/lib/mysql
+
+ #CMS
+ #Description: Launch the famous WP 5 min install via the browser at the URL: http://localhost:8080/
+ wordpress:
+   image: wordpress
+   restart: always
+   ports:
+     - 8080:80
+   depends_on:
+         - db
+   environment:
+      WORDPRESS_VERSION: 5.1
+      WORDPRESS_LOCALE: en_US
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: zambia_wordpress
+      WORDPRESS_DB_USER: zambia_wordpress
+      WORDPRESS_DB_PASSWORD: zambia_wordpress_password
+   # Keep your data
+   volumes: 
+     - ./site:/var/www/html/
+ #CLI
+ #Description: With make cli, define in the makefile, you access to a WP-CLI for your WP install and pass the tradcionnal commands such as: wp theme list, wp post list, wp post generate --count=100 and so on
+ cli:
+      image: wordpress:cli
+      user: xfs
+      volumes:
+        - ./site:/var/www/html
+      working_dir: /var/www/html
+
+ #PHPMYADMIN
+ #Description: After the famous WP 5 min install, you can connect to the WP database via phpmyadmin at http://localhost:22222/ with the root user or the one use of the WP install
+ phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      ports:
+          - "22222:80"
+      depends_on:
+          - db
+
+ 
+
