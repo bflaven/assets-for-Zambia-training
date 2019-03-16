@@ -181,7 +181,11 @@ services:
    # Keep your data and access via the console
    volumes: 
      - ./site:/var/www/html/
- 
+
+    # CAUTION 
+    #to ensure that you can edit the files of the WP install on your computer with your favorite editor
+    #- [path-to-the-wp-files-on-your-local-computer]/site/:/var/www/html/
+
  #CLI
  #Description: With make cli, define in the makefile, you access to a WP-CLI for your WP install and pass the tradcionnal commands such as: wp theme list, wp post list, wp post generate --count=100 and so on
  #To access to the console in bash for WP-CLI, run the command below in a second tab of the console
