@@ -22,7 +22,7 @@ If you are tired to buy a theme on some market place and feel ready to start you
 
 - **NOTE 2:** Just to prove my degree of involvement, I am the first guinea pig for my experiments on website optimization. I am testing on 2 websites:
     - My personal blog: <a href="http://flaven.fr/" target="_blank">http://flaven.fr/</a> 
-    - Use the website for experiments: <a href="http://dev-test-bf-wp.pantheonsite.io/" target="_blank">http://dev-test-bf-wp.pantheonsite.io/</a>**
+    - Use the website for experiments: <a href="http://dev-test-bf-wp.pantheonsite.io/" target="_blank">http://dev-test-bf-wp.pantheonsite.io/</a>
 
 
 
