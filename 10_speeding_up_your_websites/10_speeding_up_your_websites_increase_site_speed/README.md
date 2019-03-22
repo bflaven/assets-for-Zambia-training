@@ -5,7 +5,7 @@ An article about the keys factors to improve speed of an existing website made w
 
 **All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed/](/10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speeds/)**
 
-**<a href="#1_speed">1. Speed, Speed... is all about speed!** &#8595;</a><br>
+**<a href="#1_speed">1. Speed, Speed... it is all about speed!** &#8595;</a><br>
 **<a href="#2_speed">2. How to Check Your WordPress Website Speed?** &#8595;</a><br>
 **<a href="#3_speed">3. Enable Gzip compression** &#8595;</a><br>
 **<a href="#4_speed">4. Optimize Images** &#8595;</a><br>
@@ -24,7 +24,7 @@ An article about the keys factors to improve speed of an existing website made w
 
 
 <a id="1_speed"></a>
-### 1. Speed, Speed... is all about speed! <a href="#top">&#8593;</a>
+### 1. Speed, Speed... it is all about speed! <a href="#top">&#8593;</a>
 
 "Bye bye slowness, Hello Speed"... The speed is key, you must kill slowness by any means. Why speed is so important? Because, it is key factor to increases the website usability. The website have to be fast or at least, gives the impression of Speed!
 
