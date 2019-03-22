@@ -453,7 +453,7 @@ Unordered list of tools to diagnose, audit and optimize your WP database by perf
 
 - Cleanup your database with WP-Sweep <a href="https://fr.wordpress.org/plugins/wp-sweep/" target="_blank">https://fr.wordpress.org/plugins/wp-sweep/</a>
 
-**12.1 few plugins to go further**
+**12.1 Few plugins to go further**
 
 Clearfy all-in-one: A good plugin that concentrate a lot of good practices for you and that is very educational with its explanations for each action that you may perform.
 Clearfy – WordPress optimization plugin and disable ultimate tweaker
@@ -464,7 +464,7 @@ Some plugins allows you to complete your WordPress performance tuning inside of 
 - Query Monitor // <a href="https://wordpress.org/plugins/query-monitor/" target="_blank">https://wordpress.org/plugins/query-monitor/</a>
 - P3 (Plugin Performance Profiler) // <a href="https://pe.wordpress.org/plugins/p3-profiler/" target="_blank">https://pe.wordpress.org/plugins/p3-profiler/</a>
 
-**12.2 one short word on New Relic**
+**12.2 One short word on New Relic**
 
 There a great tool named New Relic but it is often bundle with your hosting system. For instance, in Pantheon, you got it when you subscribe to their services for free.
 
