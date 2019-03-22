@@ -3,7 +3,7 @@
 
 An article about the keys factors to improve speed of an existing website made with WP.
 
-**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed.md](/10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed.md)**
+**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed/](/10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speeds/)**
 
 **<a href="#1_speed">1. Speed, Speed... is all about speed!** &#8595;</a><br>
 **<a href="#2_speed">2. How to Check Your WordPress Website Speed?** &#8595;</a><br>

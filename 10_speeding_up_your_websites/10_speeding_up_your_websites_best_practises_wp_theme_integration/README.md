@@ -14,7 +14,7 @@
 
 
 
-**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration.md](/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration.md)**
+**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/](/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/)**
 
 <a id="1_bestpractises"></a>
 ## 1. Some requirements <a href="#top">&#8593;</a>
