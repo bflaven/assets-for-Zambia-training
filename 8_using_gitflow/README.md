@@ -1,8 +1,21 @@
+<a id="top"></a>
 ## Using GitFlow Workflow and SourceTree
  
 **A quick presentation with screen captures of the GitFlow Workflow managed by SourceTree. A best practice whether you develop a WordPress plugin or need to version a final document.**
 
-## 1. Intro
+**<a href="#1_gitflow">1. Intro** &#8595;</a><br>
+**<a href="#2_gitflow">2. How to set up the workflow Gitflow in a local repository ?** &#8595;</a><br>
+**<a href="#3_gitflow">3. Initialize Gitflow for the repository** &#8595;</a><br>
+**<a href="#4_gitflow">4. Create a feature branch in this repository** &#8595;</a><br>
+**<a href="#5_gitflow">5. Finish a feature branch in this repository** &#8595;</a><br>
+**<a href="#6_gitflow">6. Start a release branch** &#8595;</a><br>
+**<a href="#7_gitflow">7. Finish a release branch** &#8595;</a><br>
+**<a href="#8_gitflow">8. Create and Finish a Hotfix** &#8595;</a><br>
+**<a href="#9_gitflow">9. Conclusion** &#8595;</a><br>
+**<a href="#10_gitflow">10.Read more** &#8595;</a><br>
+
+<a id="1_gitflow"></a>
+## 1. Intro <a href="#top">&#8593;</a>
 Even though, you are not a pure developer, you may be interested in benefit from a tool like Git to manage content version like for courses, presentations or any kind of educational materials for instance...etc..
 
 You can even want to push the boundaries of Git and make the most of it by activating the Gitflow workflow. I will define later what is the Gitflow workflow.
@@ -29,7 +42,8 @@ The Gitflow workflow defines a strict branch creation model designed around the 
 
 **In a second time, my user story will integrate a remote repository. I will open a remote repository on Github and synchronize it with my local repository via a Gitflow workflow.**
 
-## 2. How to set up the workflow Gitflow in a local repository ?
+<a id="2_gitflow"></a>
+## 2. How to set up the workflow Gitflow in a local repository ? <a href="#top">&#8593;</a>
 
 We will see how to setup a local repository and activate the Gitflow workflow.
 
@@ -69,7 +83,8 @@ I edited the files and add some content inside. I made the initial commit, it cr
 
 *The screen captures can be found in the directory 01_setup_the_repository of the github project*
 
-## 2 -  Initialize Gitflow for the repository
+<a id="3_gitflow"></a>
+## 3. Initialize Gitflow for the repository <a href="#top">&#8593;</a>
 I am ready to initialize Gitflow using the Gitflow icon. If you click on the icon, Sourcetree will offer. Keep the configuration as it is. As a result, you will have a “master” and a “develop” branch. These 2 branches both share the same files.
 
 **I click on Gitflow icon and keep the configuration as it is for the repository**
@@ -98,7 +113,8 @@ One other advice, you can activate the output of the console history, it will pr
 
 *All the screen captures can be found in the directory 02_setup_the_gitflow_for_the_repository of the Github project*
 
-## 3 -  Create a feature branch in this repository
+<a id="4_gitflow"></a>
+## 4. Create a feature branch in this repository <a href="#top">&#8593;</a>
 
 Make sure you are on the "develop" branch. I will start a new feature branch. But just hold on a second, think of the project's situation, when you are starting a project, you may have an idea about the tasks/items/features that are going done to achieve the project. In the real world, all these elements should be splitted into tickets. The ticket number is often used as name for the feature branch so you can easily remember what was the feature attached to this branch is about.
 
@@ -121,7 +137,8 @@ Let's say I have picked a ticket on my agile board. The ticket number is #957567
 
 *All the screen captures can be found in the directory 03_create_a_feature_branch of the Github project*
 
-## 4 -  Finish a feature branch in this repository
+<a id="5_gitflow"></a> <a href="#top">&#8593;</a>
+## 5. Finish a feature branch in this repository
 
 When you finished your work on this branch. It means that you want that your feature be "validated". Concretely, on your board,if you are doing Scrum or Kanban, you may change the status of your ticket from _In progress_ to _Testing_ so it can enter into the acceptance phase or validation phase.
 
@@ -155,7 +172,8 @@ When you finished your work on this branch. It means that you want that your fea
 
 *All the screen captures can be found in the directory 04_finishing_a_feature_branch_ticket_nb of the Github project*
 
-## 5 -  Start a release branch
+<a id="6_gitflow"></a>
+## 6. Start a release branch <a href="#top">&#8593;</a>
 **Make sure you are on the "develop" branch. Think of version number for your release as you will have to name your "release branch" e.g. _version 1.0.0_. Again SourceTree is assisting you when you click on Gitflow icon button.**
 
 The version number is important. It will help you know what is the version of your application that will be deployed for instance (correcting bugs, updating stuff...)
@@ -175,8 +193,8 @@ https://wordpress.org/news/category/releases/
 
 *All the screen captures can be found in the directory 05_create_a_release_branch of the Github project*
 
-
-## 6 -  Finish a release branch
+<a id="7_gitflow"></a>
+## 7. Finish a release branch <a href="#top">&#8593;</a>
 
 Tagging you release is optional but you better tag it. Remember that will be a milestone in your development history.
 Let's you can indicate a quick description of your commit with help of the tickets for instance e.g. _This is the version 1.0.1 for my project including tickets #9575673, #9575674 Fix: The number in the loop in index.php; Comment the first version of variable paragraph in index.php | Enhancement: The management of accents in index.php | Update: Updated the readme.txt file._
@@ -193,8 +211,8 @@ Let's you can indicate a quick description of your commit with help of the ticke
 
 *The screen captures can be found in the directory 06_finish_a_release_branch of the Github project*
 
-
-## 7 -  Create and Finish a Hotfix
+<a id="8_gitflow"></a>
+## 8. Create and Finish a Hotfix <a href="#top">&#8593;</a>
 
 Make sure you are on the "develop" branch then Click on the Gitflow icon and select e.g. update on the readme source. Note that SourceTree add automatically a _ instead of an empty space in the name of your Hotfix
 Change made in feature #9575676
@@ -219,13 +237,14 @@ It is always good to tag your Hotfix e.g. Update readme #9575675
 
 *The screen captures can be found in the directory 07_create_finish_a_hotfix of the Github project*
 
-## 8 -  Conclusion
+<a id="9_gitflow"></a>
+## 9. Conclusion <a href="#top">&#8593;</a>
 So here is a good step by step to introduce how to activate and use the Gitflow workflow with the help is of SourceTree. Using SourceTree is much more easy and convenient than doing it via the command-line but by the time you get familiar with Gitflow, you will probably jump to the console.
 
 *Below some resources that may help you to go further.*
 
-
-## 9 -  Read more
+<a id="10_gitflow"></a>
+## 10. Read more <a href="#top">&#8593;</a>
 
 [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 
@@ -245,8 +264,6 @@ So here is a good step by step to introduce how to activate and use the Gitflow 
 [GitHub For Beginners: Commit, Push And Go](https://readwrite.com/2013/10/02/github-for-beginners-part-2/)
 
 [Useful git commands for everyday use!](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
-
-
 
 [Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
