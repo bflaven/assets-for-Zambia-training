@@ -351,7 +351,7 @@ npm install --save-dev gulp-imagemin
 *If you are looking for big images, go at <a href="https://unsplash.com/search/photos/high-definition" target="_blank">High definition pictures* https://unsplash.com/search/photos/high-definition</a>
 
 <a id="7_bestpractises"></a>
-**7. Create a task that will delete the destination folder.**
+## 7. Create a task that will delete the destination folder.
 
 
 ```bash
@@ -367,7 +367,7 @@ export const build = series(clean, parallel(styles, images, copy))
 export default dev;
 ```
 <a id="8_bestpractises"></a>
-**8. Using NPM to start Gulp.**
+## 8. Using NPM to start Gulp.
 
 The good thing is that you can use NPM to handle Gulp. To enable such a control, you must update the `package.json` inside tour WP theme folder.
 
@@ -385,7 +385,7 @@ npm run start #In our case, start will run gulp and gulp will run the default gu
 npm run build #will run gulp build --prod
 ```
 
-**9. Using Browsersync.**
+## 9. Using Browsersync.
 
 I am currently using Docker to make WordPresss live. According to me, you'd better use MAMP to see properly working Browsersync. 
 
