@@ -10,7 +10,9 @@
 **<a href="#4_bestpractises">4. Let's play with Gulp for a minutes** &#8595;</a><br>
 **<a href="#5_bestpractises">5. Do some Gulp task for CSS** &#8595;</a><br>
 **<a href="#6_bestpractises">6. Do some Gulp task for images** &#8595;</a><br>
-**<a href="#7_bestpractises">7. More resources** &#8595;</a><br>
+**<a href="#7_bestpractises">6. 7. Create a task that will delete the destination folder** &#8595;</a><br>
+**<a href="#8_bestpractises">8. Using NPM to start Gulp** &#8595;</a><br>
+**<a href="#7_bestpractises">9. More resources** &#8595;</a><br>
 
 
 
@@ -348,7 +350,8 @@ npm install --save-dev gulp-imagemin
 
 *If you are looking for big images, go at <a href="https://unsplash.com/search/photos/high-definition" target="_blank">High definition pictures* https://unsplash.com/search/photos/high-definition</a>
 
-**Create a task that will delete the destination folder.**
+<a id="7_bestpractises"></a>
+**7. Create a task that will delete the destination folder.**
 
 
 ```bash
@@ -363,8 +366,12 @@ export const dev = series(clean, parallel(styles, images, copy), watchForChanges
 export const build = series(clean, parallel(styles, images, copy))
 export default dev;
 ```
+<a id="8_bestpractises"></a>
+**8. Using NPM to start Gulp.**
 
---- change the package.json
+The good thing is that you can use NPM to handle Gulp. To enable such a control, you must update the `package.json` inside tour WP theme folder.
+
+**change the package.json**
 ```javascript
 "scripts": {
   "start": "gulp",
@@ -372,16 +379,24 @@ export default dev;
 },
 ```
 
---- using npm
+**command to use NPM to handle Gulp**
 ```bash
 npm run start #In our case, start will run gulp and gulp will run the default gulp task, which is dev.
 npm run build #will run gulp build --prod
 ```
 
-In order to control the browser using Browsersync, we have to initialize a Browsersync server. This is different from a local server where WordPresss would typically live. the first task is serve, which starts the Browsersync server, and is pointed to our local WordPress server using the proxy option. The second task will simply reload the browser.
+**9. Using Browsersync.**
+
+I am currently using Docker to make WordPresss live. According to me, you'd better use MAMP to see properly working Browsersync. 
+
+What you have to knwow is you have to initialize a Browsersync server usauslay available at `http://localhost:3000`. **This is different from a local server where WordPresss would typically live for example /Applications/MAMP/htdocs/wordpress/ `http://localhost/wordpress/`.**
 
 
-<!-- site-footer -->
+the first task is serve, which starts the Browsersync server, and is pointed to our local WordPress server using the proxy option. The second task will simply reload the browser.
+
+
+
+
 ```bash
 #Creating the scripts task
 npm install --save-dev webpack-stream
@@ -399,7 +414,7 @@ npm install --save-dev gulp-wp-pot
 
 ```
 
-**Here is the structure of the folder with the wp theme**
+**Here is an example of folder structure within a wp theme directory `zambia-wp-test-1`**
 
 ``` bash
 zambia-wp-test-1/
@@ -426,7 +441,7 @@ zambia-wp-test-1/
 ├──...
 ```
 
-**Here is the structure of the folder from the article**
+**Here is an example of folder structure for this article in a directory `zambia-wp-test-1`**
 ``` bash
 zambia-wp-test-1/
 ├── index.php
@@ -444,10 +459,197 @@ zambia-wp-test-1/
         └── bundle.scss
 ```
 
+**The source for the file `gulpfile.babel.js`**
+``` javascript
+/* usage */
+// IMPORT
+// import { src, dest } from 'gulp';
+// including the watch task
+import { src, dest, watch, series, parallel } from 'gulp';
+
+import yargs from 'yargs';
+import sass from 'gulp-sass';
+import cleanCss from 'gulp-clean-css';
+import gulpif from 'gulp-if';
+
+// for CSS
+import postcss from 'gulp-postcss';
+import sourcemaps from 'gulp-sourcemaps';
+import autoprefixer from 'autoprefixer';
+
+// for IMAGES
+import imagemin from 'gulp-imagemin';
+
+// The rest
+import del from 'del';
+import webpack from 'webpack-stream';
+import named from 'vinyl-named';
+import browserSync from "browser-sync";
+import zip from "gulp-zip";
+import info from "./package.json";
+import replace from "gulp-replace";
+import wpPot from "gulp-wp-pot";
+
+// CONSTANTS
+const PRODUCTION = yargs.argv.prod;
+const server = browserSync.create();
+
+//for SERVE
+  export const serve = done => {
+    server.init({
+      // proxy: "http://localhost:8888/starter"
+      proxy: "http://localhost:8080/"
+    });
+    done();
+  };
+  export const reload = done => {
+    server.reload();
+    done();
+  };
+ 
+//for DELETE
+export const clean = () => del(['dist']);
+
+//for CSS
+export const styles = () => {
+  // return src('src/scss/bundle.scss')
+  return src(['src/assets/css/bootstrap.css', 'src/assets/css/editor-style.css'])
+    .pipe(gulpif(!PRODUCTION, sourcemaps.init()))
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulpif(PRODUCTION, postcss([ autoprefixer ])))
+    .pipe(gulpif(PRODUCTION, cleanCss({compatibility:'ie8'})))
+    .pipe(gulpif(!PRODUCTION, sourcemaps.write()))
+    .pipe(dest('dist/assets/css'));
+}
+
+//for IMAGES
+export const images = () => {
+  return src('src/assets/images/**/*.{jpg,jpeg,png,svg,gif}')
+    .pipe(gulpif(PRODUCTION, imagemin()))
+    .pipe(dest('dist/assets/images'));
+}
+//for COPY
+export const copy = () => {
+    return src(['src/assets/**/*','!src/assets/{images,js,scss}','!src/assets/{images,js,scss}/**/*'])
+    .pipe(dest('dist/assets'));
+  }
+
+//for SCRIPTS
+export const scripts = () => {
+      return src(['src/assets/js/bootstrap.js','src/assets/js/main.js','src/assets/js/skip-link-focus-fix.js'])
+      .pipe(named())
+      .pipe(webpack({
+        module: {
+        rules: [
+          {
+            test: /\.js$/,
+            use: {
+              loader: 'babel-loader',
+              options: {
+                presets: []
+                }
+              }
+            }
+          ]
+        },
+        mode: PRODUCTION ? 'production' : 'development',
+        devtool: !PRODUCTION ? 'inline-source-map' : false,
+        output: {
+          filename: '[name].js'
+        },
+        externals: {
+          jquery: 'jQuery'
+        },
+      }))
+      .pipe(dest('src/assets/js'));
+  };
+// For compress
+export const compress = () => {
+      return src([
+        "**/*",
+        "!node_modules{,/**}",
+        "!bundled{,/**}",
+        "!src{,/**}",
+        "!.babelrc",
+        "!.gitignore",
+        "!gulpfile.babel.js",
+        "!package.json",
+        "!package-lock.json",
+      ])
+      .pipe(
+        gulpif(
+          file => file.relative.split(".").pop() !== "zip",
+          replace("_themename", info.name)
+        )
+      )
+      .pipe(zip(`${info.name}.zip`))
+      .pipe(dest('bundled'));
+    };
+    export const pot = () => {
+      return src("**/*.php")
+        .pipe(
+          wpPot({
+            domain: "_themename",
+            package: info.name
+          })
+        )
+      .pipe(dest(`languages/${info.name}.pot`));
+    };
 
 
-<a id="7_bestpractises"></a>
-## 7. More resources <a href="#top">&#8593;</a>
+// For POT
+// export const pot = () => {
+//       return src("**/*.php")
+//         .pipe(
+//           wpPot({
+//             domain: "_themename",
+//             package: info.name
+//           })
+//         )
+//       .pipe(dest(`languages/${info.name}.pot`));
+//     };
+
+// For WATCH
+export const watchForChanges = () => {
+  watch('src/scss/**/*.scss', styles);
+  watch('src/images/**/*.{jpg,jpeg,png,svg,gif}', series(images, reload));
+  watch(['src/**/*','!src/{images,js,scss}','!src/{images,js,scss}/**/*'], series(copy, reload));
+  watch('src/js/**/*.js', series(scripts, reload));
+  watch("**/*.php", reload);
+}
+
+/* End */ 
+export const dev = series(clean, parallel(styles, images, copy, scripts), serve, watchForChanges);
+// export const build = series(clean, parallel(styles, images, copy, scripts), pot, compress);
+export const build = series(clean, parallel(styles, images, copy, scripts), compress);
+
+export default dev;
+
+
+// gulp styles
+// gulp styles --prod
+
+
+// gulp images
+// gulp images --prod
+
+// gulp copy
+
+// gulp scripts
+/*
+
+# Run gulp
+npm run start
+
+# Run gulp build --prod
+npm run build
+
+*/
+```
+
+
+<a id="9_bestpractises"></a>
+## 10. More resources <a href="#top">&#8593;</a>
 
 
 
