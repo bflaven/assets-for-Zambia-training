@@ -1,8 +1,9 @@
 <a id="top"></a>
-# Leveraging on the WP API with WordPress mobile applications
+# Leveraging on the WP API with WordPress
 
-
-An article about using the WP API to feed a mobile application both in Android or iOS. That will give us the opportunity to introduce the API-first strategy and thrive the usage of WP as a API's backbone.
+An article about why 2 important things: 
+- Some advantages to choose WP as a CMS to build application on. It will give us the opportunity to introduce the API-first strategy and thrive the usage of WP as a API's backbone.
+- A POC using the WP API to feed a mobile application both in Android or iOS. 
 
 
 **All the resources used in that article are available in the directory of the Github account @ [/4_api_and_testing/](/4_api_and_testing/)**
