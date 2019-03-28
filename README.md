@@ -4,8 +4,13 @@ How things run under the hood...
 
 ## Table of content
 
-### Setup your environment
+### An introduction to the API-centric strategy and the WordPress API 
+- <a href="/4_testing_the_wp_api/">**Leveraging on the WP API with WordPress** &#8594;</a><br>
+An article about the advantages to choose WP as a CMS to build an application, quick introduction to the API-first strategy and thrive the usage of WP as a API's backbone + a POC using the WP API to feed a mobile application both in Android or iOS.
 
+
+
+### Setup your environment
 - <a href="/8_using_gitflow/">**Using SourceTree with Gitflow workflow** &#8594;</a><br>
 A quick introduction to cover on how using Git for WP, feature branching with ticket system.
 
