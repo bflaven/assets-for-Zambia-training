@@ -6,7 +6,7 @@ An article about why 2 important things:
 - A POC using the WP API to feed a mobile application both in Android or iOS. 
 
 
-**All the resources used in that article are available in the directory of the Github account @ [/4_api_and_testing/](/4_api_and_testing/)**
+**All the resources used in that article are available in the directory of the Github account @ [/4_testing_the_wp_api/](/4_testing_the_wp_api/)**
 
 **<a href="#1_api">1. What is API centric or API First? &#8595;</a>**<br>
 **<a href="#2_api">2. Using or not using WordPress? &#8595;</a>**<br>
