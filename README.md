@@ -9,7 +9,7 @@ How things run under the hood...
 An article about the advantages to choose WP as a CMS to build an application, quick introduction to the API-first strategy and thrive the usage of WP as a API's backbone + a POC using the WP API to feed a mobile application both in Android or iOS.
 
 
-# Introduction to the WordPress plugin development!
+### Introduction to the WordPress plugin development!
 - <a href="/5_zambia_plugins/">**Best practices in WP plugin development!** &#8594;</a><br>
 A sort of state of play in terms of development, especially recommendations to tie in with the good practices currently underway for plugin development in WordPress.
 
