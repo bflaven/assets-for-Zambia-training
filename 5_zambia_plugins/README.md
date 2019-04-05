@@ -1,8 +1,6 @@
 <a id="top"></a>
 # Best practices in WP plugin development!
 
-
-
 I have made from time to time and for years plugin without asking me what were the good practices in terms of development. I started to apply basically what was advised in how-to, books, posts, anything that was relevant and practical.
 
 **Meanwhile, the development in PHP and the PHP itself have evolved at an incredible pace both under the combined effect of market and usages. That is the very topic of this post: start a learning process and give up some of your past practices, stigma of a fixed mindset, to introduce modern and up-to-date best practices and know-how forged around Object-Oriented Programming (OOP), Namespaces, Package manager and so on.**
