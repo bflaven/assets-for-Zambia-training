@@ -2,8 +2,26 @@
 # Best practices in WP plugin development!
 
 
-I have made from time to time and for years plugin without asking me what were the good practices in terms of development. I started to apply basically what was advised in the one of the best book ever written about WordPress. This book is still among the best relevant book on WordPress.
 
+I have made from time to time and for years plugin without asking me what were the good practices in terms of development. I started to apply basically what was advised in how-to, books, posts, anything that was relevant and practical.
+
+**Meanwhile, the development in PHP and the PHP itself have evolved at an incredible pace both under the combined effect of market and usages. That is the very topic of this post: start a learning process and give up some of your past practices, stigma of a fixed mindset, to introduce modern and up-to-date best practices and know-how forged around Object-Oriented Programming (OOP), Namespaces, Package manager and so on.**
+
+
+
+**<a href="#bestpractices_1">1. Quick introduction to OOP and WordPress Plugins** &#8595;</a><br>
+**<a href="#bestpractices_2">2. How does does it work in WP?** &#8595;</a><br>
+**<a href="#bestpractices_3">3. Want more? Quick explanations on other OOP concepts** &#8595;</a><br>
+**<a href="#bestpractices_4">4. Using Namespaces in WP plugin development** &#8595;</a><br>
+**<a href="#bestpractices_5">5. Using composer in WP plugin development** &#8595;</a><br>
+**<a href="#bestpractices_6">6. Use a boilerplate code in WP plugin development** &#8595;</a><br>
+**<a href="#bestpractices_7">7. What if you want to make bigger evolution into WP, touching for instance the database.** &#8595;</a><br>
+**<a href="#bestpractices_8">8. Let's dive into our WP plugins examples** &#8595;</a><br>
+**<a href="#bestpractices_9">9. Read more** &#8595;</a><br>
+
+
+<a id="bestpractices_1"></a>
+### 1. Quick introduction to OOP and WordPress Plugins <a href="#top">&#8593;</a>
 
 **Why should I apply these best practises?**<br>
 Here is a quick reminder about the best practises to write a plugin. To the question: Why should I apply these guidelines to the WP plugin development as I made plugins for years and got a quick and sufficient result with no big efforts. 
@@ -16,10 +34,6 @@ There is a lot of resources about WP plugin development, quite a lot about OOP (
 
 **My purpose is to browse quickly the OOP concepts in order to apply them in the WP plugin development process.**
 
-
-
-
-## Quick introduction to Object-Oriented Programming and WordPress Plugins (OOP)
 
 The main advantages of using a Class are: maintenance, readability and above all to avoid conflicts with other plugins. One of the biggest limitations of procedural programming (the opposite of OOP — not using classes) is how difficult it is to share variables between functions. This leads to using global variables, which is an overkill.
 
@@ -94,7 +108,8 @@ Methods are also accessed using the special property `$this`.
 
 **Keep in mind to never have a method with the same name as a class.**
 
-### How does does it work in WP?<br>
+<a id="bestpractices_2"></a>
+### 2. How does does it work in WP?<br>
 In short, the frontend of WordPress creates a WP_Query object based on the current URL and places it in the global variable $wp_query. As a result, we could rewrite that loop like this:
 
 
@@ -144,7 +159,8 @@ You can read through each of these classes to understand how they work, what pro
 - The documentation about `WP_Comment_Query` <a href="https://codex.wordpress.org/Class_Reference/WP_Comment_Query
 " target="_blank">https://codex.wordpress.org/Class_Reference/WP_Comment_Query</a>
 
-### Want more? Quick explanations on other OOP concepts
+<a id="bestpractices_3"></a>
+### 3. Want more? Quick explanations on other OOP concepts
 
 **As I say now, this is not academical lesson on OPP, this more a 10 minutes reading handy tips guide to let you to understand the logic of any plugin using class in WP and especially the ones that given an as example in this post.**
 
@@ -191,7 +207,8 @@ A quick word on this method that you may often encounter in a PHP Class. `__cons
 
 > All this part was strongly inspired by articles published in Torque | @thetorquemag<br><a href="https://torquemag.io/" target="_blank">https://torquemag.io/</a>. You can check the links in the read more section below
 
-## Using Namespaces in WP plugin development
+<a id="bestpractices_4"></a>
+### 4. Using Namespaces in WP plugin development
 
 Let starts to define by usage, WordPress is quite old CMS, meanwhile PHP has known very powerful evolutions. As we say before that is a nice gateway to OOP but to get stick with up-to-date practices, you must include also the usage of  Namespaces like in PHP frameworks such as Laravel or Symfony.
 
@@ -210,8 +227,8 @@ The Namespaces benefits can be reduced to two elements:
 **All the projects available for this post include Namespaces, that's a must-have.**
 
 
-
-## Using composer in WP plugin development
+<a id="bestpractices_5"></a>
+### 5. Using composer in WP plugin development
 The main idea is to launch the install of WP with the help of composer to be more precise is to use a Class Autoloader.
 As composer is here to help manage PHP dependencies, the tool will be a "crutch" to develop, share, make use of, host, and deploy.
 
@@ -226,8 +243,8 @@ Source: Your Guide to Composer in WordPress <a href="https://composer.rarst.net/
 **For information, we use composer in the most advanced plugin of this series named `5_ZNBC_plugin_oop`**
 
 
-
-## Use a boilerplate code in WP plugin development
+<a id="bestpractices_6"></a>
+### 6. Use a boilerplate code in WP plugin development
 If you're the kind to cut across fields to get to the top of a mountain faster :) Then, this one is for you. It is a smart solution, using an existing code, integrating best practises for a WP plugin. That is the purpose of this website : 
 
 - WordPress Plugin Boilerplate Generator <a href="https://wppb.me/" target="_blank">https://wppb.me/</a>
@@ -240,7 +257,8 @@ The Boilerplate can be installed directly into your plugins folder "as-is". You 
 
 Then, it's safe to activate the plugin at this point. Because the Boilerplate has no real functionality there will be no menu items, meta boxes, or custom post types added until you write the code.
 
-## What if you want to make bigger evolution into WP, touching for instance the database.<br>
+<a id="bestpractices_7"></a>
+## 7. What if you want to make bigger evolution into WP, touching for instance the database.<br>
 One last thing, sooner or later, you will be enough bold to develop big plugins. Remember WP was designed to manage blog. Nevertheless, with the introduction of post_type, WP capabilities has been extended but still for text content. So, for very specific features and content, you may have to create custom database tables. For instance, let say you will use WP as an eStore and you want your own plugin. That is a deeper change! No doubt.
 
 **Remember to always challenge your decision before launching such a development with hiring a good developer or leverage on a en existing plugin. Typically if you intend to sell things with, think of  WooCommerce. A free eCommerce plugin that allows you to sell anything. More on <a href="https://woocommerce.com/" target="_blank">https://woocommerce.com/</a>**
@@ -283,8 +301,8 @@ Be sure to apply these best practices because you may spend lonely days and nigh
 
 > Last not least, one the best explanation ever found on development and on WP in general. Check out what has been written by 10up on Performance and Design Patterns. Performance by 10up <a href="https://10up.github.io/Engineering-Best-Practices/php/#top" target="_blank">https://10up.github.io/Engineering-Best-Practices/php/#top</a> and Design Patterns by 10up <a href="https://10up.github.io/Engineering-Best-Practices/php/#design-patterns" target="_blank">https://10up.github.io/Engineering-Best-Practices/php/#design-patterns </a>
 
-
-## Let's dive into our WP plugins examples
+<a id="bestpractices_8"></a>
+### 8. Let's dive into our WP plugins examples
 Conceptual time is over, let's practise.
 
 **Here is 6 plugins to apply some of the principals described above and help you out making your way into WP plugin development. These plugins are just examples for educational purposes to see how some of principles expressed above can be apply.**
@@ -507,8 +525,8 @@ $ cp content-excerpt.php content-excerpt-znbc.php
   </div><!-- .entry-content -->
 ```
 
-
-## Read more <a href="#top">&#8593;</a>
+<a id="bestpractices_9"></a>
+### 9. Read more <a href="#top">&#8593;</a>
 
 **Object-Oriented Programming and WordPress Plugins**<br>
 - Two Ways to Develop WordPress Plugins: Object-Oriented Programming<br><a href="https://code.tutsplus.com/tutorials/two-ways-to-develop-wordpress-plugins-object-oriented-programming--wp-27716" target="_blank">https://code.tutsplus.com/tutorials/two-ways-to-develop-wordpress-plugins-object-oriented-programming--wp-27716</a>
