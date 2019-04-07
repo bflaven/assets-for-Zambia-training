@@ -617,12 +617,12 @@ In case of conflict between 2 teams: how to defuse confrontation? A serious game
 ### 8.2 Achieve <a href="#top">&#8593;</a><br>
 
 **(i) Deliver what is ready**<br>
-How long have completed features been waiting to be put into production? The objective is to discover the prioritization by the value and to favour the finished work.
+How long have completed features been waiting to be put into production? The objective is to discover the prioritization by the value and to favour the finished work. Never postpone a product delivery, this is the reason why CI (Continuous Integration) exists!
 
 **It highlights the importance of "Lead Time"**<br>
-The "Lead Time" is actually the time that elapses between the beginning of a process and its end. It corresponds for example, the time that will take a development team to deliver a new feature on an application.
+The "Lead Time" is actually the time that elapses between the beginning of a process and its end. It corresponds for example, the time that will take to a development team to deliver a new feature on an application.
 
-It is a very good metric on organization efficiency for a team. This aspect can be improved by numerous optimization searches in order to respond as quickly as possible to external or internal requests e.g pizzeria story.
+**It is a very good metric on organization efficiency for a team. This aspect can be improved by numerous optimization searches in order to respond as quickly as possible to external or internal requests e.g pizzeria story.**
 
 <a id="agile_8_3"></a>
 ### 8.3 Learn <a href="#top">&#8593;</a><br>
