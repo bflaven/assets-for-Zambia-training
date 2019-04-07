@@ -3,6 +3,10 @@
 
 A short introduction about the agility and with a mix of advices, practices, return on experience... And always few basic takeaways.
 
+**<a href="#agile_1">1. Behind the scene** &#8595;</a><br>
+
+
+<a id="agile_1"></a>
 ## 1. Behind the scene
 
 **Time is at Storytelling, in addition to language's elements, there are plenty of artefacts that promote and inseminate agile values in a team.**
@@ -15,7 +19,7 @@ Without freaking the caricature however, do not announce the 5 key rules of mana
 
 **Create a narrative or "mantra" for how infusing growth mindset traits in your culture can accelerate transformation. Develop language (for example, "learn-it-all beats know-it-all") that you routinely use in meetings and key change situations.**
 
-## Play Agile
+## 2. Play Agile
 Let's gave the same short job description for project management from 2 different perspectives or mindsets.
 
 **With a Waterfall perspective**
@@ -28,12 +32,15 @@ Let's gave the same short job description for project management from 2 differen
 Be honest, the truth is in between!
 
 
-- `Sprint`
-- `Ritual`
-- `Retro`
-- `Daily`
-- `Sprint Planning` 
+## 3. Some definitions for Agile Rituals (Scrum)
 
+**Let's focus only on agile rituals definitions that are commonly used in Scrum.**
+
+- `Sprint`: 
+- `Ritual`: 
+- `Retro`: 
+- `Daily`: 
+- `Sprint Planning`:
 
 
 **A drawing that really captures the essence of iterative & incremental development, lean startup, MVP (minimum viable product)**
@@ -54,7 +61,7 @@ Be honest, the truth is in between!
 
 
 
-## 2. Boards
+## 4. Boards
 You can use boards, where at a glance, you can visualize the progress of any project. You can find plentuy of models on the web to get columns names and define your own logic that fit to your needs.
 
 
@@ -71,12 +78,12 @@ You can use boards, where at a glance, you can visualize the progress of any pro
 ![Or you can use Board as Values Reminder](images/boards/3_agile_methodology_quick_intro_improve_virtuous_circle_scrum_values_small.jpg)
 
 
-## 3. Graphic facilitation
+## 5. Graphic facilitation
 One of my favourite occupation that goes pretty well with the previous point. It goes on paper-board, scrapbook...etc. Very easy to initiate, do not think you cannot draw.
 
 **You can use it in meetings, training, notes taking. The visual content thus created becomes itself the support of the discussion or the formation. Nothing is lost, nothing is created: everything is transformed**
 
-### How, Where and When ?
+### 5.1 How, Where and When ?
 
 **During a meeting as speech facilitator**<br>
 *Help you out to position yourself in a retro for instance*
@@ -91,12 +98,12 @@ Why is there advantages of storyboarding before development on the other tools f
 ![Advantages of drawing over other tools, more "plastic"](images/graphic_facilitation/3_agile_methodology_quick_intro_storyboarding_small.jpg)
 *<code>Copyright &copy; Creative Market</code>*
 
-### The Graphic facilitation explained by Graphic facilitation
+### 5.2 The Graphic facilitation explained by Graphic facilitation
 
 **The whole concept in one picture**<br>
 ![The whole concept in one picture](images/graphic_facilitation/6_agile_methodology_quick_intro_visual_notes_sketchnotes_small.jpg)
 
-### Be humble start step by step
+### 5.3 Be humble start step by step
 
 You have fundamentals form that can help you out in order to project your ideas on paper support.
 
@@ -107,7 +114,7 @@ You have fundamentals form that can help you out in order to project your ideas 
 **Then start using basics elements**<br>
 ![Then start using basics elements](images/graphic_facilitation/5_agile_methodology_quick_intro_visual_notes_basics_small.jpg)
 
-### Let's do it together, pick up a form and do the try-it-yourself
+### 5.4 Let's do it together, pick up a form and do the try-it-yourself
 
 **Game 1: Keep in form**<br>
 *Draw basic forms to start with graphic facilitation*<br>
@@ -123,19 +130,20 @@ You have fundamentals form that can help you out in order to project your ideas 
 ![Game 3: The Roy Lichtenstein Contest](images/graphic_facilitation/7_agile_methodology_quick_intro_visual_notes_wording_small.jpg)
 
 
-**Want more?**
+### 5.5 Want more?<br>
+
 - See Your Ideas: Think With Ink<br><a href="http://www.lizardbrainsolutions.com/" target="_blank">http://www.lizardbrainsolutions.com/think-with-ink</a>
 
 - How To Hold Better Meetings With The Help Of Graphic Facilitation<br><a href="https://uxstudioteam.com/ux-blog/graphic-facilitation/" target="_blank">https://uxstudioteam.com/ux-blog/graphic-facilitation/</a>
 
 
-## 4. Wireframing
+## 6. Wireframing
 A very helpful way of presenting user stories to anyone: developers, PO, stakeholders. It is a time saver as you are trying to bring to life a user experience.
 
 There is a lot a SAAS or online tools or you can pickup one of the major tool below. The list is far from being an exhaustive list! As there is a tool that
 
 
-**4.1 Online applications**
+### 6.1 Online applications<br>
 
 
 - Ninjamock<br><a href="https://ninjamock.com/" target="_blank">https://ninjamock.com/</a>
@@ -150,7 +158,7 @@ There is a lot a SAAS or online tools or you can pickup one of the major tool be
 
 *Just type "online wireframe and mockup tool" in Google and you can make your choice!*
 
-**4.1 Softwares**
+### 6.2 Softwares<br>
 These software are sometime pretty sophisticated and have a learning curb it is like video editing. Avoid the multiple purpose tool.
 My favourite Balsamiq even though it is is in Flash.
 
@@ -167,7 +175,7 @@ My favourite Balsamiq even though it is is in Flash.
 - More on Mockup (French)<br><a href="http://flaven.fr/?s=mockup" target="_blank">http://flaven.fr/?s=mockup</a>
 
 
-**4.3 Spotlight on Sketch**
+### 6.3 Spotlight on Sketch<br>
 
 Sketch is a rare gem and combined with Craft, a cleverly plugin developed by Invisionapp, it become almost a killer application.
 
@@ -183,7 +191,7 @@ My favourite element in the Sketch software is the ability to "clone" content an
 
 Source: How-to use Sketch and Craft (French)<br><a href="http://flaven.fr/2017/05/sketch-craft-utiliser-la-combinaison-sketch-et-craft-pour-la-conception-dapplications-android-et-ios/" target="_blank">http://flaven.fr/2017/05/sketch-craft-utiliser-la-combinaison-sketch-et-craft-pour-la-conception-dapplications-android-et-ios/</a>
 
-**4.4 Some real work situations**
+### 6.4 Some real work situations<br>
 Some images from real experiences from website mock-up or wp plugin mock-up.
 
 **Elements for Wireframing with Balsamiq**<br>
@@ -209,7 +217,7 @@ Some images from real experiences from website mock-up or wp plugin mock-up.
 ![Output: The screen made in Symfony](images/wireframing_sketch/4_agile_methodology_quick_output_app_modal_small.jpg)
 
 
-## 5. Gherkin<br>
+## 7. Gherkin<br>
 
 The gherkin can be used for headless or browser functional testing. For instance, a successful combination can be made with Browserstack, Symfony and Mink to make functional testing.
 
@@ -219,7 +227,7 @@ An excerpt from Dan North's blog about the importance of behavior-driven develop
 
 > It has evolved out of established agile practices and is designed to make them more accessible and effective for teams new to agile software delivery. Over time, BDD has grown to encompass the wider picture of agile analysis and automated acceptance testing.
 
-**5.1 A gherkin feature for an API**<br>
+### 7.1 A gherkin feature for an API<br>
 These are features written for an existing API made with Node @<a href="https://github.com/bflaven/a-quick-journey-through-api-testing">https://github.com/bflaven/a-quick-journey-through-api-testing</a>
 
 
@@ -340,7 +348,7 @@ Feature: Testing countries REST API FlagApi
       | 17098242 | 
 ```
 
-**5.2 A gherkin feature for WordPress**<br>
+### 7.2 A gherkin feature for WordPress<br>
 This is also the one used for the WP plugin on Fact Checking.
 
 ```gherkin
@@ -404,11 +412,11 @@ WordPress post should be easy to convert into ClaimReview post
 
 More links about Gherkin and Behat can be found in this article: <a href="http://flaven.fr/2016/09/bdd-behat-gherkin-introduction-au-behavior-driven-development-avec-behat-et-mink/" target="_blank">http://flaven.fr/2016/09/bdd-behat-gherkin-introduction-au-behavior-driven-development-avec-behat-et-mink/</a>
 
-## 6. Feedback on Agility, few key things to remember<br>
+## 8. Feedback on Agility, few key things to remember<br>
 
 **This is not again a full lesson on Agility or on Scrum but just few key elements really experimented at FMM throughout the Digital Transformation Process that have imply a move from Waterfall to Agile. Here is few agile practices on 3 concrete aspects on change management**
 
-### 6.1 Manage interactions
+### 8.1 Manage interactions
 
 **(i) Search of the essential**<br>
 Listen, listen to each other, and ask themselves questions about your work's impact. **Give yourself the right not to perform a task that adds nothing in terms of value or effectiveness or whose cost time is greater than the expected profit.**
@@ -419,7 +427,7 @@ Distance is not a problem if you are emotionally close to your teams. The import
 **(iii) I will be your worst nightmare**<br>
 In case of conflict between 2 teams: how to defuse confrontation? A serious game can be made: Have the worst situation described to two opposing teams. The exchange must be done in a CNV (Non-violent Communication) spirit
 
-### 6.1 Achieve
+### 8.2 Achieve
 
 **(i) Deliver what is ready**<br>
 How long have completed features been waiting to be put into production? The objective is to discover the prioritization by the value and to favour the finished work.
@@ -429,7 +437,7 @@ The "Lead Time" is actually the time that elapses between the beginning of a pro
 
 It is a very good metric on organization efficiency for a team. This aspect can be improved by numerous optimization searches in order to respond as quickly as possible to external or internal requests e.g pizzeria story.
 
-### 6.1 Manage interactions
+### 8.3 Manage interactions
 
 **(i) Save time for learning**<br>
 In Lean never exceed 80% of resource use. Why not do the same and keep 20% of the time to learn and improve? With Katas, Dojos, code experiments or products? Constantly improve the team, the products and oneself, while not "overuse" the "resources" and thus improving the flow e.g Zambia training.
@@ -441,7 +449,7 @@ Agility rhymes with simplicity but simple does not want with simplistic!
 **(iii) Work on a single metric**<br>
 View and work on one indicator at a time. Identify a success indicator adapted to your project and its stage of progress. Change it when you reach your goal or as your project evolves. **This allows the entire team to make the right decisions, join forces to achieve the same goal and measure the impact of their efforts.** The objective is to focus on what is really important today e.g Image vs Performance in BO2.
 
-## 7. Culture hack and Mindset, a step forward in Digital Transformation
+## 9. Culture hack and Mindset, a step forward in Digital Transformation
 
 **A very quick introduction to the concepts Growth Mindset vs Fixed Mindset to accelerate digital transformation.**
 
@@ -449,7 +457,7 @@ Different mindsets can trigger vastly divergent responses in two individuals to 
 
 The implicit question behind this question is how mindsets invisibly shape responses to change ? Imagine that all of us are a mixed of Growth Mindset and Fixed Mindset.
 
-## How individually answer to the change ?
+### 9.1 How individually answer to the change ?
 
 Few practical advices, full of common sense, to individually behave towards changes.
 
@@ -460,7 +468,7 @@ Few practical advices, full of common sense, to individually behave towards chan
 
 - **No fear of failure:** It is a fixed mindset trait. It is failure that gives you the proper perspective on success.
 
-## Collectively practice the cultural hack
+### 9.2 Collectively practice the cultural hack
 As a group, culture hack are opportunities to foster a culture where teams can lean into transformation together and experiment team-working.
 
 The cultural hack has L.I.V.E characteristics.
@@ -474,7 +482,7 @@ The cultural hack has L.I.V.E characteristics.
 - **E for Emotional:** The hack should incite a visceral reaction. Change is primarily an emotional process, not an analytical one, so the most efficient way to promote it is by using feelings, not facts.
 
 <a id="more"></a>
-## (F) More resources <a href="#top">&#8593;</a>
+## 10. More resources <a href="#top">&#8593;</a>
 
 - Management of uncertainty in agile projects<br><a href="https://managedagile.com/management-of-uncertainty-in-agile-projects/" target="_blank">https://managedagile.com/management-of-uncertainty-in-agile-projects/</a>
 
@@ -491,6 +499,11 @@ The cultural hack has L.I.V.E characteristics.
 - The Build-Measure-Learn Feedback Loop<br><a href="https://www.mindtools.com/pages/article/build-measure-learn.htm" target="_blank">https://www.mindtools.com/pages/article/build-measure-learn.htm</a>
 
 - What is scrum?<br><a href="https://www.scrum.org/resources/what-is-scrum" target="_blank">https://www.scrum.org/resources/what-is-scrum</a>
+
+- Four agile ceremonies, demystified<br><a href="https://www.atlassian.com/agile/scrum/ceremonies" target="_blank">https://www.atlassian.com/agile/scrum/ceremonies</a>
+
+
+
 
 
 
