@@ -61,7 +61,7 @@ Let's gave the same short job description for project management from 2 differen
 
 **With a Waterfall perspective**
 
-> My job is to make project management, with a stressed mindset, to deliver after a chaotic 9 months development process, a deprecated and not-so-user-tested product threatened by depression and fear of failure.
+> My job is to make project management, with a stressed mindset, to deliver after a chaotic 9 months development process, a deprecated and not-so-user-tested product.
 
 **With an Agile perspective**
 > My job is to make project management by dealing with complexity and realities in uncertainty, with a playful mindset, thus delivering value with repeated short iterations each ended by a product demo and deliver by the end a product that I am proud of.
