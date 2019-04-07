@@ -607,8 +607,8 @@ More links about Gherkin and Behat can be found in this article: <a href="http:/
 **(i) Search of the essential**<br>
 Listen, listen to each other, and ask themselves questions about your work's impact. **Give yourself the right not to perform a task that adds nothing in terms of value or effectiveness or whose cost time is greater than the expected profit.**
 
-**(ii) Being emotionally close to his teams**<br>
-Distance is not a problem if you are emotionally close to your teams. The important thing is to communicate well and to follow up emotions/needs of the teams. **The subjective impression of the project is in itself an objective indicator of the health of the project.**
+**(ii) Being emotionally close to your team**<br>
+Distance is not a problem if you are emotionally close to your team. The important thing is to communicate well and to follow up emotions/needs of the team. **The subjective impression of the project is in itself an objective indicator of the health of the project.**
 
 **(iii) I will be your worst nightmare**<br>
 In case of conflict between 2 teams: how to defuse confrontation? A serious game can be made: Have the worst situation described to two opposing teams. The exchange must be done in a CNV (Non-violent Communication) spirit
