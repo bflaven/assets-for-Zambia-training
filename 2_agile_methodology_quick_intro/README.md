@@ -79,48 +79,68 @@ Ok, let's say that the truth is in between!
 ### 3.1 Scrum Artefacts <a href="#top">&#8593;</a><br>
 
 **(i) `Product Backlog`:**<br>
-Product Backlog is the master list of work that needs to get done maintained by the product owner or product manager. This is a dynamic list of features, requirements, enhancements, and fixes that acts as the input for the sprint backlog. It is, essentially, the team’s “To Do” list. The product backlog is constantly revisited, re-prioritized and maintained by the Product Owner because, as we learn more or as the market changes, items may no longer be relevant or problems may get solved in other ways.
-
-**(ii) `Sprint Backlog`:**<br>Sprint Backlog is the list of items, user stories, or bug fixes, selected by the development team for implementation in the current sprint cycle. Before each sprint, in the sprint planning meeting (which we’ll discuss later in the article) the team chooses which items it will work on for the sprint from the product backlog. A sprint backlog may be flexible and can evolve during a sprint. However, the fundamental sprint goal – what the team wants to achieve from the current sprint – cannot be compromised.
+Product Backlog is the master list of work that needs to get done maintained by the product owner or product manager. This is a dynamic list of features, requirements, enhancements, and fixes that acts as the input for the sprint backlog. It is, essentially, the team's `To Do` list. The product backlog is constantly revisited, re-prioritized and maintained by the Product Owner because, as we learn more or as the market changes, items may no longer be relevant or problems may get solved in other ways.
 
 
-**(iii) `Increment (or Sprint Goal)`:**<br>Increment (or Sprint Goal) is the usable end-product from a sprint. At Atlassian, we usually demonstrate the “increment” during the end-of-sprint demo, where the team shows what was completed in the sprint. You may not hear the word “increment” out in the world, as it’s often referred to as the team’s definition of “Done”, a milestone, the sprint goal, or even a full version or a shipped epic. It just depends on how your teams defines “Done” and how you define your sprint goals. For example, some teams choose to release something to their customers at the end of every sprint. So their definition of ‘done’ would be ‘shipped’. However, this may not be realistic of other types of teams. Say you work on a server-based product that can only ship to your customers every quarter. You may still choose to work in 2-week sprints, but your definition of ‘done’ may be finishing part of a larger version that you plan to ship together. But of course, the longer it takes to release software, the higher the risk that software will miss the mark.
+
+**(ii) `Sprint Backlog`:**<br>
+
+Sprint Backlog is the list of items, user stories, or bug fixes, selected by the development team for implementation in the current sprint cycle. Before each sprint, in the sprint planning meeting (which we'll discuss later in the article) the team chooses which items it will work on for the sprint from the product backlog. A sprint backlog may be flexible and can evolve during a sprint. However, the fundamental sprint goal – what the team wants to achieve from the current sprint – cannot be compromised.
+
+
+**(iii) `Increment (or Sprint Goal)`:**<br>
+Increment (or Sprint Goal) is the usable end-product from a sprint. Most of time, there is a real demonstration of the `increment` during the end-of-sprint demo, where the team shows what was completed in the sprint. 
+
+
+You may not hear the word "increment" out in the world, as it's often referred to as the team's definition of `Done`, a milestone, the sprint goal, or even a full version or a shipped epic. It just depends on how your teams defines `Done` and how you define your sprint goals. For example, some teams choose to release something to their customers at the end of every sprint. So their definition of `Done` would be `shipped`. However, this may not be realistic of other types of teams. 
+
+
+Say you work on a server-based product that can only ship to your customers every quarter. You may still choose to work in 2-week sprints, but your definition of `Done` may be finishing part of a larger version that you plan to ship together. But of course, the longer it takes to release software, the higher the risk that software will miss the mark.
+
+
+
+
 
 <a id="agile_3_2"></a>
 ### 3.2 Scrum Ceremonies or Events or Rituals <a href="#top">&#8593;</a><br>
 
 Below is a list of all the key ceremonies a scrum team might partake in:
 
-**(i) `Organize the backlog`:**<br>Sometimes known as backlog grooming, this event is the responsibility of the product owner. The product owner’s main jobs are to drive the product towards its product vision and have a constant pulse on the market and the customer. Therefore, he/she maintains this list using feedback from users and the development team to help prioritize and keep the list clean and ready to be worked on at any given time. You can read more about maintaining a healthy backlog here.
+**(i) `Organize the backlog`:**<br>
+Sometimes known as backlog grooming, this event is the responsibility of the product owner. The product owner's main jobs are to drive the product towards its product vision and have a constant pulse on the market and the customer. Therefore, he/she maintains this list using feedback from users and the development team to help prioritize and keep the list clean and ready to be worked on at any given time. You can read more about maintaining a healthy backlog here.
 
-**(ii) `Sprint planning`:**<br>The work to be performed (scope) during the current sprint is planned during this meeting by the entire development team. This meeting is led by the scrum master and is where the team decides on the sprint goal. Specific use stories are then added to the sprint from the product backlog.  These stories always align with the goal and are also agreed upon by the scrum team to be feasible to implement during the sprint.
+**(ii) `Sprint planning`:**<br>
+The work to be performed (scope) during the current sprint is planned during this meeting by the entire development team. This meeting is led by the scrum master and is where the team decides on the sprint goal. Specific use stories are then added to the sprint from the product backlog.  These stories always align with the goal and are also agreed upon by the scrum team to be feasible to implement during the sprint.
 
 At the end of the planning meeting, every scrum member needs to be clear on what can be delivered in the sprint and how the increment can be delivered.
 
-**(iii) `Sprint`:**<br>A sprint is the actual time period when the scrum team works together to finish an increment. Two weeks is a pretty typical length for a sprint, though some teams find a week to be easier to scope or a month to be easier to deliver a valuable increment. Dave West, from Scrum.org advises that the more complex the work and the more unknowns, the shorter the sprint should be. But it’s really up to your team, and you shouldn’t be afraid to change it if it’s not working! During this period, the scope can be re-negotiated between the product owner and the development team if necessary. This forms the crux of the empirical nature of scrum.
+**(iii) `Sprint`:**<br>
+A sprint is the actual time period when the scrum team works together to finish an increment. Two weeks is a pretty typical length for a sprint, though some teams find a week to be easier to scope or a month to be easier to deliver a valuable increment. Dave West, from Scrum.org advises that the more complex the work and the more unknowns, the shorter the sprint should be. But it's really up to your team, and you shouldn't be afraid to change it if it's not working! During this period, the scope can be re-negotiated between the product owner and the development team if necessary. This forms the crux of the empirical nature of scrum.
 
 <!-- - `Sprint`: A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches. It makes the project more manageable. Let's say it takes between 2 or 3 weeks. -->
 
 
 All the events — from planning to retrospective — happen during the sprint. Once a certain time interval for a sprint is established, it has to remain consistent throughout the development period. This helps the team learn from past experiences and apply that insight to future sprints.
 
-**(iv) `Daily Scrum` or `Stand Up`:**<br>This is a daily super-short meeting that happens at the same time (usually mornings) and place to keep it simple. Many teams try to complete the meeting in 15 minutes, but that’s just a guideline. This meeting is also called a ‘daily stand-up’ emphasizing that it needs to be a quick one. The goal of the daily scrum is for everyone on the team to be on the same page, aligned with the sprint goal, and to get a plan out for the next 24 hours.
+**(iv) `Daily Scrum` or `Stand Up`:**<br>
+This is a daily super-short meeting that happens at the same time (usually mornings) and place to keep it simple. Many teams try to complete the meeting in 15 minutes, but that's just a guideline. This meeting is also called a `daily stand-up` emphasizing that it needs to be a quick one. The goal of the daily scrum is for everyone on the team to be on the same page, aligned with the sprint goal, and to get a plan out for the next 24 hours.
 
 The stand up is the time to voice any concerns you have with meeting the sprint goal or any blockers. 
 
-A common way to conduct a stand up is for every team member to answers three questions in the context of achieving the sprint goal:
+A common way to conduct a stand up is for every team member to answers 3 questions in the context of achieving the sprint goal:
 
-- What did I do yesterday?
-- What do I plan to do today?
-- Are there any obstacles?
+1. What did I do yesterday?
+2. What do I plan to do today?
+3. Are there any obstacles?
 
-However, we’ve seen the meeting quickly turn into people reading from their calendars from yesterday and for the next day. The theory behind the stand up is that it keep distracting chatter to a daily meeting, so the team can focus on the work for the rest of the day.  So if it turns into a daily calendar read-out, don’t be afraid to change it up and get creative.
+However, we've seen the meeting quickly turn into people reading from their calendars from yesterday and for the next day. The theory behind the stand up is that it keep distracting chatter to a daily meeting, so the team can focus on the work for the rest of the day.  So if it turns into a daily calendar read-out, don't be afraid to change it up and get creative.
 
-**(v) `Sprint review`:**<br>At the end of the sprint, the team gets together for an informal session to view a demo of, or inspect, the increment. The development team showcases the backlog items that are now ‘Done’ to stakeholders and teammates for feedback. The product owner can decide whether or not to release the increment, although in most cases the increment is released.
+**(v) `Sprint review`:**<br>
+At the end of the sprint, the team gets together for an informal session to view a demo of, or inspect, the increment. The development team showcases the backlog items that are now `Done` to `stakeholders` and teammates for feedback. The `product owner` can decide whether or not to release the increment, although in most cases the increment is released.
 
 This review meeting is also when the product owner reworks the product backlog based on the current sprint, which can feed into the next sprint planning session. For a one-month sprint, consider time-boxing your sprint review to a maximum of four hours.
 
-**(vi) `Sprint retrospective`:**<br>The retrospective is where the team comes together to document and discuss what worked and what didn’t work in a sprint, a project, people or relationships, tools, or even for certain ceremonies. The idea is to create a place where the team can focus on what went well and what needs to be improved for the next time, and less about what went wrong.
+**(vi) `Sprint retrospective`:**<br>The retrospective is where the team comes together to document and discuss what worked and what didn't work in a sprint, a project, people or relationships, tools, or even for certain ceremonies. The idea is to create a place where the team can focus on what went well and what needs to be improved for the next time, and less about what went wrong.
 
 <a id="agile_3_3"></a>
 ### 3.3 Sprint Cycle Illustration <a href="#top">&#8593;</a><br>
@@ -658,7 +678,7 @@ The cultural hack has L.I.V.E characteristics.
 - Management of uncertainty in agile projects<br><a href="https://managedagile.com/management-of-uncertainty-in-agile-projects/" target="_blank">https://managedagile.com/management-of-uncertainty-in-agile-projects/</a>
 
 
-- Agile, Scrum, Méthodologie – Un tour d’horizon rapide sur la méthode agile (french)<br><a href="http://flaven.fr/2013/03/agile-scrum-methodologie-un-tour-dhorizon-rapide-sur-la-methode-agile/" target="_blank">http://flaven.fr/2013/03/agile-scrum-methodologie-un-tour-dhorizon-rapide-sur-la-methode-agile/</a>
+- Agile, Scrum, Méthodologie – Un tour d'horizon rapide sur la méthode agile (french)<br><a href="http://flaven.fr/2013/03/agile-scrum-methodologie-un-tour-dhorizon-rapide-sur-la-methode-agile/" target="_blank">http://flaven.fr/2013/03/agile-scrum-methodologie-un-tour-dhorizon-rapide-sur-la-methode-agile/</a>
 
 
 - Feedback Loops and Measurement<br><a href="https://alankent.me/2014/02/15/feedback-loops-and-measurement/" target="_blank">https://alankent.me/2014/02/15/feedback-loops-and-measurement/</a>
