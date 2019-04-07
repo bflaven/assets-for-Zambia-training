@@ -8,6 +8,10 @@ A mix of theoretical and practical elements but the purpose to remain vivid and 
 **<a href="#agile_1">1. Behind the scene** &#8595;</a><br>
 **<a href="#agile_2">2. Play Agile** &#8595;</a><br>
 **<a href="#agile_3">3. Do you speak Agile?** &#8595;</a><br>
+- **<a href="#agile_3_1">3.1 Scrum Artefacts** &#8595;</a><br>
+- **<a href="#agile_3_2">3.2 Scrum Ceremonies or Events or Rituals** &#8595;</a><br>
+- **<a href="#agile_3_3">3.3 Sprint Cycle Illustration** &#8595;</a><br>
+
 **<a href="#agile_4">4. Boards** &#8595;</a><br>
 
 **<a href="#agile_5">5. Graphic facilitation** &#8595;</a><br>
@@ -72,7 +76,7 @@ Ok, let's say that the truth is in between!
 **Let's focus only on Agile methodology and like always we can not avoid tedious definitions about rituals, ceremonies that are commonly used in Scrum. We will give also some insights on Kanban.**
 
 <a id="agile_3_1"></a>
-### 3.1 Scrum artifacts <a href="#top">&#8593;</a><br>
+### 3.1 Scrum Artefacts <a href="#top">&#8593;</a><br>
 
 **(i) `Product Backlog`:**<br>
 Product Backlog is the master list of work that needs to get done maintained by the product owner or product manager. This is a dynamic list of features, requirements, enhancements, and fixes that acts as the input for the sprint backlog. It is, essentially, the team’s “To Do” list. The product backlog is constantly revisited, re-prioritized and maintained by the Product Owner because, as we learn more or as the market changes, items may no longer be relevant or problems may get solved in other ways.
@@ -119,7 +123,7 @@ This review meeting is also when the product owner reworks the product backlog b
 **(vi) `Sprint retrospective`:**<br>The retrospective is where the team comes together to document and discuss what worked and what didn’t work in a sprint, a project, people or relationships, tools, or even for certain ceremonies. The idea is to create a place where the team can focus on what went well and what needs to be improved for the next time, and less about what went wrong.
 
 <a id="agile_3_3"></a>
-### 3.3 Sprint Cycle <a href="#top">&#8593;</a><br>
+### 3.3 Sprint Cycle Illustration <a href="#top">&#8593;</a><br>
 A great view of the sprint in Circle which shows the nesting of all the interactions.
 
 
