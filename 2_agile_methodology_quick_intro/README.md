@@ -128,17 +128,13 @@ A great view of the sprint in Circle which shows the nesting of all the interact
 
 
 **Sprint Cycle**<br>
-![Sprint Cycle](images/process_scrum/0_agile_methodology_quick_intro_sprint_cycle_atlassian.jpg)
+![Sprint Cycle](images/process_scrum/0_agile_methodology_quick_intro_sprint_cycle_atlassian.jpg)<br>
 *<code>Copyright &copy; Atlassian</code>*
 
 
 
 ### 3.3 One word on Kanban <a href="#top">&#8593;</a><br>
 Kanban is a popular framework used to implement agile software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.
-
-
-
-
 
 
 *Source: <a href="https://www.atlassian.com/agile" target="_blank">https://www.atlassian.com/agile</a>*
@@ -171,17 +167,23 @@ Even, if you do not work with a geographically distributed team, having a tool s
 *Source: <a href="https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp" target="_blank">https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp</a>*
 
 **The lean startup: the build-measure-learn feedback loop.**<br>
-![The lean startup: the build-measure-learn feedback loop.](images/process_scrum/2_agile_methodology_quick_intro_build_measure_learn_loop_lean_method.png)
+![The lean startup: the build-measure-learn feedback loop.](images/process_scrum/2_agile_methodology_quick_intro_build_measure_learn_loop_lean_method.png)<br>
+*<code>Copyright &copy; mindtools.com</code>*
+
+
+
 
 **(ii) Sprint Steps in Scrum**<br>
 These pictures can help out to understand the Sprint's steps in the Scrum method.
 
 **The sequence of steps of a Sprint in the Scrum method**<br>
-![The sequence of steps of a Sprint in the Scrum method](images/process_scrum/4_agile_methodology_quick_intro_ScrumFrameworkTest_small.png)
+![The sequence of steps of a Sprint in the Scrum method](images/process_scrum/4_agile_methodology_quick_intro_ScrumFrameworkTest_small.png)<br>
+*<code>Copyright &copy; valnaos.com</code>*
 
 
 **A Sprint presentation more digital application oriented**
-![A Sprint presentation more digital application oriented](images/process_scrum/3_agile_methodology_quick_intro_agile_scrum_proccess_small.png)
+![A Sprint presentation more digital application oriented](images/process_scrum/3_agile_methodology_quick_intro_agile_scrum_proccess_small.png)<br>
+*<code>Copyright &copy; axosoft.com</code>*
 
 
 <a id="agile_4"></a>
@@ -189,17 +191,24 @@ These pictures can help out to understand the Sprint's steps in the Scrum method
 You can use boards, where at a glance, you can visualize the progress of any project. You can find plentuy of models on the web to get columns names and define your own logic that fit to your needs.
 
 
-**A board can be a quite sophisticated and organised that reflects your work-flow**
-![A board can be a quite sophisticated and organised that reflects your work-flow](images/boards/2_agile_methodology_quick_intro_agile_working_board_small.jpg)
+**A board can be a quite sophisticated and organised that reflects your workflow**
+![A board can be a quite sophisticated and organised that reflects your work-flow](images/boards/2_agile_methodology_quick_intro_agile_working_board_small.jpg)<br>
+*<code>Copyright &copy; Spotify Agile Board pinterest.com</code>*
 
 
 **A board with on the right events coming up like Retro, Demo...etc.**
-![A board with on the right events coming up like Retro, Demo...etc.](images/boards/1_agile_methodology_quick_intro_agile_transition_how_create_offline_board_small.jpg)
+![A board with on the right events coming up like Retro, Demo...etc.](images/boards/1_agile_methodology_quick_intro_agile_transition_how_create_offline_board_small.jpg)<br>
+*<code>Copyright &copy; productcoalition.com</code>*
+
+
+
 
  Always try to associate Form and Substance. Here is a example of Virtuous Circle for Scrum Values.
 
 **Or you can use Board as Values Reminder**
-![Or you can use Board as Values Reminder](images/boards/3_agile_methodology_quick_intro_improve_virtuous_circle_scrum_values_small.jpg)
+![Or you can use Board as Values Reminder](images/boards/3_agile_methodology_quick_intro_improve_virtuous_circle_scrum_values_small.jpg)<br>
+*<code>Copyright &copy; FMM</code>*
+
 
 <a id="agile_5"></a>
 ## 5. Graphic facilitation <a href="#top">&#8593;</a><br>
@@ -212,7 +221,10 @@ One of my favourite occupation that goes pretty well with the previous point. It
 
 **During a meeting as speech facilitator**<br>
 *Help you out to position yourself in a retro for instance*
-![During a meeting as speech facilitator](images/graphic_facilitation/1_agile_methodology_quick_intro_graphic_facilitation_word_cloud.png)
+![During a meeting as a speech facilitator](images/graphic_facilitation/1_agile_methodology_quick_intro_graphic_facilitation_word_cloud.jpg)<br>
+*<code>Copyright &copy; uxstudioteam.com</code>*
+
+
 
 **Advantages of drawing over other tools, more "plastic"**
 
@@ -220,14 +232,15 @@ Why is there advantages of storyboarding before development on the other tools f
 
 **Here is a beginning of answer: reflection & thoughts are most of time non-linear. Drawing is a key element for storytelling. Drawing combines more easily errors, shortcuts, reversals that are the reflection and creativity essentials.**<br>
 
-![Advantages of drawing over other tools, more "plastic"](images/graphic_facilitation/3_agile_methodology_quick_intro_storyboarding_small.jpg)
+![Advantages of drawing over other tools, more "plastic"](images/graphic_facilitation/3_agile_methodology_quick_intro_storyboarding_small.jpg)<br>
 *<code>Copyright &copy; Creative Market</code>*
 
 <a id="agile_5_2"></a>
 ### 5.2 The Graphic facilitation explained by Graphic facilitation <a href="#top">&#8593;</a><br>
 
 **The whole concept in one picture**<br>
-![The whole concept in one picture](images/graphic_facilitation/6_agile_methodology_quick_intro_visual_notes_sketchnotes_small.jpg)
+![The whole concept in one picture](images/graphic_facilitation/6_agile_methodology_quick_intro_visual_notes_sketchnotes_small.jpg)<br>
+*<code>Copyright &copy; davidrickert.com</code>*
 
 <a id="agile_5_3"></a>
 ### 5.3 Be humble start step by step <a href="#top">&#8593;</a><br>
@@ -235,27 +248,35 @@ Why is there advantages of storyboarding before development on the other tools f
 You have fundamentals form that can help you out in order to project your ideas on paper support.
 
 **Play with fundamentals**<br><br>
-![Play with fundamentals](images/graphic_facilitation/8_agile_methodology_quick_intro_visual_notes_basics_small.jpg)
+![Play with fundamentals](images/graphic_facilitation/8_agile_methodology_quick_intro_visual_notes_basics_small.jpg)<br>
 *<code>Copyright &copy; Creative Market</code>*
 
 **Then start using basics elements**<br>
-![Then start using basics elements](images/graphic_facilitation/5_agile_methodology_quick_intro_visual_notes_basics_small.jpg)
+![Then start using basics elements](images/graphic_facilitation/5_agile_methodology_quick_intro_visual_notes_basics_small.jpg)<br>
+*<code>Copyright &copy; pinterest.com</code>*
+
 
 <a id="agile_5_4"></a>
 ### 5.4 Let's do it together, pick up a form and do the try-it-yourself <a href="#top">&#8593;</a><br>
 
 **Game 1: Keep in form**<br>
 *Draw basic forms to start with graphic facilitation*<br>
-![Game 1: Keep in form](images/graphic_facilitation/2_agile_methodology_quick_intro_graphic_facilitation_word_clouds_bikablo_small.jpg)
+![Game 1: Keep in form](images/graphic_facilitation/2_agile_methodology_quick_intro_graphic_facilitation_word_clouds_bikablo_small.jpg)<br>
+*<code>Copyright &copy; uxstudioteam.com</code>*
+
 
 **Game 2: Oh, please, Draw Me A Sheep!  No, I will draw a banner!**<br>
 *Add some banner to your board or your notes*<br>
-![Game 2: Oh, please, Draw Me A Sheep!  No, I will draw a banner!](images/graphic_facilitation/4_agile_methodology_quick_intro_visual_notes_banners_small.jpg)
+![Game 2: Oh, please, Draw Me A Sheep!  No, I will draw a banner!](images/graphic_facilitation/4_agile_methodology_quick_intro_visual_notes_banners_small.jpg)<br>
+*<code>Copyright &copy; pinterest.ca</code>*
+
 
 
 **Game 3: The Roy Lichtenstein Contest**<br>
 *Let's play with words and emphasize intentions with the fonts like in Comic Books*<br>
-![Game 3: The Roy Lichtenstein Contest](images/graphic_facilitation/7_agile_methodology_quick_intro_visual_notes_wording_small.jpg)
+![Game 3: The Roy Lichtenstein Contest](images/graphic_facilitation/7_agile_methodology_quick_intro_visual_notes_wording_small.jpg)<br>
+*<code>Copyright &copy; uxmastery.com</code>*
+
 
 <a id="agile_5_5"></a>
 ### 5.5 Want more? <a href="#top">&#8593;</a><br>
@@ -315,7 +336,8 @@ The combination is here to promote the horizontal integration of their platform 
 My favourite element in the Sketch software is the ability to "clone" content and/or "plug" external sources to give more credibility to your models, to make them more attractive to all: PO, Stakeholders, Graphic Designers, Developers etc.
 
 **The mockup of a screen based on fake json made with Sketch and Craft**<br>
-![The mockup of a screen based on fake json made with Sketch and Craft](images/wireframing_sketch/5_use_sketch_craft_invisionapp_10.png)
+![The mockup of a screen based on fake json made with Sketch and Craft](images/wireframing_sketch/5_use_sketch_craft_invisionapp_10_new.jpg)<br>
+*<code>Copyright &copy; flaven.fr</code>*
 
 
 Source: How-to use Sketch and Craft (French)<br><a href="http://flaven.fr/2017/05/sketch-craft-utiliser-la-combinaison-sketch-et-craft-pour-la-conception-dapplications-android-et-ios/" target="_blank">http://flaven.fr/2017/05/sketch-craft-utiliser-la-combinaison-sketch-et-craft-pour-la-conception-dapplications-android-et-ios/</a>
@@ -325,26 +347,36 @@ Source: How-to use Sketch and Craft (French)<br><a href="http://flaven.fr/2017/0
 Some images from real experiences from website mock-up or wp plugin mock-up.
 
 **Elements for Wireframing with Balsamiq**<br>
-![Wireframing with Balsamiq](images/wireframing_sketch/1_agile_methodology_quick_balsamiq_sketching.png)
+![Wireframing with Balsamiq](images/wireframing_sketch/1_agile_methodology_quick_balsamiq_sketching.png)<br>
+*<code>Copyright &copy; medium.com/@pavithraa</code>*
+
 
 **All elements to illustrate Funnel scenario or an Epic, that aggregate User Storie**<br>
-![Wireframing with Balsamiq](images/wireframing_sketch/3_agile_methodology_quick_wireframing.jpg)
+![Wireframing with Balsamiq](images/wireframing_sketch/3_agile_methodology_quick_wireframing.jpg)<br>
+*<code>Copyright &copy; oursky.com</code>*
+
 
 **Designed before developed : a WP plugin designed first with Balsamiq**<br>
 
 *This plugin really existed. It was part of end-to-end exercise for crafting a WordPress plug-in from mock-up to field-name description, going through coding and even including a gherkin feature in order to offer the best user experience. Check <a href="https://github.com/bflaven/PluginWordpressForFun/tree/master/check_news" target="_blank">https://github.com/bflaven/PluginWordpressForFun/tree/master/check_news</a>*
 
-![Wireframing with Balsamiq](images/wireframing_sketch/2_agile_methodology_quick_mockup_edit_article_factcheck_area.jpg)
+![Wireframing with Balsamiq](images/wireframing_sketch/2_agile_methodology_quick_mockup_edit_article_factcheck_area.jpg)<br>
+*<code>Copyright &copy; FMM</code>*
+
 
 
 **Input: The screen functionally designed with Balsamiq**<br>
-![Input: The screen functionally designed with Balsamiq](images/wireframing_sketch/4_agile_methodology_quick_input_app_modal_small.jpg)
+![Input: The screen functionally designed with Balsamiq](images/wireframing_sketch/4_agile_methodology_quick_input_app_modal_small.jpg)<br>
+*<code>Copyright &copy; FMM</code>*
+
 
 **Output: The same screen developed in Symfony**<br>
 
 *This work can be done even though the API web services needed to operate this screen are not ready. It is a functional milestone not a technical one!*
 
-![Output: The screen made in Symfony](images/wireframing_sketch/4_agile_methodology_quick_output_app_modal_small.jpg)
+![Output: The screen made in Symfony](images/wireframing_sketch/4_agile_methodology_quick_output_app_modal_small.jpg)<br>
+*<code>Copyright &copy; FMM</code>*
+
 
 <a id="agile_7"></a>
 ## 7. Gherkin <a href="#top">&#8593;</a><br>
@@ -642,8 +674,7 @@ The cultural hack has L.I.V.E characteristics.
 - Four agile ceremonies, demystified<br><a href="https://www.atlassian.com/agile/scrum/ceremonies" target="_blank">https://www.atlassian.com/agile/scrum/ceremonies</a>
 
 
+- 15 Free Agile Project Management Tools for Your Scrum Team<br><a href="https://www.daxx.com/blog/development-team/free-agile-project-management-tools-for-your-scrum" target="_blank">https://www.daxx.com/blog/development-team/free-agile-project-management-tools-for-your-scrum</a>
 
-15 Free Agile Project Management Tools for Your Scrum Team
 
-https://www.daxx.com/blog/development-team/free-agile-project-management-tools-for-your-scrum
 
