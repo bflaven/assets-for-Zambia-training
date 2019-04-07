@@ -57,7 +57,7 @@ Unfortunately or fortunately, the relevance of a message can only be measured by
 
 <a id="agile_2"></a>
 ## 2. Play Agile <a href="#top">&#8593;</a><br>
-Let's gave the same short job description for project management from 2 different perspectives or mindsets.
+Let's gave the same short job description for project management from 2 different perspectives or mindsets, deliberately exaggerated.
 
 **With a Waterfall perspective**
 
