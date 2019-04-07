@@ -49,13 +49,11 @@ A mix of theoretical and practical elements but the purpose to remain vivid and 
 
 **Time is at Storytelling, in addition to language's elements, there are plenty of artefacts that promote and inseminate agile values in a team.**
 
-This is the purpose of the list below. What does these heterogeneous elements reveal? It is important to vary and mix the modes of communication from visual to linguistic and even corporal. Why? Because we are as individuals both identical and singular and all these individuals make up a team.
+This is the purpose of the list below. What does these heterogeneous elements reveal? It is important to vary and mix the modes of communication from visual to linguistic and even corporal. Why? Because we are as individuals both identical and singular and all these individuals make a team.
 
-Unfortunately or fortunately, the relevance of a message is only measured by its adoption and therefore its performance, that is to say by the effect it produces. It is therefore important to define some synthetic "mantra" which describe in a few words the objectives pursued or the shared values.
+Unfortunately or fortunately, the relevance of a message can only be measured by its adoption and the effect it produces. It is therefore important to define some synthetic "mantra" which describe in a few words the objectives pursued or the shared values by the team.
 
-Without freaking the caricature however, do not announce the 5 key rules of management and give only 4 or 6. This is a mess.
-
-**Create a narrative or "mantra" for how infusing growth mindset traits in your culture can accelerate transformation. Develop language (for example, "learn-it-all beats know-it-all") that you routinely use in meetings and key change situations.**
+**Create a narrative for infusing growth mindset traits in your team culture can accelerate transformation. Develop language (for example, "learn-it-all beats know-it-all") that you routinely use in meetings and key change situations.**
 
 <a id="agile_2"></a>
 ## 2. Play Agile <a href="#top">&#8593;</a><br>
