@@ -1,7 +1,7 @@
 <a id="top"></a>
-# Agile Methodology a quick intro 
+# In the midst of Agile Methodology
 
-A very short introduction about the agility and with a mix of advices, practices, return on experience... And always few basic takeaways.
+A short introduction about the agility and with a mix of advices, practices, return on experience... And always few basic takeaways.
 
 ## 1. Behind the scene
 
