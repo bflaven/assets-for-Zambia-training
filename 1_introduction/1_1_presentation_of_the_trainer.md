@@ -1,7 +1,7 @@
 ## 1_1 Presentation of the trainer 
 On a strict professional point of view.
 
-**(i) Before FMM**
+**(i) Before FMM**<br>
 I studied economics.
 I have been a Project Manager in a wide variety of Internet business
 applications both in Mobile and in Desktop for 20 years now. 
@@ -9,7 +9,7 @@ applications both in Mobile and in Desktop for 20 years now.
 Running a web agency before entering into FMM with many clients in the media world.
 You can find more information about his professional life on his personal website (www.flaven.fr) or his linkedin profile https://fr.linkedin.com/in/brunoflaven. 
 
-**(ii) In FMM**
+**(ii) In FMM**<br>
 I started in FMM in July 2013.
 I worked as project manager for redesigning websites around the first API's version.
 Currently, I am the project manager in
