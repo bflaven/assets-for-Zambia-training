@@ -253,7 +253,7 @@ Why is there advantages of storyboarding before development on the other tools f
 **Here is a beginning of answer: reflection & thoughts are most of time non-linear. Drawing is a key element for storytelling. Drawing combines more easily errors, shortcuts, reversals that are the reflection and creativity essentials.**<br>
 
 ![Advantages of drawing over other tools, more "plastic"](images/graphic_facilitation/3_agile_methodology_quick_intro_storyboarding_small.jpg)<br>
-*<code>Copyright &copy; Creative Market</code>*
+*<code>Copyright &copy; Creative Market / nuggethead.net</code>*
 
 <a id="agile_5_2"></a>
 ### 5.2 The Graphic facilitation explained by Graphic facilitation <a href="#top">&#8593;</a><br>
