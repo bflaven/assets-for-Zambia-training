@@ -42,9 +42,7 @@ Avoid complexity between all the stakeholders, choose SMART objectives.
 Testing and developing your own plugins to extend features is better than twisting WP with existing WP plugins (semi-advanced)
 
 **(iv) Audit ffrom the current website (AUDIT V2 znbc.co.zm)**
-**Some elements from the audit of the website** 
-
-Here is a quick start for the audit of the website view-source:https://www.znbc.co.zm/
+**Some elements from the audit of the website, Here is a quick start for the audit of the website view-source:https://www.znbc.co.zm/**
 
 **1. The theme @ 20/03/19**
 view-source:https://www.znbc.co.zm/
@@ -94,40 +92,42 @@ https://wordpress.org/plugins/wp-pagenavi/
 
 You may have also all the vidorev-extensions requierd by the the theme
 
-**3. API**
+**3. API**<br>
+API activated Check https://www.znbc.co.zm/wp-json/
 
-API activated
-https://www.znbc.co.zm/wp-json/
-
-
+``` json
 "cmb2/v1",
 "oembed/1.0",
 "post-views-counter",
 "themeisle-sdk/v1", 
 "wp/v2"
+```
 
-**4. Robots**
+**4. Robots**<br>
 view-source:https://www.znbc.co.zm/robots.txt
+``` text
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 Basic Robots.txt implemeted
+```
 
-**5. Sitemap**
+**5. Sitemap**<br>
 No sitemap https://www.znbc.co.zm/sitemap.xml
 
 
-**6. Cache**
+**6. Cache**<br>
 No cache enabled for instance via supercache
 
-**7. Categories editorial**
+**7. Categories editorial**<br>
 Check the categories at https://www.znbc.co.zm/wp-json/wp/v2/categories
 
-*technical categories ?*
+``` text
+#technical categories
 "Ads",
 "Global",
 
-*editorial categories ?*
+#editorial categories
 "Agriculture",
 "Business",
 "Culture",
@@ -136,8 +136,9 @@ Check the categories at https://www.znbc.co.zm/wp-json/wp/v2/categories
 "Fashion &amp; LifeStyle",
 "Featured",
 "Health",
+```
 
-**8. Fonts**
+**8. Fonts**<br>
 Usage of google fonts, related ot the theme
 You are using some Google fonts for
 
