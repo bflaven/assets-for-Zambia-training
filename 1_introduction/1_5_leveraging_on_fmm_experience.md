@@ -46,59 +46,55 @@ Testing and developing your own plugins to extend features is better than twisti
 
 Here is a quick start for the audit of the website view-source:https://www.znbc.co.zm/
 
-*+ 1. The theme @ 20/03/19*
+**1. The theme @ 20/03/19**
 view-source:https://www.znbc.co.zm/
 - ZNBC.CO.ZM has change the WP theme paper from https://themeforest.net/user/tagdiv for vidorev (https://themeforest.net/item/vidorev-video-wordpress-theme/21798615)
 demo @ http://demo.beeteam368.com/vidorev/
 
 
-*+ 2. Plugin list @ 20/03/19*
+**2. Plugin list @ 20/03/19**
 From what I saw from the source code
 Here is the non-definitive list of plugins used in znbc.co.zm
 
 - ZNBC.CO.ZM has removed event-aggregator, revslider
---- https://www.znbc.co.zm/wp-json/tribe/events/v1
---- Source: https://theeventscalendar.com/product/wordpress-events-calendar/
+https://www.znbc.co.zm/wp-json/tribe/events/v1
+Source: https://theeventscalendar.com/product/wordpress-events-calendar/
 
-*Plugins used :*
+**Plugins used :**
 
-cmb2
+- cmb2
 https://wordpress.org/plugins/cmb2/
 
-mediaelement
+- mediaelement
 https://wordpress.org/plugins/media-element-html5-video-and-audio-player/
 
-menu-icons
+- menu-icons
 https://wordpress.org/plugins/menu-icons/
 
-buddypress
+- buddypress
 https://wordpress.org/plugins/buddypress/
 
-post-views-counter
+- post-views-counter
 https://wordpress.org/plugins/post-views-counter/
 
-social-counter
+- social-counter
 https://wordpress.org/plugins/accesspress-social-counter/
 
-tf-numbers-number-counter-animaton
+- tf-numbers-number-counter-animaton
 https://wordpress.org/plugins/tf-numbers-number-counter-animaton/
 
-weather-atlas
+- weather-atlas
 https://wordpress.org/plugins/weather-atlas/
 
-yet-another-stars-rating
+- yet-another-stars-rating
 https://wordpress.org/plugins/yet-another-stars-rating/
 
-wp-pagenavi
+- wp-pagenavi
 https://wordpress.org/plugins/wp-pagenavi/
 
 You may have also all the vidorev-extensions requierd by the the theme
 
-
-You are using some Google fonts for
-//fonts.googleapis.com/css?family=Open+Sans
-
-*3. API*
+**3. API**
 
 API activated
 https://www.znbc.co.zm/wp-json/
@@ -110,28 +106,28 @@ https://www.znbc.co.zm/wp-json/
 "themeisle-sdk/v1", 
 "wp/v2"
 
-+ 4. Robots
+**4. Robots**
 view-source:https://www.znbc.co.zm/robots.txt
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
---- basic Robots.txt implemeted
+Basic Robots.txt implemeted
 
-*4. Sitemap*
---- No sitemap https://www.znbc.co.zm/sitemap.xml
+**5. Sitemap**
+No sitemap https://www.znbc.co.zm/sitemap.xml
 
 
-*5. Cache*
---- No cache enabled for instance via supercache
+**6. Cache**
+No cache enabled for instance via supercache
 
-*6. Categories editorial*
+**7. Categories editorial**
 Check the categories at https://www.znbc.co.zm/wp-json/wp/v2/categories
 
-*- technical categories ?*
+*technical categories ?*
 "Ads",
 "Global",
 
-*- editorial categories ?*
+*editorial categories ?*
 "Agriculture",
 "Business",
 "Culture",
@@ -141,26 +137,30 @@ Check the categories at https://www.znbc.co.zm/wp-json/wp/v2/categories
 "Featured",
 "Health",
 
-*+ 7. Fonts*
+**8. Fonts**
 Usage of google fonts, related ot the theme
+You are using some Google fonts for
 
 - from fonts.googleapis.com
+``` html
 https://fonts.googleapis.com/css?family=Open+Sans
 https://fonts.googleapis.com/css?family=Open+Sans:300,400&subset=cyrillic,greek,latin-ext
 https://fonts.googleapis.com/css?family=Oswald
 https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C700
 https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic
+```
 
-*- from fonts.gstatic.com*
---- opensans/v15
+- from fonts.gstatic.com: opensans/v15, oswald/v16
+``` html
+<!-- opensans/v15 -->
 https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2
 
---- oswald/v16
+<!-- oswald/v16 -->
 https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-6hwTus9CAZek1w.woff2
 https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-ohoTus9CAZek1w.woff2
 https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-xhsTus9CAZek1w.woff2
 https://fonts.gstatic.com/s/oswald/v16/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2
-
+```
 
 
 
