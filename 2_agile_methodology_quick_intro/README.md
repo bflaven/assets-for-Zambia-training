@@ -113,12 +113,13 @@ The work to be performed (scope) during the current sprint is planned during thi
 At the end of the planning meeting, every scrum member needs to be clear on what can be delivered in the sprint and how the increment can be delivered.
 
 **(iii) `Sprint`:**<br>
-A sprint is the actual time period when the scrum team works together to finish an increment. Two weeks is a pretty typical length for a sprint, though some teams find a week to be easier to scope or a month to be easier to deliver a valuable increment. Dave West, from Scrum.org advises that the more complex the work and the more unknowns, the shorter the sprint should be. But it's really up to your team, and you shouldn't be afraid to change it if it's not working! During this period, the scope can be re-negotiated between the product owner and the development team if necessary. This forms the crux of the empirical nature of scrum.
 
-<!-- - `Sprint`: A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches. It makes the project more manageable. Let's say it takes between 2 or 3 weeks. -->
+- `Sprint`: A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches. It makes the project more manageable. Let's say it takes between 2 or 3 weeks.
+
+A `sprint` is the actual time period when the scrum team works together to finish an increment. Two weeks is a pretty typical length for a `sprint`, though some teams find a week to be easier to scope or a month to be easier to deliver a valuable increment. Dave West, from Scrum.org advises that the more complex the work and the more unknowns, the shorter the `sprint` should be. But it's really up to your team, and you shouldn't be afraid to change it if it's not working! During this period, the scope can be re-negotiated between the product owner and the development team if necessary. This forms the crux of the empirical nature of scrum.
 
 
-All the events — from planning to retrospective — happen during the sprint. Once a certain time interval for a sprint is established, it has to remain consistent throughout the development period. This helps the team learn from past experiences and apply that insight to future sprints.
+All the events — from planning to retrospective — happen during the sprint. Once a certain time interval for a `sprint` is established, it has to remain consistent throughout the development period. This helps the team learn from past experiences and apply that insight to future sprints.
 
 **(iv) `Daily Scrum` or `Stand Up`:**<br>
 This is a daily super-short meeting that happens at the same time (usually mornings) and place to keep it simple. Many teams try to complete the meeting in 15 minutes, but that's just a guideline. This meeting is also called a `daily stand-up` emphasizing that it needs to be a quick one. The goal of the daily scrum is for everyone on the team to be on the same page, aligned with the sprint goal, and to get a plan out for the next 24 hours.
