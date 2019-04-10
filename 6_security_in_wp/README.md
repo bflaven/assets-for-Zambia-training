@@ -145,7 +145,7 @@ Command to add a new user
 htpasswd -c /[path-to-your-htpasswd-file]/.htpasswd mysuperuser2
 ```
 
-**Find the real path for your WP installation**
+**Find the real path for your WP installation**<br>
 In order to get the real path to your WordPress installation send a php file with the following command inside at the root directory of your installation.
 
 ``` php
@@ -184,8 +184,7 @@ require valid-user
 ```
 
 
-**Diagnose: Scanning the files of your previous WP**
-
+**Diagnose: Scanning the files of your previous WP**<br>
 As you have made a fresh and new installation as you may need to re-upload some of the existing files from your previous WP eg uploads directory, plugins, themes...
 
 I strongly advised you to scan these files that are probably infected, with malware more discrete, so you need to find and destroy it. These files are potential threats for your new WP such as backdoors, code injections, malicious iframes, hidden eval code, the the base64 family:base64_decode, gzinflate(base64_decode, eval(gzinflate(base64_decode, eval(base64_decode... and more. We have used for this task one of the most popular plugin named wordfence
