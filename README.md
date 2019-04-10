@@ -23,6 +23,9 @@ An article about the advantages to choose WP as a CMS to build an application, q
 - <a href="/5_zambia_plugins/">**Best practices in WP plugin development!** &#8594;</a><br>
 A sort of state of play in terms of development, especially recommendations to tie in with the good practices currently underway for plugin development in WordPress.
 
+### Manage security in WP
+- <a href="/6_security_in_wp/">**Few elements to manage security in WP** &#8594;</a><br>
+Some WordPress security best practices and some security plugins advices... etc and also a small WP Hack Survival Guide: What To Do, How To Act...
 
 ### Setup your environment for WordPress (WP)
 - <a href="/8_using_gitflow/">**Using SourceTree with Gitflow workflow** &#8594;</a><br>
