@@ -13,6 +13,9 @@ Few elements for a quick intro about trainer, context, purposes... And so on.
 - <a href="/2_agile_methodology_quick_intro/">**Introduction to the training session** &#8594;</a><br>
 A short introduction about the agility and with a mix of advices, practices, return on experience... And always few basic takeaways.
 
+### Editorial it matters!
+- <a href="/3_editorial_matters/">**Editorial it matters!** &#8594;</a><br>
+As a matter of facts, we usually drown in the technique and forgot that a news website is first of all made by content generally produced by journalists. There is no technical miracle for the moment that will harmonize with a snap of a finger technical issue and content concerns.
 
 ### An introduction to the API-centric strategy and the WordPress API 
 - <a href="/4_testing_the_wp_api/">**Leveraging on the WP API with WordPress** &#8594;</a><br>
