@@ -8,7 +8,6 @@ How things run under the hood...
 - <a href="/1_introduction/">**Introduction to the training session** &#8594;</a><br>
 Few elements for a quick intro about trainer, context, purposes... And so on. 
 
-
 ### In the midst of Agile Methodology 
 - <a href="/2_agile_methodology_quick_intro/">**Some elements about the Agile method** &#8594;</a><br>
 A short introduction about the agility and with a mix of advices, practices, return on experience... And always few basic takeaways.
