@@ -3,6 +3,8 @@
  
 **A quick presentation with screen captures of the GitFlow Workflow managed by SourceTree. A best practice whether you develop a WordPress plugin or need to version a final document.**
 
+
+
 **<a href="#1_gitflow">1. Intro** &#8595;</a><br>
 **<a href="#2_gitflow">2. How to set up the workflow Gitflow in a local repository ?** &#8595;</a><br>
 **<a href="#3_gitflow">3. Initialize Gitflow for the repository** &#8595;</a><br>
