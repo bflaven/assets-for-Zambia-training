@@ -5,7 +5,7 @@ How things run under the hood...
 ## Table of content
 
 ### Introduction 
-- <a href="/1_introduction/">**Introduction to the training session** &#8594;</a><br>
+- <a href="./1_introduction/README.md">**Introduction to the training session** &#8594;</a><br>
 Few elements for a quick intro about trainer, context, purposes... And so on. 
 
 ### In the midst of Agile Methodology 

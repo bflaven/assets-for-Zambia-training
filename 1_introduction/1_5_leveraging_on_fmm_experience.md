@@ -1,4 +1,4 @@
-##  1_5 Objective of this training (How to use WordPress to run a successful magazine / news website ?)
+##  1_5 Objective of this training: Objective of this training: How to use WordPress to run a successful magazine / news website? <a href="README.md">&#8592;</a><br>
 
 **(i) Quick FMM landscape**
 
