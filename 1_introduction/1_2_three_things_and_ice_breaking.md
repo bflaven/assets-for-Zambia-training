@@ -1,4 +1,4 @@
-## 1_2 3 things you want to learn in this Class, the method. <a href="README.md">&#8592;</a><br>
+## 1_2 Three things you want to learn in this Class, the method. <a href="README.md">&#8592;</a><br>
 
 A FMM, we tackled the digital transformation since 3 years now, a serious move from waterfall to agile in digital project management. So basically, we always wonder what can be learned from the others and we always give R.O.T.I (Return On Time Invested) to what we are currently doing.
 
