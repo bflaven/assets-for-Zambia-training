@@ -1,4 +1,4 @@
-##  1_5 Leveraging on FMM Experience? <a href="README.md">&#8592;</a><br>
+##  1_5 Leveraging on FMM Experience <a href="README.md">&#8592;</a><br>
 
 **(i) Quick FMM landscape**
 
