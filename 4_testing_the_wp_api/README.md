@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Leveraging on the WP API with WordPress
+# Leveraging on the WP API with WordPress <a href="../README.md">&#8592; Home</a>
 
 An article about why 2 important things: 
 - Some advantages to choose WP as a CMS to build application on. It will give us the opportunity to introduce the API-first strategy and thrive the usage of WP as a API's backbone.

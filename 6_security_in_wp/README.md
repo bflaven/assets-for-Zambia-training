@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Manage security in WP
+# Manage security in WP <a href="../README.md">&#8592; Home</a>
 
 The WordPress security is a hell of topic for every website owner. Just to have an rough idea, Google blacklists around 10,000+ websites every day for malware and around 50,000 for phishing every week.
 

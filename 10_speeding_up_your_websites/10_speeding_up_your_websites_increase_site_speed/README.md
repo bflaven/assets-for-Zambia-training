@@ -1,5 +1,5 @@
 <a id="top"></a>
-# How to increase the site speed of an existing website ? 
+# How to increase the site speed of an existing website? (part 1) <a href="../README.md">&#8592; Home</a>
 
 An article about the keys factors to improve speed of an existing website made with WP.
 

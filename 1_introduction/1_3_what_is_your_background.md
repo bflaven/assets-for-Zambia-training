@@ -4,6 +4,7 @@ Maybe we can take a couple of minutes or even hours so you can describe each oth
 far.
 
 ### 1. What I need to know about General background?
+
 Maybe you can provide me general information about ZNBC, Zambia People concerns, the Way We Consume News
 
 **What I need to know about you?**<br>
@@ -26,6 +27,7 @@ Everyone says 3 truths and 3 lies about themselves and people need to guess.
 
 
 ### 3. Your expectations about this training?
+
 What are your expectations. Question : 3 things you want to learn?
 Like I did before...
 

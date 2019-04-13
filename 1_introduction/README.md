@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Introduction to the training session <a href="../README.md">&#8592;</a><br>
+# Introduction to the training session <a href="../README.md">&#8592; Home</a>
 
 A traditional and small introduction about trainer, context, purposes... And so on.
 

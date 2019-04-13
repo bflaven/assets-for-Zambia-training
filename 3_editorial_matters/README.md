@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Editorial it matters!
+# Editorial it matters! <a href="../README.md">&#8592; Home</a>
 
 **<a href="#editorial_1">1. Define a content strategy &#8595;</a>**<br>
 **<a href="#editorial_1_1">1.1 Evaluate &#8595;</a>**<br>

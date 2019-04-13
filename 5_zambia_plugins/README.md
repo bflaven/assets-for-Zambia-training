@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Best practices in WP plugin development!
+# Best practices in WP plugin development! <a href="../README.md">&#8592; Home</a>
 
 I have made from time to time and for years plugin without asking me what were the good practices in terms of development. I started to apply basically what was advised in how-to, books, posts, anything that was relevant and practical.
 

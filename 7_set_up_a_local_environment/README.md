@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Set up a local environment for WordPress (WP)
+# Set up a local environment for WordPress (WP) <a href="../README.md">&#8592; Home</a>
 An article to help you out to set a proper local environment for WordPress with a strong focus on Docker. **This a complete setup guide for WP in Docker**
 
 **All the resources used in that article are available in the directory of the Github account @ [/7_set_up_a_local_environment/00_files_for_install_wp/](/7_set_up_a_local_environment/00_files_for_install_wp/)**

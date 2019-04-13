@@ -1,5 +1,5 @@
 <a id="top"></a>
-# How to start a WP theme creation, integrating the best practices for optimization and speed, based on Gulp. (part 2)
+# How to start a WP theme creation, integrating the best practices for optimization and speed, based on Gulp? (part 2) <a href="../README.md">&#8592; Home</a>
 
 
 **An article about how-to build a WP theme with the help of Gulp, an essential facilitator in WordPress theme creation. This article is part of the series `All you need to know about WP optimization`**
@@ -118,7 +118,7 @@ touch gulpfile.js
 ``` javascript
 /* usage */
 
-// cd /Users/brunoflaven/Documents/02_copy/_technical_training_zambia_znbc/000_release_version/10_speeding_up_your_websites/speeding-up-your-websites-try-1/zambia-wp-test-1
+// cd /path-to-theme/zambia-wp-test-1
 
 // if need to known all the tasks
 // gulp --tasks 
