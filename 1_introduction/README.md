@@ -7,7 +7,7 @@ A traditional and small introduction about trainer, context, purposes... And so 
 **<a href="1_2_three_things_and_ice_breaking.md">1_2 Introduce yourself? 3 things you want to learn in this Class. &#8594;</a>**<br>
 **<a href="1_3_what_is_your_background.md">1_3 What is your background?  &#8594;</a>**<br>
 **<a href="1_4_objectives_of_this_training.md">1_4 Objectives of this training? &#8594;</a>**<br>
-**<a href="1_5_leveraging_on_fmm_experience.md">1_5 Objective of this training: How to use WordPress to run a successful magazine / news website? &#8594;</a>**<br>
+**<a href="1_5_leveraging_on_fmm_experience.md">1_5 Leveraging on FMM Experience? &#8594;</a>**<br>
 
 
 
