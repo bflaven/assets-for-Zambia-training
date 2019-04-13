@@ -12,8 +12,8 @@
 **<a href="#6_bestpractises">6. Do some Gulp task for images** &#8595;</a><br>
 **<a href="#7_bestpractises">6. 7. Create a task that will delete the destination folder** &#8595;</a><br>
 **<a href="#8_bestpractises">8. Using NPM to start Gulp** &#8595;</a><br>
-**<a href="#7_bestpractises">9. More resources** &#8595;</a><br>
-
+**<a href="#9_bestpractises">9. Using Browsersync** &#8595;</a><br>
+**<a href="#10_bestpractises">10. More resources** &#8595;</a><br>
 
 
 **All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/](/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/)**
@@ -108,7 +108,7 @@ gulp --version
 ```
 
 <a id="4_bestpractises"></a>
-## 4. Let's play with Gulp for a minutes <a id="1_bestpractises"></a>
+## 4. Let's play with Gulp for a minutes <a href="#top">&#8593;</a>
 We will for the moment define some tasks with no consequences, just to watch Gulp execute them.
 
 ``` bash
@@ -351,7 +351,7 @@ npm install --save-dev gulp-imagemin
 *If you are looking for big images, go at <a href="https://unsplash.com/search/photos/high-definition" target="_blank">High definition pictures* https://unsplash.com/search/photos/high-definition</a>
 
 <a id="7_bestpractises"></a>
-## 7. Create a task that will delete the destination folder.
+## 7. Create a task that will delete the destination folder <a href="#top">&#8593;</a>
 
 
 ```bash
@@ -367,7 +367,7 @@ export const build = series(clean, parallel(styles, images, copy))
 export default dev;
 ```
 <a id="8_bestpractises"></a>
-## 8. Using NPM to start Gulp.
+## 8. Using NPM to start Gulp <a href="#top">&#8593;</a>
 
 The good thing is that you can use NPM to handle Gulp. To enable such a control, you must update the `package.json` inside tour WP theme folder.
 
@@ -384,8 +384,8 @@ The good thing is that you can use NPM to handle Gulp. To enable such a control,
 npm run start #In our case, start will run gulp and gulp will run the default gulp task, which is dev.
 npm run build #will run gulp build --prod
 ```
-
-## 9. Using Browsersync.
+<a id="9_bestpractises"></a>
+## 9. Using Browsersync <a href="#top">&#8593;</a>
 
 I am currently using Docker to make WordPresss live. According to me, you'd better use MAMP to see properly working Browsersync. 
 
@@ -648,7 +648,7 @@ npm run build
 ```
 
 
-<a id="9_bestpractises"></a>
+<a id="10_bestpractises"></a>
 ## 10. More resources <a href="#top">&#8593;</a>
 
 
