@@ -16,7 +16,10 @@
 **<a href="#10_bestpractises">10. More resources** &#8595;</a><br>
 
 
-**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/](/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/)**
+**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites_best_practises_wp_theme_integration/](../10_speeding_up_your_websites_best_practises_wp_theme_integration/README.md)**
+
+
+
 
 <a id="1_bestpractises"></a>
 ## 1. Some requirements <a href="#top">&#8593;</a>

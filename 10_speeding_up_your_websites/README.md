@@ -4,13 +4,13 @@
 
 In part one of the series, we will present in detail optimization and apply what we've just learned. We will learn how to diagnose, to minify and leverage manually on key factors to grab speed for an existing website.
 
-**All the resources used in that article are available in the directory of the Github account @ [10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed/README.md](../10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed/README.md)**
+**All the resources used in that article are available in the directory of the Github account @ [10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed](../10_speeding_up_your_websites/10_speeding_up_your_websites_increase_site_speed/README.md)**
 
 
 
 ## 2. How to start a WP theme creation, integrating the best practices for optimization and speed, based on Gulp? (part 2)
 
-**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/README.md](../10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/README.md)**
+**All the resources used in that article are available in the directory of the Github account @ [/10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration](../10_speeding_up_your_websites/10_speeding_up_your_websites_best_practises_wp_theme_integration/README.md)**
 
 If you are tired to buy a theme on some market place and feel ready to start your own WP theme from scratch then this post is for you. You'd better integrate at the very beginning some of the best practices so your theme will be web speed compliant. In part two of the series, we will explore how to build a theme with the help of Gulp.
 
