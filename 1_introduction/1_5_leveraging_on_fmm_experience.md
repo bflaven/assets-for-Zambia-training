@@ -39,16 +39,16 @@ It is very heavy organization, pyramidal with at the top people not totally awar
 - Do not tweaking your purchased WP theme.
 - Testing and developing your own plugins to extend features is better than twisting WP with existing WP plugins (semi-advanced)
 
-**(iv) Audit ffrom the current website (AUDIT V2 znbc.co.zm)**
+**(iv) Audit from the current website (AUDIT V2 znbc.co.zm)**
 **Some elements from the audit of the website, Here is a quick start for the audit of the website view-source:https://www.znbc.co.zm/**
 
-**1. The theme @ 20/03/19**
+**1. The theme @ 20/03/19**<br>
 view-source:https://www.znbc.co.zm/
 - ZNBC.CO.ZM has change the WP theme paper from https://themeforest.net/user/tagdiv for vidorev (https://themeforest.net/item/vidorev-video-wordpress-theme/21798615)
-demo @ http://demo.beeteam368.com/vidorev/
+- Theme demo @ http://demo.beeteam368.com/vidorev/
 
 
-**2. Plugin list @ 20/03/19**
+**2. Plugin list @ 20/03/19**<br>
 From what I saw from the source code
 Here is the non-definitive list of plugins used in znbc.co.zm
 
@@ -137,8 +137,7 @@ Check the categories at https://www.znbc.co.zm/wp-json/wp/v2/categories
 ```
 
 **8. Fonts**<br>
-Usage of google fonts, related ot the theme
-You are using some Google fonts for
+Intensive usage of Google fonts, linked with the theme selected.
 
 - from fonts.googleapis.com
 ``` html
