@@ -20,10 +20,10 @@ The R.O.T.I is to evaluate the return on time invested, at the end of a meeting,
 
 **(iii) I am also a guinea pig!**
 
-For me, it was the occasion to do 3 things :
+For me, it was the occasion to learn 3 things :
 
-1. Step back and give a big picture (practices, know-how, culture) of the Digital Department I am working in FMM.
-2. Achieve the collaboration with Academie from FMM. This training in Digital is a premiere !
+1. A good way to step back and give me a big picture (practices, know-how, culture) of what I am doing in the FMM's DEN.
+2. Achieve my collaboration with Academie from FMM. This training in Digital is a premiere !
 3. On more personal point of view, make a skills assessment what I known about WordPress (WP) on editorials, marketing, technics and so forth on Digital.
 
 
