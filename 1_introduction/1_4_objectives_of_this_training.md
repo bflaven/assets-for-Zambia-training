@@ -3,6 +3,8 @@
 
 Here are few keywords that can summarize what I have been mostly learning by doing. I always tried to withdraw some knowledge from my own experiences, that is the main reason of my personal Blog: to keep track of any experiment and collect Best Practices.
 
+> "Learn-it-all beats Know-it-all", "Continuous Learning", "Learn fast rather than Fail fast"
+
 ### Do not forget User Experience
 Never forget the publishing or user experience. WordPress is one of the best starting point to achieve a great content management. It can even be fun.
 

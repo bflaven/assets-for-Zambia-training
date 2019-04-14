@@ -3,7 +3,7 @@
 **(i) Quick FMM landscape**
 
 *Some critics*
-- FMM has been living in "fat cow" era tremendous amount of means (money, people, indulgence, advantages...) hopefully the company is entering in a thin cow era.
+- FMM has been living in a "fat cow" era tremendous amount of means (money, people, indulgence, advantages...) hopefully the company is entering in a thin cow era.
 
 - There is very talented expert people but too much complexity in processes
 It is very heavy organization, pyramidal with at the top people absolutely unaware of the changing in media consumption.
@@ -155,7 +155,6 @@ https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200ital
 ``` html
 <!-- opensans/v15 -->
 https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2
-
 <!-- oswald/v16 -->
 https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-6hwTus9CAZek1w.woff2
 https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-ohoTus9CAZek1w.woff2

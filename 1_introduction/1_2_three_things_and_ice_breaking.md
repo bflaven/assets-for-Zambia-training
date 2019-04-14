@@ -24,7 +24,7 @@ For me, it was the occasion to do 3 things :
 
 1. Step back and give a big picture (practices, know-how, culture) of the Digital Department I am working in FMM.
 2. Achieve the collaboration with Academie from FMM. This training in Digital is a premiere !
-3. On more personal point of view, make a skills assessment what I known about WP (editorials, marketing, technics) and by extension on Digital.
+3. On more personal point of view, make a skills assessment what I known about WordPress (WP) on editorials, marketing, technics and so forth on Digital.
 
 
 
