@@ -6,20 +6,18 @@
 - FMM has been living in a "fat cow" era tremendous amount of means (money, people, indulgence, advantages...) hopefully the company is entering in a thin cow era.
 
 - There is very talented expert people but too much complexity in processes
-It is very heavy organization, pyramidal with at the top people absolutely unaware of the changing in media consumption.
+It is very heavy organization, pyramidal with at the top people not totally aware of the way you create and manage a digital product.
 
-- The stakeholders (marketing, editorial, technicals) suffering of a lot of misunderstanding, most of them ignore what are doing the other.
+- The stakeholders (marketing, editorial, technicals) suffering from misunderstanding, most of them ignore what are doing the other.
 
-- Strong aversion to change.
-
-- Fear of failure.
+- Strong aversion to change linked with fear of failure.
 
 *Some compliments*
 - There is an obvious desire to reform the way the digital direction works.
 - We try to package feature team on dedicated project.
 - We have adopted scrum agile methodology.
 - Things are getting better.
-- Decision making is become more horizontal, teams become more autonomous and mature but the bad habits are sometime emerging in crisis situation e.g. 
+- Decision making is become more horizontal, teams become more autonomous and mature but the bad habits are sometime emerging in crisis situation.
 
 **(ii) Concretely**
 - Coming from Drupal
