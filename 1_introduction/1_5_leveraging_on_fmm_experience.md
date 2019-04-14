@@ -28,16 +28,16 @@ It is very heavy organization, pyramidal with at the top people not totally awar
 **Using WP remain a good choice, excellent learning curb, many implicit advantages.**
 
 - Buying theme is good starter.
-Think mobile first
-Benchmark other WP websites aof other news websites
-Prospect news source audiences and always goes for quick win.
+- Think mobile first
+- Benchmark other WP websites and other news websites
+- Prospect news source audiences and always goes for quick win.
 
 - Implement Continuous integration (testing, staging and production)
-Define few KPI and improve performance on it
-Avoid complexity between all the stakeholders, choose SMART objectives.
+- Define few KPI (maybe only 1) and improve performance on it
+- Avoid complexity between all the stakeholders, choose SMART objectives.
 
 - Do not tweaking your purchased WP theme.
-Testing and developing your own plugins to extend features is better than twisting WP with existing WP plugins (semi-advanced)
+- Testing and developing your own plugins to extend features is better than twisting WP with existing WP plugins (semi-advanced)
 
 **(iv) Audit ffrom the current website (AUDIT V2 znbc.co.zm)**
 **Some elements from the audit of the website, Here is a quick start for the audit of the website view-source:https://www.znbc.co.zm/**
