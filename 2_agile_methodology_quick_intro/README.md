@@ -176,7 +176,7 @@ Even, if you do not work with a geographically distributed team, having a tool s
 <a id="agile_3_5"></a>
 ### 3.5 Few pictures to remember <a href="#top">&#8593;</a><br>
 
-**Here is some drawings that may help out to defispecifies the outlines these methodologies.**
+**Here is some drawings that may help out to specify the outlines these methodologies.**
 
 **(i) Lean & MVP**<br>
 
