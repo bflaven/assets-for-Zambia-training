@@ -13,6 +13,7 @@ A mix of theoretical and practical elements but the purpose to remain vivid and 
 - **<a href="#agile_3_3">3.3 Sprint Cycle Illustration** &#8595;</a><br>
 - **<a href="#agile_3_4">3.4 One word on Kanban** &#8595;</a><br>
 - **<a href="#agile_3_5">3.5 Tools to manage projects** &#8595;</a><br>
+- **<a href="#agile_3_6">3.6 Few pictures to remember** &#8595;</a><br>
 
 **<a href="#agile_4">4. Boards** &#8595;</a><br>
 
