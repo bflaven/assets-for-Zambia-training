@@ -161,7 +161,7 @@ Kanban is a popular framework used to implement agile software development. It r
 <a id="agile_3_4"></a>
 ### 3.4 Tools to manage projects <a href="#top">&#8593;</a><br>
 
-Even, if you do not work with a geographically distributed team, having a tool shareable, accessible anywhere, is a requirement. Remember that most of what the team must be recorded properly and synthetically.
+Even, if you do not work with a geographically distributed team, having a tool shareable, accessible anywhere, is a requirement. Remember that most of what the team must do, has be recorded properly and synthetically in tickets.
 
 **Using on these tool, with Slack in addition, you should be prepared for any eventuality. We just present the most popular tools on the actual market but a very tedious and exhausted benchmark should be made. It is not only answer the dilemma Free or Paid**
 
@@ -176,11 +176,11 @@ Even, if you do not work with a geographically distributed team, having a tool s
 <a id="agile_3_5"></a>
 ### 3.5 Few pictures to remember <a href="#top">&#8593;</a><br>
 
-**Here is some drawings that may help out to define the of some of this methodologies.**
+**Here is some drawings that may help out to defispecifies the outlines these methodologies.**
 
 **(i) Lean & MVP**<br>
 
-**A drawing that really captures the essence of iterative & incremental development, lean startup, MVP (minimum viable product)**<br>
+**A drawing that really captures the essence of iterative & incremental development, lean startup, MVP (minimum viable product)**<br><br>
 ![A drawing that really captures the essence of iterative & incremental development, lean startup, MVP (minimum viable product)](images/process_scrum/1_agile_methodology_quick_intro_mvp_agile.png)
 
 *Source: <a href="https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp" target="_blank">https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp</a>*
