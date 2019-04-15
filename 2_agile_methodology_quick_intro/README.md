@@ -308,7 +308,7 @@ You have fundamentals form that can help you out in order to project your ideas 
 ## 6. Wireframing <a href="#top">&#8593;</a><br>
 A very helpful way of presenting user stories to anyone: developers, PO, stakeholders. It is a time saver as you are trying to bring to life a user experience.
 
-There is a lot a SAAS or online tools or you can pickup one of the major tool below. The list is far from being an exhaustive list! As there is a tool that
+There is a lot a SAAS or online tools or you can pickup one of the major tool below. The list is far from being an exhaustive as it is real booming market.
 
 <a id="agile_6_1"></a>
 ### 6.1 Online applications <a href="#top">&#8593;</a><br>
