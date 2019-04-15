@@ -20,11 +20,16 @@ I can propose you 2 ways of presenting yourself.
 2.2 The "fun" way &#9731;?
 
 - **10 words that define me**<br>
-Each participant writes a word on a post it and put it on the wall. Then, each participant chooses the words that define themselves
+Each participant writes a word on a post it and put it on the wall. Then, each participant chooses the words that define themselves.
+
+List of adjectives for example: Adaptable, Analytical, Down-to-Earth, Empathetic, Fearless, Generous, Genuine, Humble, Independent, Insightful, Inventive, Knowledgable, Logical, Open-Minded, Passionate, Perceptive, Quick learner, Rebellious, Self-disciplined, Straightforward, Warm, Witty
 
 - **Truth or Lie**<br>
 Everyone says 3 truths and 3 lies about themselves and people need to guess.
 
+1. I am doing sports everyday during lunch.
+2. I am an excellent handyman.
+3. I have never broken a bone.
 
 ### 3. Your expectations about this training?
 
