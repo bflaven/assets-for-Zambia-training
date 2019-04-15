@@ -163,7 +163,7 @@ Kanban is a popular framework used to implement agile software development. It r
 
 Even, if you do not work with a geographically distributed team, having a tool shareable, accessible anywhere, is a requirement. Remember that most of what the team must do, has be recorded properly and synthetically in tickets.
 
-**Using on these tool, with Slack in addition, you should be prepared for any eventuality. We just present the most popular tools on the actual market but a very tedious and exhausted benchmark should be made. It is not only answer the dilemma Free or Paid**
+**Using one of these tools, with Slack in addition, you should be prepared for any eventuality. We just present the most popular tools on the actual market but a very tedious and exhausted benchmark should be made. It is not only to answer the question: Do I take a Free or a Paid tool?**
 
 - Asana: <a href="https://asana.com/" target="_blank">https://asana.com/</a>
 
