@@ -151,8 +151,8 @@ A great view of the sprint in Circle which shows the nesting of all the interact
 *<code>Copyright &copy; Atlassian</code>*
 
 
-
-### 3.3 One word on Kanban <a href="#top">&#8593;</a><br>
+<a id="agile_3_4"></a>
+### 3.4 One word on Kanban <a href="#top">&#8593;</a><br>
 Kanban is a popular framework used to implement agile software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.
 
 
