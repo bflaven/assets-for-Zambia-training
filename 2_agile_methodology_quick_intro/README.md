@@ -370,7 +370,7 @@ Some images from real experiences from website mock-up or wp plugin mock-up.
 *<code>Copyright &copy; medium.com/@pavithraa</code>*
 
 
-**All elements to illustrate Funnel scenario or an Epic, that aggregate User Storie**<br>
+**All elements to illustrate Funnel scenario or an Epic, that aggregates User Stories**<br>
 ![Wireframing with Balsamiq](images/wireframing_sketch/3_agile_methodology_quick_wireframing.jpg)<br>
 *<code>Copyright &copy; oursky.com</code>*
 
