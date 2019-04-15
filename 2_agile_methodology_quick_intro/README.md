@@ -11,6 +11,8 @@ A mix of theoretical and practical elements but the purpose to remain vivid and 
 - **<a href="#agile_3_1">3.1 Scrum Artefacts** &#8595;</a><br>
 - **<a href="#agile_3_2">3.2 Scrum Ceremonies or Events or Rituals** &#8595;</a><br>
 - **<a href="#agile_3_3">3.3 Sprint Cycle Illustration** &#8595;</a><br>
+- **<a href="#agile_3_4">3.4 One word on Kanban** &#8595;</a><br>
+- **<a href="#agile_3_5">3.5 Tools to manage projects** &#8595;</a><br>
 
 **<a href="#agile_4">4. Boards** &#8595;</a><br>
 
@@ -158,8 +160,8 @@ Kanban is a popular framework used to implement agile software development. It r
 
 *Source: <a href="https://www.atlassian.com/agile" target="_blank">https://www.atlassian.com/agile</a>*
 
-<a id="agile_3_4"></a>
-### 3.4 Tools to manage projects <a href="#top">&#8593;</a><br>
+<a id="agile_3_5"></a>
+### 3.5 Tools to manage projects <a href="#top">&#8593;</a><br>
 
 Even, if you do not work with a geographically distributed team, having a tool shareable, accessible anywhere, is a requirement. Remember that most of what the team must do, has be recorded properly and synthetically in tickets.
 
@@ -173,8 +175,8 @@ Even, if you do not work with a geographically distributed team, having a tool s
 
 - Trello: <a href="https://trello.com/" target="_blank">https://trello.com/</a>
 
-<a id="agile_3_5"></a>
-### 3.5 Few pictures to remember <a href="#top">&#8593;</a><br>
+<a id="agile_3_6"></a>
+### 3.6 Few pictures to remember <a href="#top">&#8593;</a><br>
 
 **Here is some drawings that may help out to specify the outlines these methodologies.**
 
