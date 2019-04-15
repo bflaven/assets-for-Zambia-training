@@ -231,7 +231,7 @@ You can use boards, where at a glance, you can visualize the progress of any pro
 
 <a id="agile_5"></a>
 ## 5. Graphic facilitation <a href="#top">&#8593;</a><br>
-One of my favourite occupation that goes pretty well with the previous point. It goes on paper-board, scrapbook...etc. Very easy to initiate, do not think you cannot draw.
+One of my favorite occupation that goes pretty well with the previous point. It is writing/drawing on paper-board or on scrapbook...etc. Very easy to initiate, do not think you cannot draw.
 
 **You can use it in meetings, training, notes taking. The visual content thus created becomes itself the support of the discussion or the formation. Nothing is lost, nothing is created: everything is transformed**
 
