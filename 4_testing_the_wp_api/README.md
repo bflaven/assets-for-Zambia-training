@@ -244,7 +244,7 @@ My objectives for this POC like in the previous post was double.
 2. As it is a POC, my purpose is to be totally autonomous. I do not want to rely on developers in the conception and creation of this API.
 
 
-**Why should I reinvent the wheel ? So why do not leverage on WordPress and especially since the version of WP 4.4, WP has a powerful API.**
+**Why should I reinvent the wheel? So why do not leverage on WordPress and especially since the version of WP 4.4, WP has a powerful API.**
 
 For those, who know already WP, I will just indicate what I will try to make the best of WP using : Post Type, Taxonomy, Custom Fields... etc.
 
@@ -296,7 +296,7 @@ You will get 2 routes with the same methods as you will have for the posts
 *wp/v2/locations*
 
 ``` json
-methods": [
+"methods": [
         "GET",
         "POST"
       ],
