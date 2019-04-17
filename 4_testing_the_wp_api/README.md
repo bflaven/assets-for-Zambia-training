@@ -196,10 +196,10 @@ First of all Symfony or Laravel are MVC Frameworks made in PHP. MVC stands for m
 
 **If you search Worpress vs Symfony or Laravel or the pros and the cons for WordPress against Symfony or Laravel. You will get tons of info without any firm statement on what to do. According me the question is irrelevant, there is no reason to compare the two. You do not compare a carrot with a tomato, do you ? Except if you try to compare each logical element from one to another using analogy.**
 
-**The main benefits of using an MVC architecture are code reusability and separation of concerns. WordPress doesn’t use an MVC architecture, but does in its own way encourage code reuse and separation of concerns.**
+**The main benefits of using an MVC architecture are code reusability and separation of concerns. WordPress doesn't use an MVC architecture, but does in its own way encourage code reuse and separation of concerns.**
 
 
-**How to explain the functioning of WodPress like a MVC-based application?**
+**How to explain the functioning of WordPress like a MVC-based application?**
 
 The end user uses a controller, which manipulates the application state and data via a model, which then updates a view that is shown to the user. 
 
