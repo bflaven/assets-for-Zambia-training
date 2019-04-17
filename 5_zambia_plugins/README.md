@@ -463,7 +463,8 @@ $tadalist->execute();
 
 
 **7. Extra for the theme: add the template for Tadalist**
-We will add a template for our post_type `znbc-tada`, do not forget to go in Settings > Permalinks and reniate and to rebuild the permalinks so it will ba valaible on the frontend.
+We will add a template for our post_type `znbc-tada`, do not forget to go in Settings > Permalinks and reinitiate the permalinks so it will ba valaible on the frontend.
+
 
 ``` bash
 #Copy the 2 files of the default theme eg twentynineteen
