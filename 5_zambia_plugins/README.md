@@ -183,7 +183,7 @@ In OOP PHP, we have three visibility levels for properties and methods of a clas
 
 - `private`: While protected properties and methods are accessible anywhere in the object, the third level "private" is more restrictive. If you have a class with a protected property and a private property and then extend that class in the subclass, you can access the protected property, but not the private property.
 
-The same properties also applies to methods (name of fucntion inside a Class).
+The same properties also applies to methods (name of function inside a Class).
 
 - A public method of a class can be called outside of the class or in a subclass.
 
