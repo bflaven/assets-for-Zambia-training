@@ -366,6 +366,19 @@ WP API has several advantages. I will stress 2 of them.
 
 <!-- part_1 -->
 ### For API WP <a href="#top">&#8593;</a>
+
+
+- Plugin JWT Authentication for WP REST API by Aires Gonçalves<br><a href="https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/" target="_blank">https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/</a> 
+
+
+- Plugin ACF to REST API by Aires Gonçalves<br><a href="https://wordpress.org/plugins/acf-to-rest-api/" target="_blank">https://wordpress.org/plugins/acf-to-rest-api/</a> 
+
+- Plugin Tag: wp-api<br><a href="https://wordpress.org/plugins/tags/wp-api/" target="_blank">https://wordpress.org/plugins/tags/wp-api/</a> 
+
+- Plugin WP REST API Cache by Aires Gonçalves<br><a href="https://wordpress.org/plugins/wp-rest-api-cache/" target="_blank">https://wordpress.org/plugins/wp-rest-api-cache/</a>
+
+
+
   
 - wp-api-menus from Fulvio Notarstefano<br><a href="https://github.com/unfulvio/wp-api-menus/tree/master/includes" target="_blank">https://github.com/unfulvio/wp-api-menus/tree/master/includes</a>
 - Leveraging the WordPress REST API<br><a href="https://cnpagency.com/blog/leveraging-the-wordpress-rest-api/" target="_blank">https://cnpagency.com/blog/leveraging-the-wordpress-rest-api/</a>  
