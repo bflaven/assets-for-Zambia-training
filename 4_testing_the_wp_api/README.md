@@ -360,7 +360,7 @@ In my opinion, the other 2 plugins (REST API Log, REST API Console) are useful b
 
 WP API has several advantages. I will stress 2 of them.
 
-1. Using WP gives the opportunity to anyone to create content that will be displayed in the API. It seems obvious but when you are working with people specialized for instance in Art, Literature or in any area. It is better to let them create the content to avoid any mistakes. Focus on the container and not on the content should be your motto.
+1. Using WP gives the opportunity to anyone to create content that will be displayed in the API. It seems obvious but when you are working with people specialized for instance in Art, Literature or in any area. It is better to let the feature team or the PO create the content to avoid any mistakes. Focus on the container and not on the content should be your motto.
 
 2. With the help of the Plugin WP Rest Routes, you have the ability to design the architecture quickly with all the routes of your future API. Thus, it will give you a living example for your future development with more experienced developers. According to the proverb : « A picture is worth a thousand words ».
 
