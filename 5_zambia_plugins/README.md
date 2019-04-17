@@ -3,7 +3,7 @@
 
 I have made from time to time and for years plugin without asking me what were the good practices in terms of development. I started to apply basically what was advised in how-to, books, posts, anything that was relevant and practical.
 
-**Meanwhile, the development in PHP and the PHP itself have evolved at an incredible pace both under the combined effect of market and usages. That is the very topic of this post: start a learning process and give up some of your past practices, stigma of a fixed mindset, to introduce modern and up-to-date best practices and know-how forged around Object-Oriented Programming (OOP), Namespaces, Package manager and so on.**
+**Meanwhile, the development in PHP and the PHP itself have evolved at an incredible pace under the combined effect of market and usages. So we must catch-up on modern and up-to-date best practices for WP plugin development with Object-Oriented Programming (OOP), Namespaces, Package manager and so on.**
 
 
 
@@ -30,7 +30,7 @@ Well, soon you will get a fly in the ointment. Why? Because, extending WordPress
 **Browsing OOP concepts: Class, Object, Method**<br>
 There is a lot of resources about WP plugin development, quite a lot about OOP (Object Oriented Programming), Class, Object, Method.
 
-**My purpose is to browse quickly the OOP concepts in order to apply them in the WP plugin development process.**
+**My purpose is to browse quickly the OOP concepts in order to apply them in the WP plugin development process. Not to teach you OOP! Right?**
 
 
 The main advantages of using a Class are: maintenance, readability and above all to avoid conflicts with other plugins. One of the biggest limitations of procedural programming (the opposite of OOP — not using classes) is how difficult it is to share variables between functions. This leads to using global variables, which is an overkill.
