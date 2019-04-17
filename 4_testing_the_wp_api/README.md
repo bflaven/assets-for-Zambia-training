@@ -222,7 +222,7 @@ Again, the comparison here doesn’t map one to one, but “views = themes” is
 
 <a id="3_3_api"></a>
 **3.3 Controllers = template loader** <a href="#top">&#8593;</a><br>
-In an MVC framework, the code to process user input (in the form of URLs or $_GET or $_POST data) and decide which models and views to use to handle a request are stored in the controllers. Controller code is generally handled by a programmer and often set up once and forgotten about. The meat of the programming in an MVC application happens in the models and views.
+In an MVC framework, the code to process user input (in the form of URLs or `$_GET` or `$_POST` data) and decide which models and views to use to handle a request are stored in the controllers. Controller code is generally handled by a programmer and often set up once and forgotten about. The meat of the programming in an MVC application happens in the models and views.
 
 
 In WordPress, all page requests (unless they are accessing a cached .html file) are processed through the index.php file and processed by WordPress according to the Template Hierarchy. The template loader figures out which file in the template should be used to display the page to the end user. For example, use search.php to show search results, single.php to show a single post, etc.
