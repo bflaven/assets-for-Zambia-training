@@ -451,7 +451,7 @@ To enable the creation of the post-type named `znbc-tada` with a label `Tada`. W
 
 We will do the same operation (creating a Class and a Helper) for the taxonomy named `znbc-state` with a label `State`
 
-**5. Instantiate the Class in a variable**
+**6. Instantiate the Class in a variable**
  Like always, you still have to instantiate our Class State (which must be seen as a service) when creating our actions. Remember our table: $actions is in our plugin file.
 
 ``` php
@@ -462,7 +462,7 @@ $tadalist->execute();
 
 
 
-**6. Extra for the theme: add the template for Tadalist**
+**7. Extra for the theme: add the template for Tadalist**
 We will add a template for our post_type `znbc-tada`, do not forget to go in Settings > Permalinks and reniate and to rebuild the permalinks so it will ba valaible on the frontend.
 
 ``` bash
