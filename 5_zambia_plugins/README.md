@@ -359,40 +359,7 @@ $ cd /path-to-your-wp-install/
 
 **2. Create your tree directory directory `5_ZNBC_plugin_oop` in `wp-content/plugins/5_ZNBC_plugin_oop`**
 
-<!-- 
 
-cd /Users/brunoflaven/Documents/02_copy/_technical_training_zambia_znbc/000_release_version/5_zambia_plugins/
-
-mkdir 7_ZNBC_plugin_oop
-cd 7_ZNBC_plugin_oop
-
-#Create the plugin file
-touch 7_ZNBC_plugin_oop.php
-
-#Create the dir
-mkdir src
-mkdir src/ZnbcTadalist
-mkdir src/ZnbcTadalist/Models
-mkdir src/ZnbcTadalist/WordPress
-mkdir src/ZnbcTadalist/WordPress/Helpers
-mkdir src/ZnbcTadalist/WordPress/PostType
-mkdir src/ZnbcTadalist/WordPress/Taxonomy
-
-
-#Create the files for Class and Models
-touch src/ZnbcTadalist/ZnbcTadalist.php
-touch src/ZnbcTadalist/Models/HooksAdminInterface.php
-touch src/ZnbcTadalist/Models/HooksFrontInterface.php
-touch src/ZnbcTadalist/Models/HooksInterface.php
-
-
-#Create the files for Helpers and PostType
-touch src/ZnbcTadalist/WordPress/Helpers/PostType.php
-touch src/ZnbcTadalist/WordPress/PostType/Tada.php
-touch src/ZnbcTadalist/WordPress/Taxonomy/State.php
-
-
- -->
 ``` bash
 
 #Be sure to be in the correct directory
