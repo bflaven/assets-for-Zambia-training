@@ -212,13 +212,13 @@ In an MVC framework, the code that stores the underlying data structures and bus
 
 In WordPress, plugins are the proper place to store new data structures, complex business logic, and custom post type definitions.
 
-One way to make the separation of concerns more clear when adding view-like components to your WordPress plugins is to create a “templates” or “pages” folder and put your frontend code into it. Common practice is to allow templates to override the template used by the plugin. For example, when using WordPress with the Paid Memberships Pro plugin, you can place a folder called “paid-memberships-pro/pages” into your active theme to override the default page templates.4
+One way to make the separation of concerns more clear when adding view-like components to your WordPress plugins is to create a "templates" or "pages" folder and put your frontend code into it. Common practice is to allow templates to override the template used by the plugin. For example, when using WordPress with the Paid Memberships Pro plugin, you can place a folder called “paid-memberships-pro/pages” into your active theme to override the default page templates.
 
 <a id="3_2_api"></a>
 **3.2 Views = themes** <a href="#top">&#8593;</a><br>
 In an MVC framework, the code to display data to the user is written in the views. This is where designers will spend the majority of their time.
 In WordPress, themes are the proper place to store templating code and logic.
-Again, the comparison here doesn’t map one to one, but “views = themes” is a good starting point.
+Again, the comparison here doesn't map one to one, but "views = themes" is a good starting point.
 
 <a id="3_3_api"></a>
 **3.3 Controllers = template loader** <a href="#top">&#8593;</a><br>
