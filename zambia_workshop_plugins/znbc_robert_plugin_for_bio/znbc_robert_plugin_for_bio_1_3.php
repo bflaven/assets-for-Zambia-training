@@ -11,7 +11,7 @@
  Plugin Name: znbc_robert_plugin_for_bio_1_2
  Plugin URI: https://www.znbc.com
  Description: Description for znbc_robert_plugin_for_bio plugin made ZNBC team. Workshop to improve the author page + new taxonmy named Languages and extension of my edition capabilities for the journalist post_type
- Version: 1.2
+ Version: 1.3
  Author:ZNBC
  Author URI: https://znbc.com
  * Text Domain: znbc_robert_plugin_for_bio
@@ -29,7 +29,7 @@ Lucky Siwakwi
 Brian Mukuma
 
 */
-
+ 
 
 /* ### JOURNALISTS */
 /*
@@ -41,10 +41,10 @@ journalists (post_type)
  */
 function custom_post_type_journalist() {
   $labels = array(
-  'name'  => 'Journalists', 
-  'singular_name' => 'Journalist',
-  'menu_name' => 'Journalists',
-  'name_admin_bar' => 'Journalists'
+  'name'  => __( 'Journalists', 'znbc_robert_plugin_for_bio'),
+  'singular_name' => __( 'Journalist', 'znbc_robert_plugin_for_bio'),
+  'menu_name' => __( 'Journalists', 'znbc_robert_plugin_for_bio'),
+  'name_admin_bar' => __( 'Journalists', 'znbc_robert_plugin_for_bio')
   );
 
   $args = array(
@@ -102,17 +102,17 @@ Call it expertises (expertises)
 
 function journalist_taxonomy() {
 $labels = array(
-        'name'              => __( 'Expertises' ),
-        'singular_name'     => __( 'Expertise' ),
-        'search_items'      => __( 'Search Expertises' ),
-        'all_items'         => __( 'All Expertises' ),
-        'parent_item'       => __( 'Parent Expertises' ),
-        'parent_item_colon' => __( 'Parent Expertises:' ),
-        'edit_item'         => __( 'Edit Expertise' ), 
-        'update_item'       => __( 'Update Expertise' ),
-        'add_new_item'      => __( 'Add Expertises' ),
-        'new_item_name'     => __( 'New Expertises' ),
-        'menu_name'         => __( 'Expertises' ),
+        'name'              => __( 'Expertises', 'znbc_robert_plugin_for_bio'),
+        'singular_name'     => __( 'Expertise', 'znbc_robert_plugin_for_bio'),
+        'search_items'      => __( 'Search Expertises', 'znbc_robert_plugin_for_bio'),
+        'all_items'         => __( 'All Expertises' , 'znbc_robert_plugin_for_bio'),
+        'parent_item'       => __( 'Parent Expertises', 'znbc_robert_plugin_for_bio' ),
+        'parent_item_colon' => __( 'Parent Expertises:' , 'znbc_robert_plugin_for_bio'),
+        'edit_item'         => __( 'Edit Expertise' , 'znbc_robert_plugin_for_bio'), 
+        'update_item'       => __( 'Update Expertise', 'znbc_robert_plugin_for_bio' ),
+        'add_new_item'      => __( 'Add Expertises' , 'znbc_robert_plugin_for_bio'),
+        'new_item_name'     => __( 'New Expertises', 'znbc_robert_plugin_for_bio' ),
+        'menu_name'         => __( 'Expertises' , 'znbc_robert_plugin_for_bio'),
     ); 
 
        $args = array(
@@ -148,17 +148,17 @@ Silozi
 
 function journalist_taxonomy_languages() {
 $labels = array(
-        'name'              => __( 'Languages' ),
-        'singular_name'     => __( 'Language' ),
-        'search_items'      => __( 'Search Languages' ),
-        'all_items'         => __( 'All Languages' ),
-        'parent_item'       => __( 'Parent Languages' ),
-        'parent_item_colon' => __( 'Parent Languages:' ),
-        'edit_item'         => __( 'Edit Language' ), 
-        'update_item'       => __( 'Update Language' ),
-        'add_new_item'      => __( 'Add Languages' ),
-        'new_item_name'     => __( 'New Languages' ),
-        'menu_name'         => __( 'Languages' ),
+        'name'              => __( 'Languages' , 'znbc_robert_plugin_for_bio'),
+        'singular_name'     => __( 'Language', 'znbc_robert_plugin_for_bio' ),
+        'search_items'      => __( 'Search Languages', 'znbc_robert_plugin_for_bio' ),
+        'all_items'         => __( 'All Languages', 'znbc_robert_plugin_for_bio' ),
+        'parent_item'       => __( 'Parent Languages' , 'znbc_robert_plugin_for_bio'),
+        'parent_item_colon' => __( 'Parent Languages:', 'znbc_robert_plugin_for_bio' ),
+        'edit_item'         => __( 'Edit Language', 'znbc_robert_plugin_for_bio' ), 
+        'update_item'       => __( 'Update Language' , 'znbc_robert_plugin_for_bio'),
+        'add_new_item'      => __( 'Add Languages', 'znbc_robert_plugin_for_bio'),
+        'new_item_name'     => __( 'New Languages' , 'znbc_robert_plugin_for_bio'),
+        'menu_name'         => __( 'Languages' , 'znbc_robert_plugin_for_bio'),
     ); 
 
        $args = array(
