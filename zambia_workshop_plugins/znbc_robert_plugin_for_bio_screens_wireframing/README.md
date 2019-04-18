@@ -25,35 +25,14 @@ znbc_listing_journalists_1.png
 znbc_single_journalists_1.png
 
 
-### Changelog
+**Screen 1 Wireframe znbc listing all journalists**<br>
+![Sprint Cycle](images/znbc_listing_journalists.png)<br>
+*<code>Copyright &copy; ZNBC</code>*
 
-See changelog.txt for older changes.
-
-#### 1.0 - 2017-04-18
-* Fixed: release not bug fox cause no feedback
-* Updated: No update as there is no feedback .
-
-
-### Installation
-
-= Admin Installer via search
-1. Visit the Add New plugin screen and search for "ZNBC".
-2. Click the "Install Now" button.
-3. Activate the plugin.
-
-### Admin Installer via zip
-1. Visit the Add New plugin screen and click the "Upload Plugin" button.
-2. Click the "Browse..." button and select zip file from your computer.
-3. Click "Install Now" button.
+**Screen 2 Wireframe znbc view single journalists**<br>
+![Sprint Cycle](images/znbc_single_journalists_1.png)<br>
+*<code>Copyright &copy; ZNBC</code>*
 
 
-
-### Frequently Asked Questions
-
-#### User documentation
-Notihing for the moment
-
-#### Code/API documentation
-Please check the official documentation
 
 

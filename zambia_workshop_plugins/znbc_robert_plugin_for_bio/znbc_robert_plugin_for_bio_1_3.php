@@ -34,9 +34,7 @@ Brian Mukuma
 /* ### JOURNALISTS */
 /*
 4. Use plural for all post_type and activate for REST API
-
 'show_in_rest' => true,
-
 journalists (post_type)
  */
 function custom_post_type_journalist() {
