@@ -412,7 +412,7 @@ $ composer init
 **3. Update the composer.json with the following code**
 ``` json
 {
-    "name": "5_ZNBC_plugin_oop",
+    "name": "brunoflaven/6_znbc_plugin_oop.php",
     "description": "Manage a ZnbcTadalist in WordPress via an OOP Plugin",
     "license": "GPL",
     "authors": [
