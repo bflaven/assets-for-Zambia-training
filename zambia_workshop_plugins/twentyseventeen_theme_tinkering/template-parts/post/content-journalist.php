@@ -47,6 +47,11 @@
 <b>Facebook: <?php echo get_post_meta(get_the_ID(), 'facebook_account', TRUE); ?></b><br>
 <b>Twitter: <a href="https://twitter.com/<?php echo get_post_meta(get_the_ID(), 'twitter_account', TRUE); ?>" target="_blank" ><?php echo get_post_meta(get_the_ID(), 'twitter_account', TRUE); ?></a></b><br>
 <?php the_terms( $post->ID, 'expertises', 'Expertises: '); ?><br>
+
+<!-- linkedin_account -->
+<b>Linkedin: <a href="https://www.linkedin.com/in/<?php echo get_post_meta(get_the_ID(), 'linkedin_account', TRUE); ?>" target="_blank" ><?php echo get_post_meta(get_the_ID(), 'linkedin_account', TRUE); ?></a></b><br>
+
+
 <!-- // Insert ZNBC for post_type journalist -->
 
 	</header><!-- .entry-header -->
