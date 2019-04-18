@@ -18,7 +18,6 @@ Abstract: Admin to manage in worpress a extended journalist profile with experti
 ### The plugin
 - <a href="./znbc_robert_plugin_for_bio/README.md">**Source code for znbc_robert_plugin_for_bio** &#8594;</a><br>
 
-
 ### The wireframe
 - <a href="./znbc_robert_plugin_for_bio_screens_wireframing/README.md">**Few screens wireframed for znbc_robert_plugin_for_bio** &#8594;</a><br>
 
