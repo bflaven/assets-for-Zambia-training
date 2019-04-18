@@ -8,7 +8,7 @@
  */
 
 /*
- Plugin Name: znbc_robert_plugin_for_bio_1_2
+ Plugin Name: znbc_robert_plugin_for_bio_1_3
  Plugin URI: https://www.znbc.com
  Description: Description for znbc_robert_plugin_for_bio plugin made ZNBC team. Workshop to improve the author page + new taxonmy named Languages and extension of my edition capabilities for the journalist post_type
  Version: 1.3
