@@ -58,7 +58,7 @@ Source: <a href="https://www.wpbeginner.com/wordpress-security/" target="_blank"
 
 <a id="security_2"></a>
 ## 2. In case of hacking<a href="#top">&#8593;</a><br>
-Thinking about being hacked is a requirement when your are managing  a WP's website. It does have to be a obsession but this risk has to be present in your mind. Let say you should do sometime some rehearsal acting like if your site has been truly hacked. In a way, you should see that like a military workout routine or exercises to remain fit and ready!
+Thinking about being hacked is a requirement when your are managing a WP's website. It does have to be a obsession but this risk has to be present in your mind. Let say you should do sometime some rehearsal acting like if your site has been truly hacked. In a way, you should see that like a military workout routine or exercises to remain fit and ready!
 
 We all know that WP is an easy, nice and economic way to make a website or even to run an API for a mobile application. Mostly because WordPress is very simple to take in hand for newbies.
 
@@ -389,7 +389,15 @@ Header set X-XSS-Protection "1; mode=block"
 Header always append X-Frame-Options SAMEORIGIN
 Header set X-Content-Type-Options: "nosniff”
 </ifModule> 
- 
+
+# Block WordPress xmlrpc.php requests
+# Replace 456.456.456.456 with the IP you wish to white list
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+allow from 456.456.456.456
+</Files>
+
 # END SECURITY
 
 ```
