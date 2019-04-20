@@ -75,8 +75,8 @@ For the moment, I am not adding any remote repository on Github for instance. Th
 
 ``` bash
 cd [your-path-to-your-git-demo-directory]
-mkdir /git-demo/
-cd /git-demo/
+mkdir git-demo
+cd /git-demo
 touch index.php
 touch README.md
 
