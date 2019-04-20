@@ -157,8 +157,8 @@ Let's say I have picked a ticket on my agile board. The ticket number is #957567
 
 *All the screen captures can be found in the directory 03_create_a_feature_branch of the Github project*
 
-<a id="5_gitflow"></a> <a href="#top">&#8593;</a>
-## 5. Finish a feature branch in this repository
+<a id="5_gitflow"></a> 
+## 5. Finish a feature branch in this repository <a href="#top">&#8593;</a>
 
 When you finished your work on this branch. It means that you want that your feature be "validated". Concretely, on your board,if you are doing Scrum or Kanban, you may change the status of your ticket from _In progress_ to _Testing_ so it can enter into the acceptance phase or validation phase.
 
