@@ -73,13 +73,15 @@ Before anything, I will create a repository locally named _git-demo_ and add onl
 
 For the moment, I am not adding any remote repository on Github for instance. The purpose will be only to manage the files locally and familiarize both with Gitflow workflow and SourceTree. 
 
-<pre>
+``` bash
 cd [your-path-to-your-git-demo-directory]
 mkdir /git-demo/
 cd /git-demo/
 touch index.php
 touch README.md
-</pre>
+
+```
+
 
 I edited the files and add some content inside. I made the initial commit, it creates the "master". 
 
@@ -217,7 +219,7 @@ https://wordpress.org/news/category/releases/
 ## 7. Finish a release branch <a href="#top">&#8593;</a>
 
 Tagging you release is optional but you better tag it. Remember that will be a milestone in your development history.
-Let's you can indicate a quick description of your commit with help of the tickets for instance e.g. _This is the version 1.0.1 for my project including tickets #9575673, #9575674 Fix: The number in the loop in index.php; Comment the first version of variable paragraph in index.php | Enhancement: The management of accents in index.php | Update: Updated the readme.txt file._
+Let's you can indicate a quick description of your commit with help of the tickets for instance e.g. This is the version 1.0.1 for my project including tickets #9575673, #9575674 Fix: The number in the loop in index.php; Comment the first version of variable paragraph in index.php | Enhancement: The management of accents in index.php | Update: Updated the readme.txt file._
 
 *As you can see in the screen captures my release branch version is 1.0.1 even though the version was 1.0.0, it is only because when I made this captures set the release branch version 1.0.0 was already merged! Apologize for that.*
 
