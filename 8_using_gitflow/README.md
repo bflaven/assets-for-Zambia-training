@@ -51,6 +51,8 @@ These adjectives goes with branches.
 
 **3. Hotfix branches:** are used to create emergency fixes. They are branched directly from a tagged release in the master branch, and when finished are merged back into both master and develop to make sure that the hotfix isn't accidentally lost when the next regular release occurs.
 
+**User stories to progress in Gitflow workflow comprehension**
+
 
 **My user story is very simple: I want to activate the Gitflow workflow on a local repository and discover through SourceTree the main actions attached to the keywords: Feature, Release, Hotfix.**
 
