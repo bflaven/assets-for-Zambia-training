@@ -4,7 +4,9 @@
 **A quick presentation with screen captures of the GitFlow Workflow managed by SourceTree. A best practice whether you develop a WordPress plugin or need to version a final document.**
 
 ### Requirements
-**It is better to have an Active Agile Board (Trello) to link the PO User Story's Ticket Number with estimated PO's business value and charged in complexity by Dev team. The ticket number will be primary key or the linkage between featured Branch and Product's feature.**
+- **It is better to have an Active Agile Board (Trello) to link the PO User Story's Ticket Number with estimated PO's business value and charged in complexity by Dev team. :)**
+
+- **The ticket number will be primary key or the linkage between Dev's featured Branches and PO's Products features.**
 
 
 **<a href="#1_gitflow">1. Intro** &#8595;</a><br>
