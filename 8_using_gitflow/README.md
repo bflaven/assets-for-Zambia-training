@@ -10,8 +10,8 @@
 
 
 **<a href="#1_gitflow">1. Intro** &#8595;</a><br>
-**<a href="#2_gitflow">2. How to set up the workflow Gitflow in a local repository ?** &#8595;</a><br>
-**<a href="#3_gitflow">3. Initialize Gitflow for the repository** &#8595;</a><br>
+**<a href="#2_gitflow">2. How-to set up a repository, locally and on Github?** &#8595;</a><br>
+**<a href="#3_gitflow">3. How-to initialize Gitflow for this repository?** &#8595;</a><br>
 **<a href="#4_gitflow">4. Create a feature branch in this repository** &#8595;</a><br>
 **<a href="#5_gitflow">5. Finish a feature branch in this repository** &#8595;</a><br>
 **<a href="#6_gitflow">6. Start a release branch** &#8595;</a><br>
@@ -63,7 +63,7 @@ These adjectives goes with branches.
 **In a second time, my user story will integrate a remote repository. I will open a remote repository on Github and synchronize it with my local repository via a Gitflow workflow.**
 
 <a id="2_gitflow"></a>
-## 2. How to set up the workflow Gitflow in a local repository ? <a href="#top">&#8593;</a>
+## 2. How-to set up a repository, locally and on Github? <a href="#top">&#8593;</a>
 
 We will see how to setup a local repository and activate the Gitflow workflow.
 
@@ -104,7 +104,7 @@ I edited the files and add some content inside. I made the initial commit, it cr
 *The screen captures can be found in the directory 01_setup_the_repository of the github project*
 
 <a id="3_gitflow"></a>
-## 3. Initialize Gitflow for the repository <a href="#top">&#8593;</a>
+## 3. How-to initialize Gitflow for this repository? <a href="#top">&#8593;</a>
 I am ready to initialize Gitflow using the Gitflow icon. If you click on the icon, Sourcetree will offer. Keep the configuration as it is. As a result, you will have a “master” and a “develop” branch. These 2 branches both share the same files.
 
 **I click on Gitflow icon and keep the configuration as it is for the repository**
