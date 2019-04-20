@@ -238,7 +238,7 @@ Providing guidelines on style (title), optimization for photo,
 
 **Conclusion**<br>
 Maybe it is too conceptual or for a news website, the idea is not so relevant as you are taken in a day to day writing process. But as far as I know you have start to mingle content with ACF. Maintaining a web site remains challenging. Revisions are not visible by search engine.
-I do not know what is your organisation in terms of editing, as there is no reviewing and also you do not have the time to do it.
+I do not know what is your organization in terms of editing, as there is no reviewing and also you do not have the time to do it.
 
 
 **Example for appliance of these recommendations**
@@ -278,7 +278,16 @@ Sometime also, Advertising is key so you have to increase your audience/traffic 
 #### 3.1 Visible On-Page Factors <a href="#top">&#8593;</a><br>
 On-page factors are those criteria of a web page that are dictated by the contents of a web page itself. The visible on-page factors covered here are the following:
 
+<!-- 
+&lt; equal >
+&gt; equal <
+ -->
+
+
 - `Page title`<br>
+The page title is a string of text, defined by contents of the &lt;title&gt; element in the &lt;head&gt; section of the HTML document. The title is visible both in the title bar of a browser window, as well as the headline of a search engine result.
+
+
 ```html 
 <title>my title page</title>
 ```
