@@ -372,13 +372,23 @@ $ wp theme install ultrabootstrap --activate #install and activate the theme ult
 #manage plugin
 $ wp plugin list #list the plugins
 $ wp plugin search "clone" #search for plugin
+# USE the slug to install the plugin
 $ wp plugin install duplicate-post --activate #install and activate Duplicate Post
 
+$ wp plugin search "JWT Authentication" #search for plugin
+# USE the slug to install the plugin
+$ wp plugin install jwt-authentication-for-wp-rest-api --activate #install and activate JWT Authentication
+
+$ wp plugin search "Disable Gutenberg" #search for plugin
+# USE the slug to install the plugin
+$ wp plugin install disable-gutenberg --activate #install and activate Disable Gutenberg
+
+
 #manage update
-$ wp core update #update the fucking WP
-$ wp core update-db #update the fucking DB
-$ wp theme update --all #update the fucking themes
-$ wp plugin update --all #update the fucking plugins
+$ wp core update #update the WP
+$ wp core update-db #update the DB
+$ wp theme update --all #update the themes
+$ wp plugin update --all #update the plugins
 
 #manage content show the list of posts
 $ wp post list
