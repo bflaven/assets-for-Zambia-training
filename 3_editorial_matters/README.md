@@ -184,7 +184,7 @@ Another plugin to link post to another post.
 
 *Source: <a href="https://github.com/scribu/wp-posts-to-posts/wiki/Basic-usage" target="_blank">https://github.com/scribu/wp-posts-to-posts/wiki/Basic-usage</a>*
 
-A nice way to manage also terms in several taxonomlies if you have to do some bulk editing.
+A nice way to manage also terms in several taxonomies if you have to do some bulk editing.
 
 
 To manage terms and change it to new taxonomy.
@@ -237,7 +237,7 @@ Providing guidelines on style (title), optimization for photo,
 - Plugin WP help<br><a href="https://wordpress.org/plugins/wp-help/" target="_blank">https://wordpress.org/plugins/wp-help/</a>
 
 **Conclusion**<br>
-Maybe it is too conceptual or for a news website, the idea is not so relevant as you are taken in a day to day writing process. But as far as I knwon you have start to mingle content with ACF. Maintaining a web site remains challenging. Revisions are not visible by search engine.
+Maybe it is too conceptual or for a news website, the idea is not so relevant as you are taken in a day to day writing process. But as far as I know you have start to mingle content with ACF. Maintaining a web site remains challenging. Revisions are not visible by search engine.
 I do not know what is your organisation in terms of editing, as there is no reviewing and also you do not have the time to do it.
 
 
