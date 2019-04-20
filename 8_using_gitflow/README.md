@@ -45,9 +45,6 @@ The Gitflow workflow defines a strict branch creation model designed around the 
 
 These adjectives goes with branches.
 
-Add some definitions of Feature, Feature, Hotfix for Gitflow workflow
-
-
 **1. Feature branches:** Feature branches also make it easier for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only changes are the changes necessary to get the new feature working. That makes it very easy to see and follow what each collaborator is doing.
 
 **2. Release branches:** When it is time to make a release, a release branch is created off of develop: When the release is finished, the release branch is merged into master and into develop too, to make sure that any changes made in the release branch aren’t accidentally lost by new development.
