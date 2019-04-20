@@ -28,7 +28,7 @@ With no doubt, you can use SourceTree from Atlassian. It is a very comprehensive
 
 After, this small training, you can add a real remote repository to append some commands to your knowledge.
 
-**What is the workflow Gitflow ?**
+**What is the workflow Gitflow?**
 
 A Gitflow workflow is a Git workflow pattern or design published and popularized by Vincent Driessen. The main concept in the pattern is the notion of Branch. 
 
@@ -39,6 +39,21 @@ The Gitflow workflow defines a strict branch creation model designed around the 
 1. Feature
 2. Release
 3. Hotfix
+
+
+**Quick definitions for these 3 keywords.**
+
+These adjectives goes with branches.
+
+Add some definitions of Feature, Feature, Hotfix for Gitflow workflow
+
+
+**1. Feature branches:** Feature branches also make it easier for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only changes are the changes necessary to get the new feature working. That makes it very easy to see and follow what each collaborator is doing.
+
+**2. Release branches:** When it is time to make a release, a release branch is created off of develop: When the release is finished, the release branch is merged into master and into develop too, to make sure that any changes made in the release branch aren’t accidentally lost by new development.
+
+**3. Hotfix branches:** are used to create emergency fixes. They are branched directly from a tagged release in the master branch, and when finished are merged back into both master and develop to make sure that the hotfix isn't accidentally lost when the next regular release occurs.
+
 
 **My user story is very simple: I want to activate the Gitflow workflow on a local repository and discover through SourceTree the main actions attached to the keywords: Feature, Release, Hotfix.**
 
