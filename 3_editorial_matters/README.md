@@ -370,7 +370,7 @@ Search engines use block-level elements, for example `<div>`, `<p>`, or `<table>
 - `Quantity, quality, and relevance of inbound links`<br>
 A site with many inbound links is likely to be relevant because many people voted for it by placing the link on their sites.
  
-A popular web site that links to you prominently that itself has many inbound links and a good repu- tation is likely to mean more than a link from a random page from an unimportant web site with few links. 
+A popular web site that links to you prominently that itself has many inbound links and a good reputation is likely to mean more than a link from a random page from an unimportant web site with few links. 
 
 A search engine is likely to view a link from a semantically related web page or site as more valuable than a link from a random unrelated one.
 
