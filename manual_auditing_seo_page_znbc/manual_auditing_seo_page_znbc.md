@@ -6,7 +6,6 @@ In manual_auditing_seo_page_znbc.md, we will check the main pages: HP, category 
 **2. Think #build-measure-learn feedback loop from Lean Startup Methodology**<br>
 **3. #build-measure-learn it with script for all pages, extrapolate to your objectives**<br>
 **4. Think #Tooling, #Standardization, Dashboards to show results to the entire team on shared TV screen. For repeated tasks, think #ContinuousIntegration, #Industrialization.**<br>
-**5. Think #Tooling, #Standardization, Dashboards to show results to the entire team on shared TV screen. For repeated tasks, think #ContinuousIntegration, #Industrialization.**<br>
 
 ## 1 HP (Homepage)
 SOURCE: view-source:https://www.znbc.co.zm/<br>
