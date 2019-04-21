@@ -6,21 +6,15 @@ Create the README.md at the same with the help of github.
 
 **You must create a git account on one of this service to keep track of your changes in your theme, plugins... etc. This is part of virtuous circle of Continuous Integration advocated by agile methodology.**
 
-**On github**
-| FIELD           | VALUE                                             |
-| ----------------|---------------------------------------------------|
-| Source URL      | https://github.com/bflaven/git-demo               |
-| Destination path| /Users/brunoflaven/Documents/03_git/git-demo      |
-| Name            | git-demo                                          |
+**On github**<br>
+Source URL: https://github.com/bflaven/git-demo<br>
+Destination path: /Users/brunoflaven/Documents/03_git/git-demo<br>
+Name: git-demo<br>
 
-**On bitbucket**
-| FIELD           | VALUE                                             |
-| ----------------|---------------------------------------------------|
-| Source URL      | https://bitbucket.org/bflaven/git-demo               |
-| Destination path| /Users/brunoflaven/Documents/04_bitbucket/git-demo      |
-| Name            | git-demo                                          |
-
-
+**On bitbucket**<br>
+Source URL: https://bitbucket.org/bflaven/git-demo<br>
+Destination path: /Users/brunoflaven/Documents/04_bitbucket/git-demo<br>
+Name: git-demo<br>
 
 
 
