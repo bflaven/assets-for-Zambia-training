@@ -8,12 +8,12 @@ A very quick reminder on How-to tackle a problem and develop a strategy. It mean
 **All the resources used in that article are available in the directory of the Github account @ [/11_Conclusion/](/11_Conclusion/)**
 
 
-**1. To address a strategic but more technical issue e.g. SEO, SMO, SERP... etc**<br>
+**1. 1. To address a strategic but more technical issue e.g. SEO, SMO, SERP or any technical issue for the website (plugin, development).**<br>
 - BUILD: Try to benchmark the 3 first articles you find on the subject. Extract 10 rules that you intend to follow. For each rule associate a concept, a concrete application and a numeric objective (a single significant KPI) e.g improve image SEO (concept), add alt and title for each image (concrete application), image completd for the entire should reach 70% (KPI).
 - MEASURE: Implement these rules and measure your KPIs from a period to another e.g one month to another for instance.
 - LEARN: invalidate or validate each of your rule by comparing the same KPIs.
 
-**2. To address a strategic but more marketing issue.**<br>
+**2. To address a strategic but more marketing issue for the website.**<br>
 Using AARRR will give you the 5 most important metrics for a startup to focus on. That is because these metrics effectively measure your company's growth while at the same time being simple and actionable.
 
 **1. Acquisition — "Where Are Our Users / Customers Coming From?"**<br>
