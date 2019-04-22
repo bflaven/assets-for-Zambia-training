@@ -48,6 +48,12 @@ You must answer to these 3 questions:
 
 **KWASILA!**
 
+**2 you 2 play!**
+
+**ZIKOMO, THANK YOU, MERCI**
+
+
+
 
 
 
