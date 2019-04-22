@@ -46,7 +46,7 @@ You must answer to these 3 questions:
 - Customer Acquisition Rate > Customer Churn Rate = Growth
 - Customer Churn Rate > Customer Acquisition Rate = Burning a lot of money
 
-**Kwasila!**
+**KWASILA!**
 
 
 
