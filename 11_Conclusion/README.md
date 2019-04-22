@@ -19,9 +19,9 @@ A very quick reminder on How-to tackle a problem and develop a strategy. It mean
 
 - **BUILD:** Try to benchmark the 3 first resources you find on the subject. Extract 5 or 10 rules that you intend to follow. For each rule associate a concept (idea), a concrete application (best practice) & a numeric objective (a single significant KPI) e.g improve image SEO (concept), add alt and title for each image (best practice), alt and title image completed for the entire should jump from 10% to 70% both in quality and in quantity (KPI).
 
-- **MEASURE:** Implement these rules and measure your KPIs from a period to another e.g one month to another for instance.
+- **MEASURE:** Implement these rules and measure your KPIs from the first period to another e.g one month to another for instance. Let's call it the scope.
 
-- **LEARN:** Invalidate or validate each of your rule by comparing the same KPIs.
+- **LEARN:** Invalidate or validate each one of your rules by comparing the same KPIs. Narrow your attention on what's really matter!
 
 **2. To address a strategic but more marketing issue for the website.**<br>
 
@@ -34,7 +34,7 @@ You must answer to these 3 questions:
 - What channel is driving the most valuable traffic, in other words, performs best (%) in terms of customer conversion?
 - What channel has the lowest customer acquisition cost ($), i.e. cost per customer converted?
 
-**2. Activation — "How good is the user’s / customer’s first experience?"**<br>
+**2. Activation — "How good is the user's / customer's first experience?"**<br>
 
 **3. Retention — "How many of your customers are you retaining and why are you losing the others?"**<br>
 
