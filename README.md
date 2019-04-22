@@ -41,4 +41,6 @@ An article to help you out to set a proper local environment for WordPress with 
 A series of 2 articles to improve performances of an existing website in WP and to start a WP theme with the best practices with Gulp.
  
 
-
+### Conclusion
+- <a href="./11_conclusion/README.md">**Conclusion** &#8594;</a><br>
+A quick Outro + leftovers + few words in Chichewa.
