@@ -16,14 +16,20 @@ A very quick reminder on How-to tackle a problem and develop a strategy. It mean
 
 
 **1. 1. To address a strategic but more technical issue e.g. SEO, SMO, SERP or any technical issue for the website (plugin, development).**<br>
-- BUILD: Try to benchmark the 3 first resources you find on the subject. Extract 5 or 10 rules that you intend to follow. For each rule associate a concept (idea), a concrete application (best practice) & a numeric objective (a single significant KPI) e.g improve image SEO (concept), add alt and title for each image (best practice), alt and title image completed for the entire should jump from 10% to 70% both in quality and in quantity (KPI).
-- MEASURE: Implement these rules and measure your KPIs from a period to another e.g one month to another for instance.
-- LEARN: invalidate or validate each of your rule by comparing the same KPIs.
+
+- **BUILD:** Try to benchmark the 3 first resources you find on the subject. Extract 5 or 10 rules that you intend to follow. For each rule associate a concept (idea), a concrete application (best practice) & a numeric objective (a single significant KPI) e.g improve image SEO (concept), add alt and title for each image (best practice), alt and title image completed for the entire should jump from 10% to 70% both in quality and in quantity (KPI).
+
+- **MEASURE:** Implement these rules and measure your KPIs from a period to another e.g one month to another for instance.
+
+- **LEARN:** Invalidate or validate each of your rule by comparing the same KPIs.
 
 **2. To address a strategic but more marketing issue for the website.**<br>
-Using AARRR will give you the 5 most important metrics for a startup to focus on. That is because these metrics effectively measure your company's growth while at the same time being simple and actionable.
+
+Using **AARRR** will give you the **5 most important metrics for a startup to focus on**. That is because these metrics effectively measure your company's growth while at the same time being simple and actionable.
 
 **1. Acquisition — "Where Are Our Users / Customers Coming From?"**<br>
+You must answer to these 3 questions:
+
 - What channel is driving the most traffic?
 - What channel is driving the most valuable traffic, in other words, performs best (%) in terms of customer conversion?
 - What channel has the lowest customer acquisition cost ($), i.e. cost per customer converted?
@@ -35,7 +41,8 @@ Using AARRR will give you the 5 most important metrics for a startup to focus on
 **4. Referral — "How can you turn your customers into your advocates?"**<br>
 
 **5. Revenue — "How can you increase revenue?"**<br>
-So what's the best way to increase revenue? By increasing your Customer Lifetime Value (CLV) and decreasing your Customer Acquisition Cost (CAC).
+**So what's the best way to increase revenue? By increasing your Customer Lifetime Value (CLV) and decreasing your Customer Acquisition Cost (CAC).**
+
 - Customer Acquisition Rate > Customer Churn Rate = Growth
 - Customer Churn Rate > Customer Acquisition Rate = Burning a lot of money
 
