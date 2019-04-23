@@ -230,7 +230,7 @@ ServerSignature Off
  
 # Enabling the tracking of symbolic links
 Options +FollowSymLinks
- 
+
 # Time zone selection
 SetEnv TZ Europe/Paris
  

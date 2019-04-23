@@ -83,7 +83,7 @@ The first and one of the easiest is to use a caching extension that supports Gzi
 You can test of the Gzip compression is made correctly with the help of the website.
 - <a href="https://www.giftofspeed.com/gzip-test/" target="_blank">https://www.giftofspeed.com/gzip-test/</a>
 
-**3.2 Use a plugin to enable Gzip compression**
+**3.2 Edit your .htaccess file to enable Gzip compression**
 
 The second way to enable Gzip compression is by editing your .htaccess file.  Most shared hosts use Apache, in which you can simply add the code below to your .htaccess file. You can find your .htaccess file at the root of your WordPress site via FTP.
 
