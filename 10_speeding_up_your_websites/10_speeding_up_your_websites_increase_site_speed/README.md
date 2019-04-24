@@ -360,12 +360,9 @@ WordPress like any CMS relies heavily on its database, at the beginning this dat
 
 Considering that you have a WP installation with all the tables are prefixed by `wp_` and full access to `phpMyAdmin`, we will see what can done to optimize the MySQL database of your WP. 
 
-**11.1 Some optimization queries for `phpMyAdmin`**
 
-``` sql
--- to optimize the WP main table wp_posts
-OPTIMIZE TABLE 'wp_posts'
-```
+**11.1 Some optimization queries for `wp-config.php`**
+
 Some operations that can be conducted by WP itself if you declare them into the wp-config.php file: use the optimization tool, limit the number of post revisions or disable it... etc
 
 ``` php
@@ -377,6 +374,13 @@ define( 'WP_POST_REVISIONS', 2 );
 
 // Post revisions can be completely disabled by adding the following code to your wp-config.php file
 define( 'WP_POST_REVISIONS', false );
+```
+
+**11.2 Some optimization queries for `phpMyAdmin`**
+
+``` sql
+-- to optimize the WP main table wp_posts
+OPTIMIZE TABLE 'wp_posts'
 ```
 
 Some MySQL commands available in `phpMyAdmin`
@@ -410,7 +414,7 @@ You can also clean Spam Comments. If your website receives a lot of spam, you ma
 
 Akismet Anti-Spam - <a href="https://fr.wordpress.org/plugins/akismet/" target="_blank">https://fr.wordpress.org/plugins/akismet/</a>
 
-**11.2 MySQL command to delete spam**
+**11.3 MySQL command to delete spam**
 ``` sql
 --- Spam comments can also be deleted using the following SQL command.
 DELETE FROM wp_comments WHERE comment_approved = 'spam'
@@ -429,14 +433,14 @@ define( 'EMPTY_TRASH_DAYS', 5 ); // 5 days
 define( 'EMPTY_TRASH_DAYS', 0 ); // Zero days
 ```
 
-**11.3 Delete WordPress Transient**
+**11.4 Delete WordPress Transient**
 
 Transient records are stored in the WordPress options table. WordPress Transients offers a simple and standardized way of storing cached data in the database temporarily by giving it a custom name and a timeframe after which it will expire and be deleted.
 
 Use a plugin like Transient Cleaner <a href="https://wordpress.org/plugins/artiss-transient-cleaner/" target="_blank">https://wordpress.org/plugins/artiss-transient-cleaner/</a> remains the simplest solution.
 
 
-**11.4 More information about MySQL optimization for WP**
+**11.5 More information about MySQL optimization for WP**
 
 - WordPress Database Optimization: Tools and Techniques to Improve Performance // <a href="https://www.cloudways.com/blog/wordpress-database-optimization-guide/" target="_blank">https://www.cloudways.com/blog/wordpress-database-optimization-guide/</a>
 
