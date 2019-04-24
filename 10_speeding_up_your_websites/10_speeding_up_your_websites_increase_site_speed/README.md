@@ -402,19 +402,26 @@ OPTIMIZE TABLE `wp_commentmeta`, `wp_comments`, `wp_links`, `wp_options`, `wp_po
 REPAIR TABLE `wp_commentmeta`, `wp_comments`, `wp_links`, `wp_options`, `wp_postmeta`, `wp_posts`, `wp_termmeta`, `wp_terms`, `wp_term_relationships`, `wp_term_taxonomy`, `wp_usermeta`, `wp_users`
 ```
 
-Cleaning the database of all the post revisions. Apparently, this operation improve tremendously the health of your database that has probably inflated due to the number of revisions e.g. "my database was reduced by 59 per cent", no kidding!
+**11.3 Control the revisions**
+
+Cleaning the database of all the post revisions. Apparently, this operation improve tremendously the health of your database that has probably inflated due to the number of revisions e.g. "my database was reduced by 59 per cent, no kidding!"
 
 ``` php
-// Autosave is great fetaure. Did you ever loose one week of work? :( I did so for the sake of your mind, keep the autosave alive, it will not use up much room in your database.
+// Autosave is great feature. Did you ever loose one week of work? :( I did so for the sake of your mind, keep the autosave alive, it will not use up much room in your database.
 // But you can manage the interval of this autosave operation
 define( 'AUTOSAVE_INTERVAL', 160 ); // Seconds
 ```
 
+
+
+**11.4 MySQL command to delete spam**
+
+**Clean Spam Comments**<br>
 You can also clean Spam Comments. If your website receives a lot of spam, you may find that spam comments are taking up a lot of space in your database. Akismet will do the job.
 
 Akismet Anti-Spam - <a href="https://fr.wordpress.org/plugins/akismet/" target="_blank">https://fr.wordpress.org/plugins/akismet/</a>
 
-**11.3 MySQL command to delete spam**
+
 ``` sql
 --- Spam comments can also be deleted using the following SQL command.
 DELETE FROM wp_comments WHERE comment_approved = 'spam'
@@ -433,14 +440,14 @@ define( 'EMPTY_TRASH_DAYS', 5 ); // 5 days
 define( 'EMPTY_TRASH_DAYS', 0 ); // Zero days
 ```
 
-**11.4 Delete WordPress Transient**
+**11.5 Delete WordPress Transient**
 
 Transient records are stored in the WordPress options table. WordPress Transients offers a simple and standardized way of storing cached data in the database temporarily by giving it a custom name and a timeframe after which it will expire and be deleted.
 
 Use a plugin like Transient Cleaner <a href="https://wordpress.org/plugins/artiss-transient-cleaner/" target="_blank">https://wordpress.org/plugins/artiss-transient-cleaner/</a> remains the simplest solution.
 
 
-**11.5 More information about MySQL optimization for WP**
+**11.6 More information about MySQL optimization for WP**
 
 - WordPress Database Optimization: Tools and Techniques to Improve Performance // <a href="https://www.cloudways.com/blog/wordpress-database-optimization-guide/" target="_blank">https://www.cloudways.com/blog/wordpress-database-optimization-guide/</a>
 
