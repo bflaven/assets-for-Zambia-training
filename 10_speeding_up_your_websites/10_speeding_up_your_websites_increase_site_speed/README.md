@@ -363,6 +363,7 @@ Considering that you have a WP installation with all the tables are prefixed by 
 **11.1 Some optimization queries for `phpMyAdmin`**
 
 ``` sql
+-- to optimize the WP main table wp_posts
 OPTIMIZE TABLE 'wp_posts'
 ```
 Some operations that can be conducted by WP itself if you declare them into the wp-config.php file: use the optimization tool, limit the number of post revisions or disable it... etc
