@@ -416,7 +416,6 @@ define( 'AUTOSAVE_INTERVAL', 160 ); // Seconds
 
 **11.4 MySQL command to delete spam**
 
-**Clean Spam Comments**<br>
 You can also clean Spam Comments. If your website receives a lot of spam, you may find that spam comments are taking up a lot of space in your database. Akismet will do the job.
 
 Akismet Anti-Spam - <a href="https://fr.wordpress.org/plugins/akismet/" target="_blank">https://fr.wordpress.org/plugins/akismet/</a>
