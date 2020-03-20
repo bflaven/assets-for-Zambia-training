@@ -3,9 +3,7 @@
 How things run under the hood...
 
 **The session is over. No more files. It has been transfered. Bruno**
-
 **Kwasila boom!**
-
 **Thanks, Zikomo, Merci**
 
 **I made a book of this experience, more I made 3 books!**
@@ -27,6 +25,8 @@ How things run under the hood...
 **Redefining a testing automation strategy for a P.O. with CodeceptJS & WordPress**
 - Github: [https://github.com/bflaven/book-redefining-testing-strategy-agile-po-codeceptjs](https://github.com/bflaven/book-redefining-testing-strategy-agile-po-codeceptjs)
 - Amazon: [https://www.amazon.com/dp/B0865TT96K/](https://www.amazon.com/dp/B0865TT96K/)
+
+
 
 
 
